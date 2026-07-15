@@ -228,7 +228,7 @@ footer .fmono{font-family:var(--mono);font-size:10px;letter-spacing:.1em;text-tr
     </div>
     <div class="sidemeta">
       Papers indexed<strong>__NT__</strong>
-      Journals<strong>__NJ__</strong>
+      Journals covered<strong>__NJALL__</strong>
       Abstracts inline<strong>__NA__</strong>
       New this update<strong>__NNEW__</strong>
     </div>
