@@ -467,7 +467,7 @@ async function selfHeal(){
  const missing=DATA.filter(d=>!d.abstract&&d.id.indexOf("10.")===0);
  if(!missing.length)return;
  healToast("Fetching "+missing.length+" missing abstracts in the background — keep this tab open (~2 min)…");
- const got=[];let netErr=0,unavail=0;
+ const got=[];let netErr=0,unavail=0,denied=0;
  for(const m of missing){
   try{
    const r=await fetch("https://api.elsevier.com/content/abstract/doi/"+encodeURIComponent(m.id)+"?apiKey="+encodeURIComponent(ek)+"&httpAccept=application%2Fjson");
@@ -479,11 +479,17 @@ async function selfHeal(){
     try{const ak=(d["abstracts-retrieval-response"].authkeywords||{})["author-keyword"]||[];
      kws=(Array.isArray(ak)?ak:[ak]).map(x=>x["$"]||"").filter(Boolean);}catch(e){}
     if(ab)got.push({doi:m.id,abstract:ab,keywords:kws.join("; ")});else unavail++;
+   }else if(r.status===401||r.status===403){
+    denied++;
+    if(denied>=8&&got.length===0){
+     healToast("Elsevier refused the key from this network ("+denied+"×). Connect UW VPN / campus Wi-Fi and reload — then this runs by itself.");
+     return;
+    }
    }else{unavail++;}
   }catch(e){netErr++;if(netErr>=5&&got.length===0){healToast("Self-heal stopped: network/CORS blocked ("+netErr+" errors). Tell Claude.");return;}}
   await new Promise(r=>setTimeout(r,400));
  }
- if(!got.length){healToast("Self-heal finished: 0 fetched, "+unavail+" not yet indexed, "+netErr+" errors.");return;}
+ if(!got.length){healToast("Self-heal finished: 0 fetched — "+denied+" refused (off-campus?), "+unavail+" not indexed yet, "+netErr+" errors.");return;}
  if(!got.length)return;
  if(!gt){healToast(got.length+" abstracts fetched — turn on publishing (GitHub token) to queue them");return;}
  try{
