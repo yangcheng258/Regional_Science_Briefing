@@ -174,7 +174,7 @@ ov.row_dimensions[r-1].height = 150
 ws = wb.create_sheet("All papers")
 ws.sheet_view.showGridLines = False
 cols = [("Journal",22),("Group",20),("Date / Issue",15),("Added",12),("Title",58),
-        ("Authors",34),("Type",12),("Themes",26),("Keywords",30),("Abstract",80),("DOI / Link",40)]
+        ("Authors",34),("Type",12),("Themes",26),("Keywords",30),("In brief (AI)",45),("Abstract",80),("DOI / Link",40)]
 for i,(h,w) in enumerate(cols,1):
     c = ws.cell(row=1, column=i, value=h)
     c.font = Font(name=FONT, size=11, bold=True, color="FFFFFF")
@@ -197,16 +197,16 @@ for idx,p in enumerate(papers):
     shade = LIGHT2 if idx%2 else "FFFFFF"
     themes_str = "; ".join(TLABEL.get(t, t) for t in p.get("themes", []))
     vals = [p["journal"], p["group"], p.get("date",""), p.get("added",""), p["title"], p["authors"],
-            ptype(p), themes_str, p["keywords"], p["abstract"] or "— (abstract not auto-retrieved; open via link)", ""]
+            ptype(p), themes_str, p["keywords"], p.get("summary",""), p["abstract"] or "— (abstract not auto-retrieved; open via link)", ""]
     for j,v in enumerate(vals,1):
         c = ws.cell(row=row, column=j, value=v)
         c.font = Font(name=FONT, size=10, color="000000",
-                      italic=(j==10 and not p["abstract"]))
+                      italic=(j==11 and not p["abstract"]))
         c.fill = PatternFill("solid", fgColor=shade)
-        c.alignment = Alignment(wrap_text=(j in (5,6,8,9,10)), vertical="top", horizontal="left")
+        c.alignment = Alignment(wrap_text=(j in (5,6,8,9,10,11)), vertical="top", horizontal="left")
         c.border = border
     # link cell
-    lc = ws.cell(row=row, column=11)
+    lc = ws.cell(row=row, column=12)
     if p["link"]:
         lc.value = p["link"]
         lc.hyperlink = p["link"]
@@ -220,7 +220,7 @@ for idx,p in enumerate(papers):
     row += 1
 
 ws.freeze_panes = "A2"
-ws.auto_filter.ref = f"A1:K{row-1}"
+ws.auto_filter.ref = f"A1:L{row-1}"
 
 # =========================================================
 #  SHEET 3: By-journal counts

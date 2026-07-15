@@ -1,7 +1,7 @@
 # Weekly update runbook — Regional Science Briefing
 
 You are a Claude session running a scheduled weekly update of this repository.
-Follow these steps exactly. The goal: add newly published papers from 15 journals
+Follow these steps exactly. The goal: add newly published papers from the journals listed in data/journals.json (~58)
 to `data/papers.json`, refresh the overview, rebuild `index.html` + `briefing.xlsx`,
 and push. GitHub Pages serves `index.html` automatically.
 
@@ -9,11 +9,16 @@ and push. GitHub Pages serves `index.html` automatically.
 
 - NEVER invent a title, author, abstract, keyword, or DOI. Only record what you
   actually saw on a fetched page or verified API/mirror response. Missing → `""`.
+- The `abstract` field must be the COMPLETE VERBATIM abstract, word-for-word, saved at
+  collection time. NEVER put a summary, paraphrase, or truncation in `abstract` — if you
+  cannot obtain the full verbatim text, leave `""`. Your own one-sentence distillation
+  goes in the separate `summary` field. Save the full data the first time; do not plan
+  to re-search later.
 - Never delete existing entries in `data/papers.json` — this is a growing archive.
 - De-duplicate by DOI (case-insensitive), then by normalized title.
 - Pace web fetches: ~4s sleep between requests; on repeated 429s, wait 60s.
 
-## 1. The 15 journals and the retrieval routes that work
+## 1. Core journal routes (the full coverage list lives in data/journals.json)
 
 Publisher pages of Elsevier (sciencedirect.com), Taylor & Francis (tandfonline.com),
 and Wiley (onlinelibrary.wiley.com) BLOCK automated fetching. Crossref/OpenAlex APIs
@@ -37,8 +42,24 @@ are robots-blocked for WebFetch. Use these proven routes instead:
 | Spatial Economic Analysis (T&F) | same | same |
 | Economic Geography (T&F) | same | same |
 
-Tip: spawn 2–3 parallel general-purpose agents (one per publisher group) with
-explicit anti-fabrication instructions and the pacing rules above.
+### Additional journals (added 2026-07-15) — routes
+| Journal | Route |
+|---|---|
+| American J. of Agricultural Economics, Applied Economic Perspectives & Policy, Geographical Analysis, Int'l J. of Urban and Regional Research (all Wiley) | WebSearch for recent DOIs → abstracts via OUCI |
+| European Review of Agricultural Economics (OUP) | academic.oup.com/erae advance-articles (fetchable) / OUCI |
+| JAERE (UChicago) | WebSearch DOIs 10.1086/* → OUCI |
+| Land Economics (UW Press) | WebSearch / le.uwpress.org / OUCI |
+| JEEM, Ecological Economics, Food Policy, Socio-Economic Planning Sciences, Transportation Research Part A (Elsevier) | IDEAS: eee/jeeman, eee/ecolec, eee/jfpoli, eee/soceps, eee/transa |
+| Cities, Computers Environment & Urban Systems (Elsevier, non-econ) | WebSearch titles/DOIs; abstracts often unavailable |
+| Urban Studies (SAGE) | journals.sagepub.com TOC + OnlineFirst (fetchable, abstracts) |
+| J. Geographical Systems, Networks & Spatial Economics, Asia-Pacific JRS, Applied Spatial Analysis & Policy, Review of Regional Research (Springer) | link.springer.com online-first (fetchable, abstracts) |
+| REGION (ERSA, OA) | region.ersa.org (fetchable) |
+| The Review of Regional Studies (OA) | rrs.scholasticahq.com |
+| Remaining small/regional-language RSAI journals in data/journals.json | check quarterly; skip silently if nothing new — do not spend more than 2 fetches each |
+
+Tip: spawn 3–5 parallel general-purpose agents (one per publisher group) with
+explicit anti-fabrication instructions and the pacing rules above. Prioritize the
+majors; small journals are best-effort.
 
 ## 1b. Journals and themes are DATA, not code
 
@@ -51,6 +72,21 @@ explicit anti-fabrication instructions and the pacing rules above.
   emerges that fits nothing existing — new themes should be rare and deliberate.
   Never rename or delete existing theme ids (links and filters depend on them).
 
+## 1c. RIS inbox — merge before anything else
+
+At the START of every run: if `inbox/` contains any `.ris` or `.json` files (the owner drops
+Scopus exports there, and the website's self-healing feature auto-commits fetched
+abstracts as `scopus-auto-*.json`), run
+`python3 scripts/merge_ris.py`. It fills missing abstracts/keywords/authors by
+DOI/title match, never overwrites existing data, never creates papers, and moves
+processed files to `inbox/processed/`. Mention in your final summary how many
+abstracts it filled.
+
+If more than ~25 papers in the archive still have empty abstracts after the merge,
+add one line to your final summary suggesting the owner do a 5-minute Scopus RIS
+export (the query is documented in inbox/README.md's spirit — journals with walled
+abstracts, PUBYEAR = current year).
+
 ## 2. Merge into data/papers.json
 
 Each record:
@@ -59,7 +95,8 @@ Each record:
  "date": "YYYY-MM-DD or issue string", "title": "...", "authors": "Full Name; Full Name",
  "keywords": "kw1; kw2 or empty", "abstract": "verbatim or empty", "doi": "10.xxxx/... or empty",
  "url": "https://doi.org/<doi> (or publisher PII url if no DOI)", "added": "<today YYYY-MM-DD>",
- "themes": ["1-3 ids from overview.json themes_taxonomy"]}
+ "themes": ["1-3 ids from overview.json themes_taxonomy"],
+ "summary": "ONE sentence you write distilling the finding (labeled as AI-derived on the page)"}
 ```
 - `added` = today's date for new records only. Never change `added` on old records.
 - Journal names must match existing spelling exactly (see ORDER list in scripts/build_html.py).
@@ -69,11 +106,11 @@ Each record:
 ## 3. Refresh data/overview.json
 
 - Update `updated` to today.
-- Revise `themes` (8 max) if new papers shift the picture; otherwise light edits.
-- Revise `picks` (10 max): keep must-reads, swap in strong new papers. The user is an
-  applied/agricultural economist at UW–Madison (regional science, rural, land use) —
-  tilt picks toward applied ag/rural/regional-methods relevance.
-- Keep `deep_dois` in sync with picks (DOIs of picked papers).
+- You may lightly revise theme DESCRIPTIONS in `themes_taxonomy` if new papers shift the
+  picture. Never rename or delete theme ids.
+- The deep-read/picks feature has been REMOVED from the site. Do not create or edit
+  `picks`, `deep_dois`, or `deep_titles`. In your final summary, you may still name 1–2
+  notable new papers (applied ag/rural/regional tilt) for the owner's notification.
 
 ## 4. Rebuild and verify
 

@@ -35,78 +35,7 @@
    "Rural ageing & ethic of care, food insecurity, regenerative agriculture, alternative food, social-farming cooperatives."
   ]
  ],
- "picks": [
-  [
-   "Unintended consequences of place-based & person-based policies: a mechanism-based framework",
-   "Redinger & Ross — Annals of Regional Science",
-   "Reusable scaffold for framing any place-based-policy evaluation."
-  ],
-  [
-   "Impacts of CRA designation on employment with spatial spillovers",
-   "Rupasingha & Goetz — Annals of Regional Science",
-   "Synthetic DID, explicit metro>micro>rural gradient — a rural place-based template."
-  ],
-  [
-   "Transport in low- and middle-income countries",
-   "Storeygard — Reg. Sci. & Urban Economics",
-   "The reference survey for development-transport work."
-  ],
-  [
-   "The urban wage premium in historical perspective",
-   "Butts, Jaworski & Kitchens — RSUE",
-   "Clean long-run (1940-2010) decomposition of agglomeration wage premia."
-  ],
-  [
-   "Uneven Greening: urban-rural income gap during the green transition",
-   "He, Chen & Yu — J. Regional Science",
-   "Distributional green-transition question, directly ag/rural-relevant."
-  ],
-  [
-   "Out of Sight? Creativity-Led Innovation in Rural Regions",
-   "Castaldi, Cortinovis & Tessarin — Economic Geography (OA)",
-   "Trademarks make rural innovation visible — a measurement lesson."
-  ],
-  [
-   "Counterurban migration and regional structural change",
-   "Neyse & Eriksson — Reg. Sci. Policy & Practice",
-   "Post-pandemic counterurbanization meets structural change."
-  ],
-  [
-   "The redistribution of housing wealth caused by rent control",
-   "Ahern & Giacoletti — J. Urban Economics",
-   "Crisp natural experiment; a model policy-evaluation design."
-  ],
-  [
-   "Scales of Inequality: two-stage Theil decomposition, US 1970-2020",
-   "Lee & Breau — Int'l Regional Science Review",
-   "How geographic scale drives your inequality story."
-  ],
-  [
-   "Older people and food insecurity in rural places",
-   "Milbourne, Blake & Chesworth — J. Rural Studies (OA)",
-   "Qualitative depth on rural food access & ageing."
-  ]
- ],
- "deep_dois": [
-  "10.1007/s00168-026-01504-8",
-  "10.1007/s00168-026-01485-8",
-  "10.1016/j.regsciurbeco.2026.104231",
-  "10.1016/j.regsciurbeco.2026.104245",
-  "10.1111/jors.70074",
-  "10.1080/00130095.2026.2654521",
-  "10.1016/j.rspp.2026.100332",
-  "10.1177/01600176261440842",
-  "10.1016/j.jrurstud.2026.104287"
- ],
- "deep_titles": [
-  "The redistribution of housing wealth caused by rent control"
- ],
  "themes_taxonomy": [
-  {
-   "id": "china",
-   "label": "China & urban transformation",
-   "desc": "Subways & firm taxation, treaty-port legacies, city-county mergers, innovation networks, digital-village governance, farmland institutions."
-  },
   {
    "id": "climate",
    "label": "Climate & green transition",
@@ -139,8 +68,57 @@
   },
   {
    "id": "rural",
-   "label": "Rural, food & land",
-   "desc": "Rural communities & care, food systems, agriculture, land use & rights, village governance."
+   "label": "Rural communities & land",
+   "desc": "Rural communities & care, village governance, land use & rights, rural development."
+  },
+  {
+   "id": "agfood",
+   "label": "Agriculture & food",
+   "desc": "Farm production & policy, crop insurance, livestock, food systems & food security."
+  },
+  {
+   "id": "resources",
+   "label": "Natural resources & conservation",
+   "desc": "Forests & deforestation, water, ecosystem services, conservation, resource management."
+  },
+  {
+   "id": "markets",
+   "label": "Markets, trade & prices",
+   "desc": "Commodity & land markets, trade policy, competition, prices & supply chains."
+  },
+  {
+   "id": "health",
+   "label": "Environment & health",
+   "desc": "Pollution & health, nutrition, heat & wellbeing, environmental health outcomes."
   }
- ]
+ ],
+ "site": {
+  "author": "Yang Cheng",
+  "affiliation": "University of Wisconsin–Madison",
+  "tagline": "A personal literature-tracking page for regional science & regional economics.",
+  "how": [
+   "What this is: a rolling, searchable archive of newly published papers across 58 journals — regional science, urban/spatial economics, rural & land studies, and agricultural & environmental economics — with abstracts inline where openly available and a link to the version of record for every paper. It is a personal literature-tracking tool, shared publicly in case it is useful to others.",
+   "How it updates: every Monday morning, an automated Claude (Anthropic) session sweeps the journals' public pages and open bibliographic sources (SpringerLink, SAGE, Oxford University Press, RePEc/IDEAS, Crossref mirrors), adds new papers with a NEW badge, tags them by theme, refreshes the deep-read shortlist, and republishes this page via GitHub Pages. Each update is a Git commit, so the full history is preserved in the repository.",
+   "Self-maintenance: the site fetches missing abstracts automatically (via the owner's devices or the weekly update) and republishes every Monday. Everything here runs without manual upkeep."
+  ],
+  "disclaimers": [
+   "This is a personal project maintained in my individual capacity. It does not represent the views of — and is not affiliated with, sponsored by, or endorsed by — the University of Wisconsin–Madison, any funding agency, or any other organization.",
+   "Content is collected automatically and may contain errors, omissions, or delays. All errors are my own. Always consult the linked version of record before citing.",
+   "Paper titles, abstracts, and metadata remain the copyright of their respective authors and publishers; they are reproduced here from openly accessible sources for research and educational purposes only, with a link to the publisher's version of record for every item.",
+   "This page is not affiliated with or endorsed by any of the listed journals or their publishers.",
+   "Built and maintained with Claude, Anthropic's AI assistant. Paper collection, theme tagging, and summaries are AI-assisted."
+  ],
+  "using": [
+   "Search box — matches words anywhere in titles, authors, abstracts, keywords, journal names, and theme labels; multiple words must all match.",
+   "Theme chips and Journal chips — tap the row label (THEME ▸ / JOURNAL ▸) to unfold all options; one tap filters, counts shown. The small green tags on each paper filter by theme too.",
+   "Published: presets (last month / 3 / 12 months) or exact from–to dates; Update: shows only papers that arrived in one specific Monday update; NEW badges mark the latest batch.",
+   "Sort — by journal, newest/oldest publication date, or title; 'research only' hides book reviews and corrigenda; '› more' expands long abstracts.",
+   "The black DOI button opens the version of record (use institutional library access for paywalled full text); Spreadsheet (top bar) downloads the archive as .xlsx and Data as raw JSON."
+  ],
+  "adding": [
+   "Add a journal: one line in data/journals.json in the GitHub repository — the next weekly update starts covering it (the journal count on this page updates automatically).",
+   "Add or adjust a theme: edit themes_taxonomy in data/overview.json (never rename existing ids).",
+   "Change any wording on this page: edit data/overview.json — or simply ask Claude in a Cowork chat."
+  ]
+ }
 }
