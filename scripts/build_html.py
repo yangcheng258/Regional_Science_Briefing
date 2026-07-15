@@ -130,8 +130,10 @@ details.jgrp[open] summary::before{content:"⌄ "}
 .jcards{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:1px;background:var(--line);border-top:1px solid var(--line)}
 .jcard{display:flex;gap:10px;align-items:center;background:var(--card);padding:10px 12px;text-decoration:none}
 .jcard:hover{background:var(--bg);text-decoration:none}
-.jthumb{width:40px;height:40px;flex:none;display:flex;align-items:center;justify-content:center;
- font-family:var(--mono);font-size:11px;font-weight:500;color:rgba(255,255,255,.95);letter-spacing:.05em}
+.jthumb{width:40px;height:52px;flex:none;display:flex;align-items:center;justify-content:center;
+ font-family:var(--mono);font-size:11px;font-weight:500;color:rgba(255,255,255,.95);letter-spacing:.05em;
+ position:relative;overflow:hidden}
+.jthumb img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
 .jname{font-family:var(--serif);font-size:13.5px;font-weight:500;line-height:1.25;color:var(--fg)}
 .jmeta{font-family:var(--mono);font-size:9px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin-top:2px}
 
@@ -339,7 +341,7 @@ if(jlistEl){
     const a=grad[i%2], b=grad[(i%2)+1];
     const ang=(i*47)%360;
     return `<a class="jcard" href="${j.url||"#"}" target="_blank" rel="noopener">
-      <span class="jthumb" style="background:linear-gradient(${ang}deg,${a},${b})">${initials(j.name)}</span>
+      <span class="jthumb" style="background:linear-gradient(${ang}deg,${a},${b})">${initials(j.name)}${j.img?`<img src="${j.img}" alt="" loading="lazy" onerror="this.remove()">`:""}</span>
       <span><span class="jname">${j.name}</span><br><span class="jmeta">${counts[j.name]?counts[j.name]+" papers · ":""}visit journal ↗</span></span></a>`;
    }).join("")
   }</div></details>`;
