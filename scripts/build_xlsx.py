@@ -15,12 +15,11 @@ def link_for(p):
 for p in papers:
     p["link"] = link_for(p)
 
-# Journal display order
-ORDER = ["Journal of Regional Science","Papers in Regional Science","Annals of Regional Science",
- "Regional Science and Urban Economics","Regional Studies","Spatial Economic Analysis",
- "International Regional Science Review","Regional Science Policy & Practice",
- "Journal of Urban Economics","Journal of Economic Geography","Economic Geography",
- "Environment and Planning A","Journal of Rural Studies","Land Use Policy","Growth and Change"]
+# Journal display order (from data/journals.json — edit that file to add journals)
+JOURNALS = json.load(open(os.path.join(BASE, "data", "journals.json")))
+ORDER = [j["name"] for j in JOURNALS]
+OV2 = json.load(open(os.path.join(BASE, "data", "overview.json")))
+TLABEL = {t["id"]: t["label"] for t in OV2.get("themes_taxonomy", [])}
 papers.sort(key=lambda p:(ORDER.index(p["journal"]) if p["journal"] in ORDER else 99, p.get("date",""))[::1])
 papers.sort(key=lambda p:(ORDER.index(p["journal"]) if p["journal"] in ORDER else 99))
 
@@ -174,8 +173,8 @@ ov.row_dimensions[r-1].height = 150
 # =========================================================
 ws = wb.create_sheet("All papers")
 ws.sheet_view.showGridLines = False
-cols = [("Journal",22),("Group",20),("Date / Issue",15),("Title",58),
-        ("Authors",34),("Type",12),("Keywords",30),("Abstract",80),("DOI / Link",40)]
+cols = [("Journal",22),("Group",20),("Date / Issue",15),("Added",12),("Title",58),
+        ("Authors",34),("Type",12),("Themes",26),("Keywords",30),("Abstract",80),("DOI / Link",40)]
 for i,(h,w) in enumerate(cols,1):
     c = ws.cell(row=1, column=i, value=h)
     c.font = Font(name=FONT, size=11, bold=True, color="FFFFFF")
@@ -196,17 +195,18 @@ def ptype(p):
 row = 2
 for idx,p in enumerate(papers):
     shade = LIGHT2 if idx%2 else "FFFFFF"
-    vals = [p["journal"], p["group"], p.get("date",""), p["title"], p["authors"],
-            ptype(p), p["keywords"], p["abstract"] or "— (abstract not auto-retrieved; open via link)", ""]
+    themes_str = "; ".join(TLABEL.get(t, t) for t in p.get("themes", []))
+    vals = [p["journal"], p["group"], p.get("date",""), p.get("added",""), p["title"], p["authors"],
+            ptype(p), themes_str, p["keywords"], p["abstract"] or "— (abstract not auto-retrieved; open via link)", ""]
     for j,v in enumerate(vals,1):
         c = ws.cell(row=row, column=j, value=v)
         c.font = Font(name=FONT, size=10, color="000000",
-                      italic=(j==8 and not p["abstract"]))
+                      italic=(j==10 and not p["abstract"]))
         c.fill = PatternFill("solid", fgColor=shade)
-        c.alignment = Alignment(wrap_text=(j in (4,5,7,8)), vertical="top", horizontal="left")
+        c.alignment = Alignment(wrap_text=(j in (5,6,8,9,10)), vertical="top", horizontal="left")
         c.border = border
     # link cell
-    lc = ws.cell(row=row, column=9)
+    lc = ws.cell(row=row, column=11)
     if p["link"]:
         lc.value = p["link"]
         lc.hyperlink = p["link"]
@@ -220,7 +220,7 @@ for idx,p in enumerate(papers):
     row += 1
 
 ws.freeze_panes = "A2"
-ws.auto_filter.ref = f"A1:I{row-1}"
+ws.auto_filter.ref = f"A1:K{row-1}"
 
 # =========================================================
 #  SHEET 3: By-journal counts

@@ -40,6 +40,17 @@ are robots-blocked for WebFetch. Use these proven routes instead:
 Tip: spawn 2–3 parallel general-purpose agents (one per publisher group) with
 explicit anti-fabrication instructions and the pacing rules above.
 
+## 1b. Journals and themes are DATA, not code
+
+- `data/journals.json` is the source of truth for the journal list and display order.
+  If the user has added a journal there, include it in your sweep (find a retrieval
+  route per the table above; document the route by appending to this file's table).
+- `data/overview.json` → `themes_taxonomy` is the stable theme list ({id, label, desc}).
+  Assign 1–3 theme ids to EVERY paper you add (field `themes`, judgment call from
+  title/abstract). Only add a NEW taxonomy entry when a clearly distinct literature
+  emerges that fits nothing existing — new themes should be rare and deliberate.
+  Never rename or delete existing theme ids (links and filters depend on them).
+
 ## 2. Merge into data/papers.json
 
 Each record:
@@ -47,7 +58,8 @@ Each record:
 {"journal": "...", "group": "Core regional science|Urban / spatial / econ geography|Rural & land",
  "date": "YYYY-MM-DD or issue string", "title": "...", "authors": "Full Name; Full Name",
  "keywords": "kw1; kw2 or empty", "abstract": "verbatim or empty", "doi": "10.xxxx/... or empty",
- "url": "https://doi.org/<doi> (or publisher PII url if no DOI)", "added": "<today YYYY-MM-DD>"}
+ "url": "https://doi.org/<doi> (or publisher PII url if no DOI)", "added": "<today YYYY-MM-DD>",
+ "themes": ["1-3 ids from overview.json themes_taxonomy"]}
 ```
 - `added` = today's date for new records only. Never change `added` on old records.
 - Journal names must match existing spelling exactly (see ORDER list in scripts/build_html.py).

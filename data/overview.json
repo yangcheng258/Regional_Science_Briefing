@@ -100,5 +100,47 @@
  ],
  "deep_titles": [
   "The redistribution of housing wealth caused by rent control"
+ ],
+ "themes_taxonomy": [
+  {
+   "id": "china",
+   "label": "China & urban transformation",
+   "desc": "Subways & firm taxation, treaty-port legacies, city-county mergers, innovation networks, digital-village governance, farmland institutions."
+  },
+  {
+   "id": "climate",
+   "label": "Climate & green transition",
+   "desc": "Heat & accidents, floods & density, green-transition income gaps, carbon markets, circular economy, environmental quality."
+  },
+  {
+   "id": "housing",
+   "label": "Housing & real estate",
+   "desc": "Rent control, house prices & lending, Airbnb & evictions, zoning, property markets & financialization."
+  },
+  {
+   "id": "policy",
+   "label": "Place-based policy & inequality",
+   "desc": "Structural funds, development zones, CRA, unintended policy consequences, regional inequality measurement."
+  },
+  {
+   "id": "transport",
+   "label": "Transportation",
+   "desc": "Highways, ports & shipping, transit, commuting, travel-time valuation, transport & development."
+  },
+  {
+   "id": "digital",
+   "label": "AI & digital economy",
+   "desc": "AI adoption & exposure, digital transformation, skills demand, crowdfunding, digital talent."
+  },
+  {
+   "id": "labor",
+   "label": "Migration & labor",
+   "desc": "Migration flows, wages & employment gaps, WFH, skills, gender gaps in labor markets."
+  },
+  {
+   "id": "rural",
+   "label": "Rural, food & land",
+   "desc": "Rural communities & care, food systems, agriculture, land use & rights, village governance."
+  }
  ]
 }

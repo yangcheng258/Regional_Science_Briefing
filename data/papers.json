@@ -9,7 +9,11 @@
   "abstract": "Examines high ambient temperatures and road accidents in Taipei City using Poisson PML regression; finds days >27C significantly increase accidents, larger for two-wheel vehicles, driven by psychological risk-taking channels.",
   "doi": "10.1111/jors.70078",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1111/jors.70078"
+  "url": "https://doi.org/10.1111/jors.70078",
+  "themes": [
+   "transport",
+   "climate"
+  ]
  },
  {
   "journal": "Journal of Regional Science",
@@ -21,7 +25,12 @@
   "abstract": "Subway construction raises effective tax rates on local firms via fiscal pressure/implicit debt; incumbent firms see rising profitability/investment/employment but also more exits.",
   "doi": "10.1111/jors.70079",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1111/jors.70079"
+  "url": "https://doi.org/10.1111/jors.70079",
+  "themes": [
+   "transport",
+   "china",
+   "policy"
+  ]
  },
  {
   "journal": "Journal of Regional Science",
@@ -33,7 +42,8 @@
   "abstract": "Introduces a multilevel spatial stochastic frontier model applied to GB NUTS3 industries to explain the UK post-2008 productivity slowdown.",
   "doi": "10.1111/jors.70077",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1111/jors.70077"
+  "url": "https://doi.org/10.1111/jors.70077",
+  "themes": []
  },
  {
   "journal": "Journal of Regional Science",
@@ -45,7 +55,8 @@
   "abstract": "Uses UN World Urbanization Prospects and MGWR to show increasing global adherence to Zipf's law / urban hierarchy integration 1950-2030.",
   "doi": "10.1111/jors.70081",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1111/jors.70081"
+  "url": "https://doi.org/10.1111/jors.70081",
+  "themes": []
  },
  {
   "journal": "Journal of Regional Science",
@@ -57,7 +68,10 @@
   "abstract": "Italy's 2010 mandatory cooperation reform lowered residential (4-6%) and commercial (11-18%) property values via service deterioration.",
   "doi": "10.1111/jors.70076",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1111/jors.70076"
+  "url": "https://doi.org/10.1111/jors.70076",
+  "themes": [
+   "housing"
+  ]
  },
  {
   "journal": "Journal of Regional Science",
@@ -69,7 +83,12 @@
   "abstract": "Finds a U-shaped relationship between green transition and the urban-rural income gap in Chinese cities 2016-2023.",
   "doi": "10.1111/jors.70074",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1111/jors.70074"
+  "url": "https://doi.org/10.1111/jors.70074",
+  "themes": [
+   "climate",
+   "transport",
+   "rural"
+  ]
  },
  {
   "journal": "Journal of Regional Science",
@@ -81,7 +100,12 @@
   "abstract": "China's historic treaty ports (1840s-1910s) show persistent effects on modern inter-city connectivity (banking, migration, airlines, HSR).",
   "doi": "10.1111/jors.70073",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1111/jors.70073"
+  "url": "https://doi.org/10.1111/jors.70073",
+  "themes": [
+   "china",
+   "transport",
+   "labor"
+  ]
  },
  {
   "journal": "Journal of Regional Science",
@@ -93,7 +117,10 @@
   "abstract": "Proposes MCMC control-function estimators for dynamic panel probit models with network interdependence; applied to Chinese firm data.",
   "doi": "10.1111/jors.70072",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1111/jors.70072"
+  "url": "https://doi.org/10.1111/jors.70072",
+  "themes": [
+   "china"
+  ]
  },
  {
   "journal": "Journal of Regional Science",
@@ -105,7 +132,8 @@
   "abstract": "County-level analysis (2016/2020 elections) shows bonding social capital linked to higher Trump vote margins, bridging capital the opposite.",
   "doi": "10.1111/jors.70071",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1111/jors.70071"
+  "url": "https://doi.org/10.1111/jors.70071",
+  "themes": []
  },
  {
   "journal": "Journal of Regional Science",
@@ -117,7 +145,8 @@
   "abstract": "Local crime reduces government reimbursement to PFI partners in England/Wales; moderated by local affluence and urban proximity.",
   "doi": "10.1111/jors.70070",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1111/jors.70070"
+  "url": "https://doi.org/10.1111/jors.70070",
+  "themes": []
  },
  {
   "journal": "Journal of Regional Science",
@@ -129,7 +158,10 @@
   "abstract": "Rising house prices crowd out SME lending and increase mortgage lending, in a UK panel 2014-2021.",
   "doi": "10.1111/jors.70069",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1111/jors.70069"
+  "url": "https://doi.org/10.1111/jors.70069",
+  "themes": [
+   "housing"
+  ]
  },
  {
   "journal": "Journal of Regional Science",
@@ -141,7 +173,12 @@
   "abstract": "As a major form of urban administrative restructuring in China, city-county mergers dismantle boundaries between municipal districts and surrounding counties, creating more integrated local labor markets. Using longitudinal data from the China Household Finance Survey and a difference-in-differences framework, we examine how this restructuring affects gender disparities in labor market outcomes. We find that the reform significantly widens the gender wage gap. Mechanism analysis shows that this gap is driven by several channels, including increased labor competition from migrant inflows, the expansion of manufacturing activity, improvements in transportation infrastructure, and rising housing values. The effects are highly heterogeneous: rural and less-educated women, as well as women in more developed counties, experience the largest losses relative to men.",
   "doi": "10.1111/jors.70068",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1111/jors.70068"
+  "url": "https://doi.org/10.1111/jors.70068",
+  "themes": [
+   "labor",
+   "china",
+   "transport"
+  ]
  },
  {
   "journal": "Journal of Regional Science",
@@ -153,7 +190,10 @@
   "abstract": "Recent advances in autonomous and semi-autonomous vehicle technologies promise substantial cost savings for goods shipped by truck. In this study, we quantify the impacts of these transport cost reductions on the US interstate trade using a structural gravity model of domestic trade. Based on projected cost savings from the widespread adoption of self-driving technologies, we estimate significant increases in total interstate trade value. State-level impacts vary from 40.3% of GDP in Mississippi to 5.9% in Florida, while the largest impacts in dollar value are observed in Texas and New York. The sectoral analysis highlights motorized vehicles, mixed freight, and electronics as the industries experiencing the largest trade value growth. Additionally, goods with low value-to-weight ratios—where shipping costs represent a large share of the delivered value—are expected to benefit most in relative terms. These findings underscore the transformative potential of autonomous vehicle technologies in reshaping US trade patterns and sectoral dynamics.",
   "doi": "10.1111/jors.70067",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1111/jors.70067"
+  "url": "https://doi.org/10.1111/jors.70067",
+  "themes": [
+   "transport"
+  ]
  },
  {
   "journal": "Journal of Regional Science",
@@ -165,7 +205,12 @@
   "abstract": "This paper presents a novel revealed-preference approach to estimating the value of travel time (VTT) and calculating consumer surplus for the economic evaluation of transport infrastructure. Departing from traditional stated-preference models, we derive time valuations by linking residential rental transactions in Greater Sydney to employment accessibility. We estimate a hedonic price function that controls for unobserved amenities and spatial sorting, recovering VTT estimates consistent with current cost-benefit analysis practice. Furthermore, we leverage the non-linearity of the price gradient, as well as cross-market variation in the price gradient, to perform a second-stage regression without instrumental variables, recovering the structural demand function for accessibility. This allows us to quantify welfare changes from non-marginal accessibility shocks, demonstrated on the Sydney Metro West project, grounding project appraisal in revealed spatial behavior.",
   "doi": "10.1111/jors.70065",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1111/jors.70065"
+  "url": "https://doi.org/10.1111/jors.70065",
+  "themes": [
+   "transport",
+   "housing",
+   "labor"
+  ]
  },
  {
   "journal": "Journal of Regional Science",
@@ -177,7 +222,12 @@
   "abstract": "Combining micro data of DZs, land and firm in China, this study examines the impact of DZs on land lease price and its productivity premium by using Boundary Discontinuity (BD) model and the unconditional distribution characteristic-parameter correspondence method. Under the condition of market-oriented allocation of land resources, the increase in land demand brought about by the agglomeration of firms in DZs and the tight supply of land will jointly promote the land lease price in DZs. Moreover, increasing the DZs' land lease price raises the entry threshold of firms, thereby reducing the entry proportion of inefficient firms due to the selection effect, and enhancing the productivity of incumbent firms under the influence of competition and agglomeration effects. Land lease price is an important mediator variable for place-based policy to promote firms' productivity.",
   "doi": "10.1111/jors.70064",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1111/jors.70064"
+  "url": "https://doi.org/10.1111/jors.70064",
+  "themes": [
+   "housing",
+   "policy",
+   "china"
+  ]
  },
  {
   "journal": "Papers in Regional Science",
@@ -189,7 +239,10 @@
   "abstract": "",
   "doi": "10.1016/j.pirs.2026.100155",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1016/j.pirs.2026.100155"
+  "url": "https://doi.org/10.1016/j.pirs.2026.100155",
+  "themes": [
+   "policy"
+  ]
  },
  {
   "journal": "Papers in Regional Science",
@@ -201,7 +254,8 @@
   "abstract": "",
   "doi": "10.1016/j.pirs.2026.100151",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1016/j.pirs.2026.100151"
+  "url": "https://doi.org/10.1016/j.pirs.2026.100151",
+  "themes": []
  },
  {
   "journal": "Papers in Regional Science",
@@ -213,7 +267,10 @@
   "abstract": "",
   "doi": "10.1016/j.pirs.2026.100156",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1016/j.pirs.2026.100156"
+  "url": "https://doi.org/10.1016/j.pirs.2026.100156",
+  "themes": [
+   "labor"
+  ]
  },
  {
   "journal": "Papers in Regional Science",
@@ -225,7 +282,10 @@
   "abstract": "",
   "doi": "10.1016/j.pirs.2026.100154",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1016/j.pirs.2026.100154"
+  "url": "https://doi.org/10.1016/j.pirs.2026.100154",
+  "themes": [
+   "labor"
+  ]
  },
  {
   "journal": "Papers in Regional Science",
@@ -237,7 +297,10 @@
   "abstract": "",
   "doi": "10.1016/j.pirs.2026.100158",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1016/j.pirs.2026.100158"
+  "url": "https://doi.org/10.1016/j.pirs.2026.100158",
+  "themes": [
+   "climate"
+  ]
  },
  {
   "journal": "Papers in Regional Science",
@@ -249,7 +312,11 @@
   "abstract": "",
   "doi": "10.1016/j.pirs.2026.100150",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1016/j.pirs.2026.100150"
+  "url": "https://doi.org/10.1016/j.pirs.2026.100150",
+  "themes": [
+   "climate",
+   "transport"
+  ]
  },
  {
   "journal": "Papers in Regional Science",
@@ -261,7 +328,10 @@
   "abstract": "",
   "doi": "10.1016/j.pirs.2026.100146",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1016/j.pirs.2026.100146"
+  "url": "https://doi.org/10.1016/j.pirs.2026.100146",
+  "themes": [
+   "climate"
+  ]
  },
  {
   "journal": "Papers in Regional Science",
@@ -273,7 +343,10 @@
   "abstract": "",
   "doi": "10.1016/j.pirs.2026.100145",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1016/j.pirs.2026.100145"
+  "url": "https://doi.org/10.1016/j.pirs.2026.100145",
+  "themes": [
+   "china"
+  ]
  },
  {
   "journal": "Papers in Regional Science",
@@ -285,7 +358,10 @@
   "abstract": "",
   "doi": "10.1016/j.pirs.2026.100149",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1016/j.pirs.2026.100149"
+  "url": "https://doi.org/10.1016/j.pirs.2026.100149",
+  "themes": [
+   "labor"
+  ]
  },
  {
   "journal": "Papers in Regional Science",
@@ -297,7 +373,8 @@
   "abstract": "",
   "doi": "10.1016/j.pirs.2026.100148",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1016/j.pirs.2026.100148"
+  "url": "https://doi.org/10.1016/j.pirs.2026.100148",
+  "themes": []
  },
  {
   "journal": "Papers in Regional Science",
@@ -309,7 +386,8 @@
   "abstract": "",
   "doi": "10.1016/j.pirs.2026.100139",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1016/j.pirs.2026.100139"
+  "url": "https://doi.org/10.1016/j.pirs.2026.100139",
+  "themes": []
  },
  {
   "journal": "Papers in Regional Science",
@@ -321,7 +399,11 @@
   "abstract": "",
   "doi": "10.1016/j.pirs.2026.100138",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1016/j.pirs.2026.100138"
+  "url": "https://doi.org/10.1016/j.pirs.2026.100138",
+  "themes": [
+   "housing",
+   "policy"
+  ]
  },
  {
   "journal": "Annals of Regional Science",
@@ -333,7 +415,12 @@
   "abstract": "The COVID-19 pandemic accelerated the adoption of work-from-home (WFH) practices, prompting a structural shift in labor organization and deepening preexisting digital divides. This research examines how gender, family size, and educational attainment shape individual perceptions of remote work, drawing on 2020 data from the Italian National Institute for Public Policy Analysis (INAPP) Survey on Labor Participation and Unemployment. The research uncovers substantial heterogeneity in WFH experiences across social groups, with gender disparities evident in how men and women evaluate flexibility, stress, and work-family balance. Educational background matters primarily through intergenerational pathways—particularly mothers' education—in shaping autonomy and productivity assessments. The study concludes that remote work's digital transformation risks reinforcing existing inequalities without inclusive, gender-sensitive policy interventions.",
   "doi": "10.1007/s00168-026-01469-8",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1007/s00168-026-01469-8"
+  "url": "https://doi.org/10.1007/s00168-026-01469-8",
+  "themes": [
+   "digital",
+   "labor",
+   "policy"
+  ]
  },
  {
   "journal": "Annals of Regional Science",
@@ -345,7 +432,12 @@
   "abstract": "With its distinct advantages of informatization, personalization, and intelligence, digital technology (DT) is becoming integral to industrial green transition (IGT). This paper aims to investigate the complex impact of DT on IGT. To this end, utilizing data across 283 Chinese cities from 2013 to 2022, we employ a two-way fixed-effects model, a mediation model, and a threshold effect model. The results show that (1) DT significantly and positively enhances IGT, as shown by robustness and endogeneity tests; (2) government environmental penalties (GEP) and industrial structure rationalization (ISR) serve as mediation pathways through which DT influences IGT; (3) IGT performance in eastern and central regions, nonresource-based cities, major population-scale cities, and inland cities benefits more from DT than that in other cities; (4) an increase in the DT of neighboring cities not only enhances the IGT of the city itself but also generates spatial spillover effects on neighboring cities; and (5) under a moderate level of government attention (LGA), the positive threshold effect of DT on IGT is most notable. On the basis of these results, this paper proposes targeted policy recommendations, including DT-driven initiatives, enhanced environmental monitoring, industrial structure optimization, regional differentiated development, and an appropriate LGA.",
   "doi": "10.1007/s00168-026-01516-4",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1007/s00168-026-01516-4"
+  "url": "https://doi.org/10.1007/s00168-026-01516-4",
+  "themes": [
+   "climate",
+   "china",
+   "transport"
+  ]
  },
  {
   "journal": "Annals of Regional Science",
@@ -357,7 +449,11 @@
   "abstract": "This paper examines the potential and limitations of related diversification as a regional industrial development strategy in Brazil, drawing on the framework of evolutionary economic geography. Using the concept of regional development traps, we analyze the manufacturing sector across Brazilian microregions between 2012 and 2022, classifying them according to sectoral complexity and relatedness density. The results reveal a highly unequal productive structure, in which more complex and technologically intensive activities occupy central and strongly connected positions, while most regions remain concentrated in peripheral sectors with low connectivity. Microregions in the Southeast and South exhibit higher productive coherence and adaptive capacity, positioning them within self-reinforcing complexity loops. In contrast, most regions in the North, Northeast, and parts of the Central West remain locked in structural traps characterized by low complexity and weak sectoral relatedness. We also find strong temporal persistence and a prevalence of regressive transitions, indicating limited structural mobility and reinforcing long-standing patterns of uneven industrial development. These findings suggest that related diversification is strongly conditioned by initial regional structures and may intensify disparities if implemented through uniform industrial policies. Effective strategies, therefore, require place-based approaches focused on strengthening productive linkages and expanding local capabilities.",
   "doi": "10.1007/s00168-026-01513-7",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1007/s00168-026-01513-7"
+  "url": "https://doi.org/10.1007/s00168-026-01513-7",
+  "themes": [
+   "policy",
+   "transport"
+  ]
  },
  {
   "journal": "Annals of Regional Science",
@@ -369,7 +465,12 @@
   "abstract": "This paper investigates how environmental crime shapes regional development trajectories in Italy. Using regional panel data from 2012 to 2022, the study applies a combination of panel data techniques and a dynamic panel vector autoregression (PVAR) framework to ensure the robustness of the results. The findings show that environmental crimes are associated with lower GDP and formal employment, while being linked to higher irregular employment. The analysis identifies a unidirectional predictive relationship running from environmental crime to GDP and from irregular employment to environmental crime, and a bidirectional relationship between environmental crime and formal employment. These results highlight the damaging role of environmental crime in undermining economic development, reinforcing territorial inequalities, and weakening governance capacities, consistent with its interpretation as locally embedded informal institutions and manifestations of the 'dark side' of social capital. By adopting a place-based development perspective, the paper contributes to broader debates on governance, institutional quality, and uneven territorial development in Europe. It calls for integrated policy strategies that combine enforcement with institutional strengthening to foster fair competition, decent work, and inclusive regional growth.",
   "doi": "10.1007/s00168-026-01511-9",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1007/s00168-026-01511-9"
+  "url": "https://doi.org/10.1007/s00168-026-01511-9",
+  "themes": [
+   "climate",
+   "labor",
+   "policy"
+  ]
  },
  {
   "journal": "Annals of Regional Science",
@@ -381,7 +482,12 @@
   "abstract": "The paper showcases a new spatial microsimulation model, used here to assess the anti-poverty effects of child benefits in Italy (Assegno Unico Universale) and Greece at local level. We assess such effects by comparing the actual income distribution, observed under the current policy regime of income support to families with children, with the counterfactual one, that would have prevailed had the previous system been allowed to continue. We compare the values of the total child poverty gap (an indicator that combines the poverty rate and the poverty gap) under the new and the old policy regimes in 107 provinces in Italy and 74 local administrative units in Greece, equivalent to the NUTS-3 level. Our results reveal considerable heterogeneity at local level and identify areas in which the total child poverty gap appears to have increased, as losers from the reform outnumbered winners at the bottom of the income distribution. The paper informs the debate on the optimal design of income support to families with children and illustrates the potential of spatial microsimulation as a tool for the analysis of the local effects of public policies.",
   "doi": "10.1007/s00168-026-01514-6",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1007/s00168-026-01514-6"
+  "url": "https://doi.org/10.1007/s00168-026-01514-6",
+  "themes": [
+   "policy",
+   "transport",
+   "housing"
+  ]
  },
  {
   "journal": "Annals of Regional Science",
@@ -393,7 +499,11 @@
   "abstract": "Studies rural population shrinkage vs. settlement expansion coupling in Gansu using the Tapio index; identifies four governance-type categories.",
   "doi": "10.1007/s00168-026-01515-5",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1007/s00168-026-01515-5"
+  "url": "https://doi.org/10.1007/s00168-026-01515-5",
+  "themes": [
+   "china",
+   "rural"
+  ]
  },
  {
   "journal": "Annals of Regional Science",
@@ -405,7 +515,10 @@
   "abstract": "Market potential (demand-side) drives entry of path-breaking new industries in Chinese cities via income/demand-structure and productivity/innovation channels.",
   "doi": "10.1007/s00168-026-01512-8",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1007/s00168-026-01512-8"
+  "url": "https://doi.org/10.1007/s00168-026-01512-8",
+  "themes": [
+   "china"
+  ]
  },
  {
   "journal": "Annals of Regional Science",
@@ -417,7 +530,10 @@
   "abstract": "Household survey (n=520) in Komodo Subdistrict, Indonesia on adaptive capacity and willingness to engage in climate learning programs.",
   "doi": "10.1007/s00168-026-01505-7",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1007/s00168-026-01505-7"
+  "url": "https://doi.org/10.1007/s00168-026-01505-7",
+  "themes": [
+   "climate"
+  ]
  },
  {
   "journal": "Annals of Regional Science",
@@ -429,7 +545,11 @@
   "abstract": "DID analysis of 221 Chinese border prefecture cities, 2011-2022; VREP reform reduces border-area air pollution via enhanced regulatory capacity.",
   "doi": "10.1007/s00168-026-01510-w",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1007/s00168-026-01510-w"
+  "url": "https://doi.org/10.1007/s00168-026-01510-w",
+  "themes": [
+   "climate",
+   "china"
+  ]
  },
  {
   "journal": "Annals of Regional Science",
@@ -441,7 +561,10 @@
   "abstract": "Cross-sectional analysis of 1083 Colombian municipalities finds a positive association between market potential and local business tax rates.",
   "doi": "10.1007/s00168-026-01509-3",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1007/s00168-026-01509-3"
+  "url": "https://doi.org/10.1007/s00168-026-01509-3",
+  "themes": [
+   "policy"
+  ]
  },
  {
   "journal": "Annals of Regional Science",
@@ -453,7 +576,10 @@
   "abstract": "A location-scale model shows EAFRD/ERDF funds narrow the dispersion of regional GDP per capita in Italy.",
   "doi": "10.1007/s00168-026-01506-6",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1007/s00168-026-01506-6"
+  "url": "https://doi.org/10.1007/s00168-026-01506-6",
+  "themes": [
+   "policy"
+  ]
  },
  {
   "journal": "Annals of Regional Science",
@@ -465,7 +591,10 @@
   "abstract": "Conceptual framework organizing unintended consequences of regional policy around five mechanisms (displacement, agglomeration, market access, behavioral response, intergenerational spillovers).",
   "doi": "10.1007/s00168-026-01504-8",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1007/s00168-026-01504-8"
+  "url": "https://doi.org/10.1007/s00168-026-01504-8",
+  "themes": [
+   "policy"
+  ]
  },
  {
   "journal": "Annals of Regional Science",
@@ -477,7 +606,12 @@
   "abstract": "Synthetic DID analysis (2012-2019) shows CRA designation raises the employment-to-population ratio with a metro>micro>rural gradient and spatial spillovers.",
   "doi": "10.1007/s00168-026-01485-8",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1007/s00168-026-01485-8"
+  "url": "https://doi.org/10.1007/s00168-026-01485-8",
+  "themes": [
+   "labor",
+   "policy",
+   "rural"
+  ]
  },
  {
   "journal": "Annals of Regional Science",
@@ -489,7 +623,8 @@
   "abstract": "Introduces a fuzzy set theory framework for urban/regional analysis using Dallas-Fort Worth census tract data.",
   "doi": "10.1007/s00168-026-01507-5",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1007/s00168-026-01507-5"
+  "url": "https://doi.org/10.1007/s00168-026-01507-5",
+  "themes": []
  },
  {
   "journal": "Annals of Regional Science",
@@ -501,7 +636,12 @@
   "abstract": "Provincial panel data (China, 2014-2023) on coupling coordination between agricultural digital intelligence and greening.",
   "doi": "10.1007/s00168-026-01508-4",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1007/s00168-026-01508-4"
+  "url": "https://doi.org/10.1007/s00168-026-01508-4",
+  "themes": [
+   "rural",
+   "climate",
+   "digital"
+  ]
  },
  {
   "journal": "Regional Science and Urban Economics",
@@ -513,7 +653,10 @@
   "abstract": "",
   "doi": "10.1016/j.regsciurbeco.2026.104252",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1016/j.regsciurbeco.2026.104252"
+  "url": "https://doi.org/10.1016/j.regsciurbeco.2026.104252",
+  "themes": [
+   "policy"
+  ]
  },
  {
   "journal": "Regional Science and Urban Economics",
@@ -525,7 +668,10 @@
   "abstract": "Studies the persistence of unusually low/high property assessment ratios in Cook County, IL, 1976-2020. (From related working paper; may not exactly match final text.)",
   "doi": "10.1016/j.regsciurbeco.2026.104251",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1016/j.regsciurbeco.2026.104251"
+  "url": "https://doi.org/10.1016/j.regsciurbeco.2026.104251",
+  "themes": [
+   "housing"
+  ]
  },
  {
   "journal": "Regional Science and Urban Economics",
@@ -537,7 +683,11 @@
   "abstract": "Survey of maritime shipping network transformation via containerization, port concentration, Chinese state-owned terminal operators, and welfare/geopolitical implications. (Via NBER w35449.)",
   "doi": "10.1016/j.regsciurbeco.2026.104261",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1016/j.regsciurbeco.2026.104261"
+  "url": "https://doi.org/10.1016/j.regsciurbeco.2026.104261",
+  "themes": [
+   "transport",
+   "china"
+  ]
  },
  {
   "journal": "Regional Science and Urban Economics",
@@ -549,7 +699,11 @@
   "abstract": "",
   "doi": "10.1016/j.regsciurbeco.2026.104249",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1016/j.regsciurbeco.2026.104249"
+  "url": "https://doi.org/10.1016/j.regsciurbeco.2026.104249",
+  "themes": [
+   "transport",
+   "rural"
+  ]
  },
  {
   "journal": "Regional Science and Urban Economics",
@@ -561,7 +715,10 @@
   "abstract": "",
   "doi": "10.1016/j.regsciurbeco.2026.104248",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1016/j.regsciurbeco.2026.104248"
+  "url": "https://doi.org/10.1016/j.regsciurbeco.2026.104248",
+  "themes": [
+   "housing"
+  ]
  },
  {
   "journal": "Regional Science and Urban Economics",
@@ -573,7 +730,10 @@
   "abstract": "",
   "doi": "10.1016/j.regsciurbeco.2026.104250",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1016/j.regsciurbeco.2026.104250"
+  "url": "https://doi.org/10.1016/j.regsciurbeco.2026.104250",
+  "themes": [
+   "transport"
+  ]
  },
  {
   "journal": "Regional Science and Urban Economics",
@@ -585,7 +745,10 @@
   "abstract": "",
   "doi": "10.1016/j.regsciurbeco.2026.104247",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1016/j.regsciurbeco.2026.104247"
+  "url": "https://doi.org/10.1016/j.regsciurbeco.2026.104247",
+  "themes": [
+   "transport"
+  ]
  },
  {
   "journal": "Regional Science and Urban Economics",
@@ -597,7 +760,12 @@
   "abstract": "",
   "doi": "10.1016/j.regsciurbeco.2026.104246",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1016/j.regsciurbeco.2026.104246"
+  "url": "https://doi.org/10.1016/j.regsciurbeco.2026.104246",
+  "themes": [
+   "china",
+   "transport",
+   "labor"
+  ]
  },
  {
   "journal": "Regional Science and Urban Economics",
@@ -609,7 +777,10 @@
   "abstract": "",
   "doi": "10.1016/j.regsciurbeco.2026.104244",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1016/j.regsciurbeco.2026.104244"
+  "url": "https://doi.org/10.1016/j.regsciurbeco.2026.104244",
+  "themes": [
+   "transport"
+  ]
  },
  {
   "journal": "Regional Science and Urban Economics",
@@ -621,7 +792,10 @@
   "abstract": "Estimates the US urban wage premium 1940-2010 controlling for sorting; the premium was highest mid-20th century (~12%), declining to a few percent by 2010. (Via NBER w31387.)",
   "doi": "10.1016/j.regsciurbeco.2026.104245",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1016/j.regsciurbeco.2026.104245"
+  "url": "https://doi.org/10.1016/j.regsciurbeco.2026.104245",
+  "themes": [
+   "labor"
+  ]
  },
  {
   "journal": "Regional Science and Urban Economics",
@@ -633,7 +807,10 @@
   "abstract": "",
   "doi": "10.1016/j.regsciurbeco.2026.104243",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1016/j.regsciurbeco.2026.104243"
+  "url": "https://doi.org/10.1016/j.regsciurbeco.2026.104243",
+  "themes": [
+   "housing"
+  ]
  },
  {
   "journal": "Regional Science and Urban Economics",
@@ -645,7 +822,10 @@
   "abstract": "",
   "doi": "10.1016/j.regsciurbeco.2026.104234",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1016/j.regsciurbeco.2026.104234"
+  "url": "https://doi.org/10.1016/j.regsciurbeco.2026.104234",
+  "themes": [
+   "transport"
+  ]
  },
  {
   "journal": "Regional Science and Urban Economics",
@@ -657,7 +837,8 @@
   "abstract": "",
   "doi": "10.1016/j.regsciurbeco.2026.104232",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1016/j.regsciurbeco.2026.104232"
+  "url": "https://doi.org/10.1016/j.regsciurbeco.2026.104232",
+  "themes": []
  },
  {
   "journal": "Regional Science and Urban Economics",
@@ -669,7 +850,10 @@
   "abstract": "",
   "doi": "10.1016/j.regsciurbeco.2026.104233",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1016/j.regsciurbeco.2026.104233"
+  "url": "https://doi.org/10.1016/j.regsciurbeco.2026.104233",
+  "themes": [
+   "transport"
+  ]
  },
  {
   "journal": "Regional Science and Urban Economics",
@@ -681,7 +865,12 @@
   "abstract": "Survey of transportation economics in poor/middle-income countries covering urban informal transit, gender, BRT, congestion policy, colonial legacy, and rural roads. (Via NBER w34354.)",
   "doi": "10.1016/j.regsciurbeco.2026.104231",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1016/j.regsciurbeco.2026.104231"
+  "url": "https://doi.org/10.1016/j.regsciurbeco.2026.104231",
+  "themes": [
+   "transport",
+   "policy",
+   "labor"
+  ]
  },
  {
   "journal": "Regional Studies",
@@ -693,7 +882,8 @@
   "abstract": "",
   "doi": "10.1080/00343404.2026.2679523",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1080/00343404.2026.2679523"
+  "url": "https://doi.org/10.1080/00343404.2026.2679523",
+  "themes": []
  },
  {
   "journal": "Regional Studies",
@@ -705,7 +895,11 @@
   "abstract": "",
   "doi": "10.1080/00343404.2026.2688966",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1080/00343404.2026.2688966"
+  "url": "https://doi.org/10.1080/00343404.2026.2688966",
+  "themes": [
+   "policy",
+   "labor"
+  ]
  },
  {
   "journal": "Regional Studies",
@@ -717,7 +911,11 @@
   "abstract": "",
   "doi": "10.1080/00343404.2026.2688962",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1080/00343404.2026.2688962"
+  "url": "https://doi.org/10.1080/00343404.2026.2688962",
+  "themes": [
+   "labor",
+   "china"
+  ]
  },
  {
   "journal": "Regional Studies",
@@ -729,7 +927,11 @@
   "abstract": "",
   "doi": "10.1080/00343404.2026.2688960",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1080/00343404.2026.2688960"
+  "url": "https://doi.org/10.1080/00343404.2026.2688960",
+  "themes": [
+   "labor",
+   "digital"
+  ]
  },
  {
   "journal": "Regional Studies",
@@ -741,7 +943,12 @@
   "abstract": "",
   "doi": "10.1080/00343404.2026.2688957",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1080/00343404.2026.2688957"
+  "url": "https://doi.org/10.1080/00343404.2026.2688957",
+  "themes": [
+   "climate",
+   "policy",
+   "transport"
+  ]
  },
  {
   "journal": "Regional Studies",
@@ -753,7 +960,10 @@
   "abstract": "",
   "doi": "10.1080/00343404.2026.2681662",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1080/00343404.2026.2681662"
+  "url": "https://doi.org/10.1080/00343404.2026.2681662",
+  "themes": [
+   "labor"
+  ]
  },
  {
   "journal": "Regional Studies",
@@ -765,7 +975,8 @@
   "abstract": "",
   "doi": "10.1080/00343404.2026.2685047",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1080/00343404.2026.2685047"
+  "url": "https://doi.org/10.1080/00343404.2026.2685047",
+  "themes": []
  },
  {
   "journal": "Regional Studies",
@@ -777,7 +988,11 @@
   "abstract": "",
   "doi": "10.1080/00343404.2026.2681660",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1080/00343404.2026.2681660"
+  "url": "https://doi.org/10.1080/00343404.2026.2681660",
+  "themes": [
+   "climate",
+   "labor"
+  ]
  },
  {
   "journal": "Regional Studies",
@@ -789,7 +1004,10 @@
   "abstract": "",
   "doi": "10.1080/00343404.2026.2682501",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1080/00343404.2026.2682501"
+  "url": "https://doi.org/10.1080/00343404.2026.2682501",
+  "themes": [
+   "housing"
+  ]
  },
  {
   "journal": "Regional Studies",
@@ -801,7 +1019,8 @@
   "abstract": "",
   "doi": "10.1080/00343404.2026.2682498",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1080/00343404.2026.2682498"
+  "url": "https://doi.org/10.1080/00343404.2026.2682498",
+  "themes": []
  },
  {
   "journal": "Regional Studies",
@@ -813,7 +1032,8 @@
   "abstract": "",
   "doi": "10.1080/00343404.2026.2682503",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1080/00343404.2026.2682503"
+  "url": "https://doi.org/10.1080/00343404.2026.2682503",
+  "themes": []
  },
  {
   "journal": "Regional Studies",
@@ -825,7 +1045,10 @@
   "abstract": "",
   "doi": "10.1080/00343404.2026.2681659",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1080/00343404.2026.2681659"
+  "url": "https://doi.org/10.1080/00343404.2026.2681659",
+  "themes": [
+   "digital"
+  ]
  },
  {
   "journal": "Regional Studies",
@@ -837,7 +1060,10 @@
   "abstract": "",
   "doi": "10.1080/00343404.2026.2676238",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1080/00343404.2026.2676238"
+  "url": "https://doi.org/10.1080/00343404.2026.2676238",
+  "themes": [
+   "policy"
+  ]
  },
  {
   "journal": "Regional Studies",
@@ -849,7 +1075,8 @@
   "abstract": "",
   "doi": "10.1080/00343404.2026.2685439",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1080/00343404.2026.2685439"
+  "url": "https://doi.org/10.1080/00343404.2026.2685439",
+  "themes": []
  },
  {
   "journal": "Regional Studies",
@@ -861,7 +1088,8 @@
   "abstract": "",
   "doi": "10.1080/00343404.2026.2676262",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1080/00343404.2026.2676262"
+  "url": "https://doi.org/10.1080/00343404.2026.2676262",
+  "themes": []
  },
  {
   "journal": "Spatial Economic Analysis",
@@ -873,7 +1101,8 @@
   "abstract": "",
   "doi": "10.1080/17421772.2026.2692317",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1080/17421772.2026.2692317"
+  "url": "https://doi.org/10.1080/17421772.2026.2692317",
+  "themes": []
  },
  {
   "journal": "Spatial Economic Analysis",
@@ -885,7 +1114,10 @@
   "abstract": "",
   "doi": "10.1080/17421772.2026.2671849",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1080/17421772.2026.2671849"
+  "url": "https://doi.org/10.1080/17421772.2026.2671849",
+  "themes": [
+   "china"
+  ]
  },
  {
   "journal": "Spatial Economic Analysis",
@@ -897,7 +1129,8 @@
   "abstract": "",
   "doi": "10.1080/17421772.2026.2685648",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1080/17421772.2026.2685648"
+  "url": "https://doi.org/10.1080/17421772.2026.2685648",
+  "themes": []
  },
  {
   "journal": "Spatial Economic Analysis",
@@ -909,7 +1142,10 @@
   "abstract": "",
   "doi": "10.1080/17421772.2026.2685647",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1080/17421772.2026.2685647"
+  "url": "https://doi.org/10.1080/17421772.2026.2685647",
+  "themes": [
+   "digital"
+  ]
  },
  {
   "journal": "Spatial Economic Analysis",
@@ -921,7 +1157,8 @@
   "abstract": "",
   "doi": "10.1080/17421772.2026.2682825",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1080/17421772.2026.2682825"
+  "url": "https://doi.org/10.1080/17421772.2026.2682825",
+  "themes": []
  },
  {
   "journal": "Spatial Economic Analysis",
@@ -933,7 +1170,11 @@
   "abstract": "",
   "doi": "10.1080/17421772.2026.2668382",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1080/17421772.2026.2668382"
+  "url": "https://doi.org/10.1080/17421772.2026.2668382",
+  "themes": [
+   "china",
+   "policy"
+  ]
  },
  {
   "journal": "Spatial Economic Analysis",
@@ -945,7 +1186,8 @@
   "abstract": "",
   "doi": "10.1080/17421772.2026.2668370",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1080/17421772.2026.2668370"
+  "url": "https://doi.org/10.1080/17421772.2026.2668370",
+  "themes": []
  },
  {
   "journal": "Spatial Economic Analysis",
@@ -957,7 +1199,10 @@
   "abstract": "",
   "doi": "10.1080/17421772.2026.2668372",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1080/17421772.2026.2668372"
+  "url": "https://doi.org/10.1080/17421772.2026.2668372",
+  "themes": [
+   "labor"
+  ]
  },
  {
   "journal": "Spatial Economic Analysis",
@@ -969,7 +1214,10 @@
   "abstract": "",
   "doi": "10.1080/17421772.2026.2660736",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1080/17421772.2026.2660736"
+  "url": "https://doi.org/10.1080/17421772.2026.2660736",
+  "themes": [
+   "climate"
+  ]
  },
  {
   "journal": "Spatial Economic Analysis",
@@ -981,7 +1229,11 @@
   "abstract": "",
   "doi": "10.1080/17421772.2026.2662381",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1080/17421772.2026.2662381"
+  "url": "https://doi.org/10.1080/17421772.2026.2662381",
+  "themes": [
+   "transport",
+   "labor"
+  ]
  },
  {
   "journal": "Spatial Economic Analysis",
@@ -993,7 +1245,8 @@
   "abstract": "",
   "doi": "10.1080/17421772.2026.2650132",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1080/17421772.2026.2650132"
+  "url": "https://doi.org/10.1080/17421772.2026.2650132",
+  "themes": []
  },
  {
   "journal": "Spatial Economic Analysis",
@@ -1005,7 +1258,8 @@
   "abstract": "",
   "doi": "10.1080/17421772.2026.2662378",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1080/17421772.2026.2662378"
+  "url": "https://doi.org/10.1080/17421772.2026.2662378",
+  "themes": []
  },
  {
   "journal": "Spatial Economic Analysis",
@@ -1017,7 +1271,10 @@
   "abstract": "",
   "doi": "10.1080/17421772.2026.2662375",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1080/17421772.2026.2662375"
+  "url": "https://doi.org/10.1080/17421772.2026.2662375",
+  "themes": [
+   "digital"
+  ]
  },
  {
   "journal": "Spatial Economic Analysis",
@@ -1029,7 +1286,11 @@
   "abstract": "",
   "doi": "10.1080/17421772.2026.2655698",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1080/17421772.2026.2655698"
+  "url": "https://doi.org/10.1080/17421772.2026.2655698",
+  "themes": [
+   "climate",
+   "housing"
+  ]
  },
  {
   "journal": "Spatial Economic Analysis",
@@ -1041,7 +1302,8 @@
   "abstract": "",
   "doi": "10.1080/17421772.2026.2649616",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1080/17421772.2026.2649616"
+  "url": "https://doi.org/10.1080/17421772.2026.2649616",
+  "themes": []
  },
  {
   "journal": "International Regional Science Review",
@@ -1053,7 +1315,10 @@
   "abstract": "Ensuring the social acceptance of disaster management policies and promoting the well-being of residents in safe environments requires consideration not only of objective risk levels but also of subjective risk perception. This study distinguishes between natural and man-made disasters to analyze factors influencing risk perception. Using pooled cross-sectional data from four waves of Statistics Korea's Social Survey (2018-2024), a binary logistic model shows coping knowledge reduces fear associated with risk perception, but its effect varies by health status. Regional emergency response accessibility mitigates perceived risk of natural disasters, highlighting the importance of accessibility to emergency services in strengthening disaster response capacity.",
   "doi": "10.1177/01600176261463758",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1177/01600176261463758"
+  "url": "https://doi.org/10.1177/01600176261463758",
+  "themes": [
+   "climate"
+  ]
  },
  {
   "journal": "International Regional Science Review",
@@ -1065,7 +1330,12 @@
   "abstract": "Digital talent mobility is crucial for enhancing regional competitiveness, yet its influencing factors exhibit notable spatio-temporal heterogeneity. This study examines how interacting macro-, meso-, and micro-level factors shape digital talent mobility across urban agglomerations in China. GeoDetector identifies key interaction effects, incorporated into a Geographically and Temporally Neural Network Weighted Regression model. Effects of macroeconomic and industrial conditions are highly uneven across space and time, further shaped by healthcare provision and air quality. Findings support more differentiated regional talent policies.",
   "doi": "10.1177/01600176261457907",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1177/01600176261457907"
+  "url": "https://doi.org/10.1177/01600176261457907",
+  "themes": [
+   "labor",
+   "digital",
+   "china"
+  ]
  },
  {
   "journal": "International Regional Science Review",
@@ -1077,7 +1347,11 @@
   "abstract": "Based on triple helix theory and innovation network theory, this study constructs a theoretical framework of the urban collaborative innovation system. Using invention patent data of 30 innovative cities from 2014 to 2023, it examines characteristics, evolution, and synergetic degree of the urban innovation system in China. Inter-city cooperation evolved from a 'dual-core driven' to a 'multi-center driven' structure; university-industry bilateral relationships within cities are closest; the Yangtze River Delta and Guangdong-Hong Kong-Macao Greater Bay Area show the strongest inter-city correlation.",
   "doi": "10.1177/01600176261457906",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1177/01600176261457906"
+  "url": "https://doi.org/10.1177/01600176261457906",
+  "themes": [
+   "china",
+   "labor"
+  ]
  },
  {
   "journal": "International Regional Science Review",
@@ -1089,7 +1363,12 @@
   "abstract": "Investigates how smart specialisation strategies (S3) in Swedish regions are evolving to align with the European Green Deal (EGD). Drawing on content analysis of 14 S3 strategies from seven regions across two EU programme periods (2014-2020 and 2021-2027), it explores integration of EGD focus areas and cross-sectoral transformative goals. While energy, industry, and food systems are commonly addressed, integration varies; traditional innovation approaches remain dominant, with emerging mission-oriented ambitions but limited inclusion of broader societal actors.",
   "doi": "10.1177/01600176261445985",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1177/01600176261445985"
+  "url": "https://doi.org/10.1177/01600176261445985",
+  "themes": [
+   "digital",
+   "climate",
+   "transport"
+  ]
  },
  {
   "journal": "International Regional Science Review",
@@ -1101,7 +1380,12 @@
   "abstract": "Applies a two-stage nested Theil decomposition to examine the role of geographical scale in describing inter-regional income inequalities over 1970-2020, using quasi-states, commuting zones, and counties. Inter-regional inequalities increase over time across all three scales, but the speed varies; by 2020, inequalities within commuting zones explain the largest portion, suggesting smaller-scale divergence within local labor market areas is a key driver of the recent rise in inter-regional inequality.",
   "doi": "10.1177/01600176261440842",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1177/01600176261440842"
+  "url": "https://doi.org/10.1177/01600176261440842",
+  "themes": [
+   "policy",
+   "transport",
+   "labor"
+  ]
  },
  {
   "journal": "Regional Science Policy & Practice",
@@ -1113,7 +1397,10 @@
   "abstract": "",
   "doi": "10.1016/j.rspp.2026.100328",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1016/j.rspp.2026.100328"
+  "url": "https://doi.org/10.1016/j.rspp.2026.100328",
+  "themes": [
+   "policy"
+  ]
  },
  {
   "journal": "Regional Science Policy & Practice",
@@ -1125,7 +1412,10 @@
   "abstract": "",
   "doi": "10.1016/j.rspp.2026.100329",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1016/j.rspp.2026.100329"
+  "url": "https://doi.org/10.1016/j.rspp.2026.100329",
+  "themes": [
+   "policy"
+  ]
  },
  {
   "journal": "Regional Science Policy & Practice",
@@ -1137,7 +1427,10 @@
   "abstract": "",
   "doi": "10.1016/j.rspp.2026.100327",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1016/j.rspp.2026.100327"
+  "url": "https://doi.org/10.1016/j.rspp.2026.100327",
+  "themes": [
+   "policy"
+  ]
  },
  {
   "journal": "Regional Science Policy & Practice",
@@ -1149,7 +1442,10 @@
   "abstract": "",
   "doi": "10.1016/j.rspp.2026.100333",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1016/j.rspp.2026.100333"
+  "url": "https://doi.org/10.1016/j.rspp.2026.100333",
+  "themes": [
+   "policy"
+  ]
  },
  {
   "journal": "Regional Science Policy & Practice",
@@ -1161,7 +1457,10 @@
   "abstract": "",
   "doi": "10.1016/j.rspp.2026.100326",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1016/j.rspp.2026.100326"
+  "url": "https://doi.org/10.1016/j.rspp.2026.100326",
+  "themes": [
+   "policy"
+  ]
  },
  {
   "journal": "Regional Science Policy & Practice",
@@ -1173,7 +1472,11 @@
   "abstract": "",
   "doi": "10.1016/j.rspp.2026.100332",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1016/j.rspp.2026.100332"
+  "url": "https://doi.org/10.1016/j.rspp.2026.100332",
+  "themes": [
+   "policy",
+   "labor"
+  ]
  },
  {
   "journal": "Regional Science Policy & Practice",
@@ -1185,7 +1488,11 @@
   "abstract": "",
   "doi": "10.1016/j.rspp.2026.100325",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1016/j.rspp.2026.100325"
+  "url": "https://doi.org/10.1016/j.rspp.2026.100325",
+  "themes": [
+   "policy",
+   "rural"
+  ]
  },
  {
   "journal": "Regional Science Policy & Practice",
@@ -1197,7 +1504,10 @@
   "abstract": "",
   "doi": "10.1016/j.rspp.2026.100324",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1016/j.rspp.2026.100324"
+  "url": "https://doi.org/10.1016/j.rspp.2026.100324",
+  "themes": [
+   "policy"
+  ]
  },
  {
   "journal": "Regional Science Policy & Practice",
@@ -1209,7 +1519,12 @@
   "abstract": "",
   "doi": "10.1016/j.rspp.2026.100321",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1016/j.rspp.2026.100321"
+  "url": "https://doi.org/10.1016/j.rspp.2026.100321",
+  "themes": [
+   "digital",
+   "policy",
+   "labor"
+  ]
  },
  {
   "journal": "Regional Science Policy & Practice",
@@ -1221,7 +1536,10 @@
   "abstract": "",
   "doi": "10.1016/j.rspp.2026.100320",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1016/j.rspp.2026.100320"
+  "url": "https://doi.org/10.1016/j.rspp.2026.100320",
+  "themes": [
+   "policy"
+  ]
  },
  {
   "journal": "Regional Science Policy & Practice",
@@ -1233,7 +1551,10 @@
   "abstract": "",
   "doi": "10.1016/j.rspp.2026.100322",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1016/j.rspp.2026.100322"
+  "url": "https://doi.org/10.1016/j.rspp.2026.100322",
+  "themes": [
+   "policy"
+  ]
  },
  {
   "journal": "Journal of Urban Economics",
@@ -1245,7 +1566,10 @@
   "abstract": "Examines demand-side consequences of Philadelphia's 2018 Kensington narcotics-enforcement initiative using SafeGraph cell-phone location data; finds reduced traffic to the target area plus regional spillover reductions in drug-market traffic and overdose deaths, contrary to typical substitution effects.",
   "doi": "",
   "added": "2026-07-14",
-  "url": "https://www.sciencedirect.com/science/article/pii/S0094119025000944"
+  "url": "https://www.sciencedirect.com/science/article/pii/S0094119025000944",
+  "themes": [
+   "transport"
+  ]
  },
  {
   "journal": "Journal of Urban Economics",
@@ -1257,7 +1581,12 @@
   "abstract": "Using Spanish building data (1996-2021), finds floods promote taller, more compact urban development and higher property values, redirecting land use away from agriculture/industry; adaptive response may offset flood damage.",
   "doi": "",
   "added": "2026-07-14",
-  "url": "https://www.sciencedirect.com/science/article/pii/S0094119026000021"
+  "url": "https://www.sciencedirect.com/science/article/pii/S0094119026000021",
+  "themes": [
+   "climate",
+   "rural",
+   "housing"
+  ]
  },
  {
   "journal": "Journal of Urban Economics",
@@ -1269,7 +1598,11 @@
   "abstract": "German employment data show commuting distances rose more for WFH-capable occupations since 2021, especially for new hires and big-city jobs; no significant gender difference found.",
   "doi": "",
   "added": "2026-07-14",
-  "url": "https://www.sciencedirect.com/science/article/pii/S0094119026000033"
+  "url": "https://www.sciencedirect.com/science/article/pii/S0094119026000033",
+  "themes": [
+   "labor",
+   "transport"
+  ]
  },
  {
   "journal": "Journal of Urban Economics",
@@ -1281,7 +1614,10 @@
   "abstract": "Regression-discontinuity design on close mayoral races (1980-) finds partisanship has no statistically or economically significant effect on housing permit supply.",
   "doi": "",
   "added": "2026-07-14",
-  "url": "https://www.sciencedirect.com/science/article/pii/S0094119026000136"
+  "url": "https://www.sciencedirect.com/science/article/pii/S0094119026000136",
+  "themes": [
+   "housing"
+  ]
  },
  {
   "journal": "Journal of Urban Economics",
@@ -1293,7 +1629,8 @@
   "abstract": "Uses Norway's centralized admissions system as a natural experiment; admission to a preferred study location raises the probability of later residing there by 15-20 pp.",
   "doi": "",
   "added": "2026-07-14",
-  "url": "https://www.sciencedirect.com/science/article/pii/S0094119026000148"
+  "url": "https://www.sciencedirect.com/science/article/pii/S0094119026000148",
+  "themes": []
  },
  {
   "journal": "Journal of Urban Economics",
@@ -1305,7 +1642,11 @@
   "abstract": "St. Paul, MN's 2021 rent control cut property values 4.0-5.5%; renters gained wealth (more so higher-income renters), while landlords and homeowners lost via capitalization/spillover effects.",
   "doi": "",
   "added": "2026-07-14",
-  "url": "https://www.sciencedirect.com/science/article/pii/S0094119026000161"
+  "url": "https://www.sciencedirect.com/science/article/pii/S0094119026000161",
+  "themes": [
+   "housing",
+   "policy"
+  ]
  },
  {
   "journal": "Journal of Urban Economics",
@@ -1317,7 +1658,10 @@
   "abstract": "Uses a Mixed Geographically Weighted hedonic regression on LA County commercial parcels to estimate location-specific shadow costs of mandatory parking minimums.",
   "doi": "",
   "added": "2026-07-14",
-  "url": "https://www.sciencedirect.com/science/article/pii/S009411902600001X"
+  "url": "https://www.sciencedirect.com/science/article/pii/S009411902600001X",
+  "themes": [
+   "rural"
+  ]
  },
  {
   "journal": "Journal of Urban Economics",
@@ -1329,7 +1673,12 @@
   "abstract": "Event study of refugee-center-to-integration-facility conversions; negative housing-wealth effects only emerge during periods of high public attention to immigration.",
   "doi": "",
   "added": "2026-07-14",
-  "url": "https://www.sciencedirect.com/science/article/pii/S009411902600015X"
+  "url": "https://www.sciencedirect.com/science/article/pii/S009411902600015X",
+  "themes": [
+   "housing",
+   "labor",
+   "policy"
+  ]
  },
  {
   "journal": "Journal of Economic Geography",
@@ -1341,7 +1690,10 @@
   "abstract": "Studies the US 1921-1924 Quota Act's effect on patenting; counties and technologies most affected by the immigration restriction saw sharp declines in patenting, with geographic variation and reduced breakthrough innovations.",
   "doi": "10.1093/jeg/lbag014",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1093/jeg/lbag014"
+  "url": "https://doi.org/10.1093/jeg/lbag014",
+  "themes": [
+   "labor"
+  ]
  },
  {
   "journal": "Journal of Economic Geography",
@@ -1353,7 +1705,10 @@
   "abstract": "Evolutionary-economic-geography analysis showing crowdfunded industries tend to integrate into existing local specialization patterns, especially where they align with existing capabilities; the effect is stronger in credit-constrained regions.",
   "doi": "10.1093/jeg/lbag032",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1093/jeg/lbag032"
+  "url": "https://doi.org/10.1093/jeg/lbag032",
+  "themes": [
+   "digital"
+  ]
  },
  {
   "journal": "Journal of Economic Geography",
@@ -1365,7 +1720,10 @@
   "abstract": "Combines relational thinking, economic geography, and economic sociology to examine asset managers' growing power in property markets, focused on Brazil's real estate sector; argues market power stems from structural embeddedness and brokerage strategies.",
   "doi": "10.1093/jeg/lbag027",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1093/jeg/lbag027"
+  "url": "https://doi.org/10.1093/jeg/lbag027",
+  "themes": [
+   "housing"
+  ]
  },
  {
   "journal": "Journal of Economic Geography",
@@ -1377,7 +1735,8 @@
   "abstract": "Commentary (marking JoEG's 25th anniversary) arguing care has been marginalized in economic geography despite its foundational economic role, and proposing it as an emerging research frontier.",
   "doi": "10.1093/jeg/lbag047",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1093/jeg/lbag047"
+  "url": "https://doi.org/10.1093/jeg/lbag047",
+  "themes": []
  },
  {
   "journal": "Economic Geography",
@@ -1389,7 +1748,10 @@
   "abstract": "Challenges economic geography's urban bias by studying creativity-led innovation in peripheral/rural regions using trademarks (not just patents) across European regions, 2011-2019; finds rural creativity-led innovation is real but only visible via trademark data.",
   "doi": "10.1080/00130095.2026.2654521",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1080/00130095.2026.2654521"
+  "url": "https://doi.org/10.1080/00130095.2026.2654521",
+  "themes": [
+   "rural"
+  ]
  },
  {
   "journal": "Economic Geography",
@@ -1401,7 +1763,10 @@
   "abstract": "",
   "doi": "10.1080/00130095.2026.2658559",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1080/00130095.2026.2658559"
+  "url": "https://doi.org/10.1080/00130095.2026.2658559",
+  "themes": [
+   "housing"
+  ]
  },
  {
   "journal": "Economic Geography",
@@ -1413,7 +1778,8 @@
   "abstract": "",
   "doi": "10.1080/00130095.2026.2675376",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1080/00130095.2026.2675376"
+  "url": "https://doi.org/10.1080/00130095.2026.2675376",
+  "themes": []
  },
  {
   "journal": "Environment and Planning A",
@@ -1425,7 +1791,11 @@
   "abstract": "Examines Johannesburg's 1990s-2000s commercial real estate boom as the product of homegrown property oligopolies and post-apartheid local-state transformation, not solely external financialization.",
   "doi": "10.1177/0308518X261456542",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1177/0308518X261456542"
+  "url": "https://doi.org/10.1177/0308518X261456542",
+  "themes": [
+   "housing",
+   "climate"
+  ]
  },
  {
   "journal": "Environment and Planning A",
@@ -1437,7 +1807,11 @@
   "abstract": "Comparative study of Satakunta (Finland) and Parkstad Limburg (Netherlands) showing circular-economy discourse functions as a strategic governance tool for regions facing population decline, not a fixed endpoint.",
   "doi": "10.1177/0308518X261456543",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1177/0308518X261456543"
+  "url": "https://doi.org/10.1177/0308518X261456543",
+  "themes": [
+   "climate",
+   "transport"
+  ]
  },
  {
   "journal": "Environment and Planning A",
@@ -1449,7 +1823,11 @@
   "abstract": "Mixed-method study (survey of 1,500 marketplace users, 3 UK case studies) tracing marketplaces' devaluation as public infrastructure and revalorization as commercial/real-estate assets.",
   "doi": "10.1177/0308518X261454066",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1177/0308518X261454066"
+  "url": "https://doi.org/10.1177/0308518X261454066",
+  "themes": [
+   "transport",
+   "climate"
+  ]
  },
  {
   "journal": "Environment and Planning A",
@@ -1461,7 +1839,12 @@
   "abstract": "Stated-preference survey of 789 Australian firms finds robust demand for CBD locations (compensating rent differential ~$875/sqm/yr), challenging the 'donut effect' hypothesis.",
   "doi": "10.1177/0308518X261456582",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1177/0308518X261456582"
+  "url": "https://doi.org/10.1177/0308518X261456582",
+  "themes": [
+   "climate",
+   "housing",
+   "digital"
+  ]
  },
  {
   "journal": "Environment and Planning A",
@@ -1473,7 +1856,11 @@
   "abstract": "Critical archival analysis of Canada Lands Company (est. 1956, 'reactivated' 1995) revealing scandals and significant activity during its officially 'dormant' period at sites like Quebec City's old port and Toronto's waterfront.",
   "doi": "10.1177/0308518X261456540",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1177/0308518X261456540"
+  "url": "https://doi.org/10.1177/0308518X261456540",
+  "themes": [
+   "climate",
+   "transport"
+  ]
  },
  {
   "journal": "Environment and Planning A",
@@ -1485,7 +1872,12 @@
   "abstract": "Feminist-geography framework arguing low-end services expand globally as a 'double fix' absorbing surplus labor and sustaining social reproduction, with internal growth-limiting contradictions.",
   "doi": "10.1177/0308518X261453754",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1177/0308518X261453754"
+  "url": "https://doi.org/10.1177/0308518X261453754",
+  "themes": [
+   "labor",
+   "transport",
+   "climate"
+  ]
  },
  {
   "journal": "Environment and Planning A",
@@ -1497,7 +1889,11 @@
   "abstract": "Commentary responding to Andy Pike's 'Financialization and Local Statecraft,' asking whether national government has effectively assumed responsibility for local fiscal/public-service risk.",
   "doi": "10.1177/0308518X261454518",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1177/0308518X261454518"
+  "url": "https://doi.org/10.1177/0308518X261454518",
+  "themes": [
+   "housing",
+   "climate"
+  ]
  },
  {
   "journal": "Environment and Planning A",
@@ -1509,7 +1905,11 @@
   "abstract": "Introduces 'ripples of financialization' to describe how Beirut's 2004-2014 building boom saw local developers channel capital via social/religious/political networks into speculative housing beyond luxury segments.",
   "doi": "10.1177/0308518X261452081",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1177/0308518X261452081"
+  "url": "https://doi.org/10.1177/0308518X261452081",
+  "themes": [
+   "housing",
+   "climate"
+  ]
  },
  {
   "journal": "Environment and Planning A",
@@ -1521,7 +1921,10 @@
   "abstract": "Comparative Taiwan/UK study of soil-carbon-market construction, highlighting the role of 'pragmatic economist' intermediaries and governance/equity concerns.",
   "doi": "10.1177/0308518X261453753",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1177/0308518X261453753"
+  "url": "https://doi.org/10.1177/0308518X261453753",
+  "themes": [
+   "climate"
+  ]
  },
  {
   "journal": "Environment and Planning A",
@@ -1533,7 +1936,11 @@
   "abstract": "Fieldwork on the Sand Dollar and DCash pilots finds these CBDCs proving less disruptive to incumbent finance than anticipated, due to intermediated design, cash-heavy economies, and incumbent resistance.",
   "doi": "10.1177/0308518X261449498",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1177/0308518X261449498"
+  "url": "https://doi.org/10.1177/0308518X261449498",
+  "themes": [
+   "digital",
+   "climate"
+  ]
  },
  {
   "journal": "Journal of Rural Studies",
@@ -1545,7 +1952,10 @@
   "abstract": "",
   "doi": "10.1016/j.jrurstud.2026.104287",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1016/j.jrurstud.2026.104287"
+  "url": "https://doi.org/10.1016/j.jrurstud.2026.104287",
+  "themes": [
+   "rural"
+  ]
  },
  {
   "journal": "Journal of Rural Studies",
@@ -1557,7 +1967,10 @@
   "abstract": "",
   "doi": "10.1016/j.jrurstud.2026.104321",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1016/j.jrurstud.2026.104321"
+  "url": "https://doi.org/10.1016/j.jrurstud.2026.104321",
+  "themes": [
+   "rural"
+  ]
  },
  {
   "journal": "Journal of Rural Studies",
@@ -1569,7 +1982,11 @@
   "abstract": "",
   "doi": "10.1016/j.jrurstud.2026.104320",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1016/j.jrurstud.2026.104320"
+  "url": "https://doi.org/10.1016/j.jrurstud.2026.104320",
+  "themes": [
+   "rural",
+   "china"
+  ]
  },
  {
   "journal": "Journal of Rural Studies",
@@ -1581,7 +1998,12 @@
   "abstract": "",
   "doi": "10.1016/j.jrurstud.2026.104319",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1016/j.jrurstud.2026.104319"
+  "url": "https://doi.org/10.1016/j.jrurstud.2026.104319",
+  "themes": [
+   "rural",
+   "digital",
+   "china"
+  ]
  },
  {
   "journal": "Journal of Rural Studies",
@@ -1593,7 +2015,11 @@
   "abstract": "",
   "doi": "10.1016/j.jrurstud.2026.104318",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1016/j.jrurstud.2026.104318"
+  "url": "https://doi.org/10.1016/j.jrurstud.2026.104318",
+  "themes": [
+   "china",
+   "rural"
+  ]
  },
  {
   "journal": "Journal of Rural Studies",
@@ -1605,7 +2031,10 @@
   "abstract": "",
   "doi": "10.1016/j.jrurstud.2026.104314",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1016/j.jrurstud.2026.104314"
+  "url": "https://doi.org/10.1016/j.jrurstud.2026.104314",
+  "themes": [
+   "rural"
+  ]
  },
  {
   "journal": "Journal of Rural Studies",
@@ -1617,7 +2046,11 @@
   "abstract": "",
   "doi": "10.1016/j.jrurstud.2026.104312",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1016/j.jrurstud.2026.104312"
+  "url": "https://doi.org/10.1016/j.jrurstud.2026.104312",
+  "themes": [
+   "rural",
+   "labor"
+  ]
  },
  {
   "journal": "Journal of Rural Studies",
@@ -1629,7 +2062,10 @@
   "abstract": "",
   "doi": "10.1016/j.jrurstud.2026.104311",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1016/j.jrurstud.2026.104311"
+  "url": "https://doi.org/10.1016/j.jrurstud.2026.104311",
+  "themes": [
+   "rural"
+  ]
  },
  {
   "journal": "Journal of Rural Studies",
@@ -1641,7 +2077,11 @@
   "abstract": "",
   "doi": "10.1016/j.jrurstud.2026.104310",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1016/j.jrurstud.2026.104310"
+  "url": "https://doi.org/10.1016/j.jrurstud.2026.104310",
+  "themes": [
+   "rural",
+   "china"
+  ]
  },
  {
   "journal": "Journal of Rural Studies",
@@ -1653,7 +2093,12 @@
   "abstract": "",
   "doi": "10.1016/j.jrurstud.2026.104308",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1016/j.jrurstud.2026.104308"
+  "url": "https://doi.org/10.1016/j.jrurstud.2026.104308",
+  "themes": [
+   "rural",
+   "china",
+   "transport"
+  ]
  },
  {
   "journal": "Journal of Rural Studies",
@@ -1665,7 +2110,11 @@
   "abstract": "",
   "doi": "10.1016/j.jrurstud.2026.104307",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1016/j.jrurstud.2026.104307"
+  "url": "https://doi.org/10.1016/j.jrurstud.2026.104307",
+  "themes": [
+   "rural",
+   "housing"
+  ]
  },
  {
   "journal": "Journal of Rural Studies",
@@ -1677,7 +2126,12 @@
   "abstract": "",
   "doi": "10.1016/j.jrurstud.2026.104306",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1016/j.jrurstud.2026.104306"
+  "url": "https://doi.org/10.1016/j.jrurstud.2026.104306",
+  "themes": [
+   "china",
+   "climate",
+   "transport"
+  ]
  },
  {
   "journal": "Journal of Rural Studies",
@@ -1689,7 +2143,11 @@
   "abstract": "",
   "doi": "10.1016/j.jrurstud.2026.104305",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1016/j.jrurstud.2026.104305"
+  "url": "https://doi.org/10.1016/j.jrurstud.2026.104305",
+  "themes": [
+   "rural",
+   "china"
+  ]
  },
  {
   "journal": "Land Use Policy",
@@ -1701,7 +2159,12 @@
   "abstract": "Transboundary ecosystem service flows (ESFs) are crucial links that connect natural and social systems across regions. With its unique geographical advantages, Central Asia serves as a strategic hub for regional and global connectivity, contributing to trade, cultural exchange, and technological development. This study presents a framework for understanding how ESFs support the achievement of SDGs in 7 transboundary countries and 195 nations globally, with a focus on the cross-border and remote effects of the grain-water-carbon-culture network (GWCCN) in Central Asia. Our findings highlight that water yield and soil conservation services in the Syr Darya and Amu Darya Basins were critical for downstream countries, with Uzbekistan and Turkmenistan relying on upstream flows from Tajikistan and Kyrgyzstan (30% and 21% deficits, respectively). Grain production was concentrated in Uzbekistan (35% of total flows), whereas carbon storage and habitat quality services were highly concentrated in the Fergana Valley (40% and 70%, respectively). Cross-border spillovers benefit neighboring countries and global regions. Approximately 20 million people rely on Central Asia-China transboundary rivers. Globally, water exports range from 0.3 to 82.17 billion t, grain exports range from 0.003 to 8.52 billion t, tourism and cultural flows attract 43.86 billion visitors, and carbon and habitat quality services cover 0.09-7.53 billion ha. Importantly, the ESFs of Central Asia significantly support SDG achievement, with contribution rates of 80-90% in China and Russia, 40-60% in Iran and Afghanistan, and under 10% in Pakistan, Azerbaijan, and Mongolia. Globally, the United States, India, and EU countries receive 43%, 36%, and 13-17%, respectively, supporting the SDGs related to food security, climate action, and socioeconomic development. Overall, Central Asia occupies a strategic position in the global ESF network.",
   "doi": "10.1016/j.landusepol.2026.108058",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1016/j.landusepol.2026.108058"
+  "url": "https://doi.org/10.1016/j.landusepol.2026.108058",
+  "themes": [
+   "climate",
+   "transport",
+   "china"
+  ]
  },
  {
   "journal": "Land Use Policy",
@@ -1713,7 +2176,12 @@
   "abstract": "Due to housing affordability constraints, residents in high-density cities often have limited private residential space (PRS) and may seek proximity to public open space (POS) as a compensatory amenity. However, existing literature largely focuses on estimating the amenity value of POS without considering the trade-offs between PRS and POS across income groups. To address this gap, we develop a spatial equilibrium model (SEM) that disentangles these trade-offs by analysing the income and substitution effects in bidding behaviours for POS. Using 176,865 housing transactions in Hong Kong from 2017 to 2022, we find that higher-income households consistently outbid lower-income households for both POS and PRS, suggesting a link between POS distribution and income sorting. However, when mobility was restricted during the Covid-19 pandemic, lower-income households bid more aggressively for POS at the expense of PRS, indicating an unusual substitution effect. These findings shed light on the inequitable outcomes of amenity-driven bidding mechanisms in housing markets, highlighting implications for planning responses to mitigate housing inequality, particularly in high-density metropolitan areas.",
   "doi": "10.1016/j.landusepol.2026.108060",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1016/j.landusepol.2026.108060"
+  "url": "https://doi.org/10.1016/j.landusepol.2026.108060",
+  "themes": [
+   "housing",
+   "policy",
+   "china"
+  ]
  },
  {
   "journal": "Land Use Policy",
@@ -1725,7 +2193,12 @@
   "abstract": "The struggle for customary land rights in Indonesia gained prominence following the collapse of Suharto's authoritarian regime in 1998 and the country's subsequent transition to democracy and decentralization. While these changes seized new political space to (re)claim rights over land previously appropriated by public authorities and companies, the realization of these rights has remained limited in practice. This study examines why recognition of customary land rights has succeeded in some communities but not in others by comparing three districts in Sulawesi. We identify four main findings: while various national laws have formally recognized customary land rights of adat communities, in all cases, adat communities struggled with legal fragmentation. Second, those who were able to establish close connections with influential politicians and did not face alliances of predatory interests between state and business elites were best positioned to get their adat claims recognized by local authorities. Third, the local presence of NGOs is crucial in helping the communities navigate complex government procedures, but most importantly, in cultivating and maintaining close ties with state actors. Finally, reform-oriented leadership can facilitate recognition, particularly when communities have established strong informal ties with this leader. Based on these findings, we propose several measures to enhance the prospect for recognition: simplifying bureaucratic procedures; strengthening the capacities and outreach of local NGOs to support adat communities; emphasizing the importance of developing close, informal ties by adat communities with local leaders; and reforming the electoral system to reduce politicians' vulnerability to co-optation by extractive interests.",
   "doi": "10.1016/j.landusepol.2026.108061",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1016/j.landusepol.2026.108061"
+  "url": "https://doi.org/10.1016/j.landusepol.2026.108061",
+  "themes": [
+   "rural",
+   "transport",
+   "climate"
+  ]
  },
  {
   "journal": "Land Use Policy",
@@ -1737,7 +2210,12 @@
   "abstract": "Inclusionary Zoning (IZ) is a tool in land use planning for leveraging new market-rate housing to produce affordable housing, typically in exchange for increased density. While growing in popularity, IZ receives criticisms for the possibility that its market-rate housing component would lead to gentrification by altering local housing markets. Using New York City's Mandatory Inclusionary Housing (MIH) program, a relatively ambitious IZ effort, we test if IZ increases home sales prices and rents in areas that are designated as MIH zones. Based on a comparison of MIH zones to surrounding control areas, we find evidence of MIH increased both home sales prices and rents, but the most consistent and statistically significant growth occurred in areas immediately surrounding MIH zones. We find little evidence of price escalation in MIH zones. Our findings suggest that for IZs that are geographically limited like MIH, the costs to residents such as gentrification and increased housing prices may be externalized onto nearby neighborhoods. This points to a policy need for more spatially integrated planning approaches to affordable housing, where affordability protections extend beyond narrowly drawn IZ boundaries.",
   "doi": "10.1016/j.landusepol.2026.108033",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1016/j.landusepol.2026.108033"
+  "url": "https://doi.org/10.1016/j.landusepol.2026.108033",
+  "themes": [
+   "housing",
+   "policy",
+   "rural"
+  ]
  },
  {
   "journal": "Land Use Policy",
@@ -1749,7 +2227,12 @@
   "abstract": "Urban land-use allocation represents a complex multi-objective optimization problem critical for sustainable urban development policy. This paper presents novel computational intelligence approaches for optimizing land-use allocation in mixed-use areas, addressing inherent trade-offs between land-use compatibility and economic objectives. We develop multiple optimization algorithms, including custom variants integrating differential evolution with multi-objective genetic algorithms. Key contributions include: (1) CR+DES algorithm leveraging scaled difference vectors for enhanced exploration, (2) systematic constraint relaxation strategy improving solution quality while maintaining feasibility, and (3) statistical validation using Kruskal-Wallis tests with compact letter displays. Applied to a real-world case study with 1290 plots, CR+DES achieves 3.16% improvement in land-use compatibility compared to state-of-the-art methods, while MSBX+MO excels in price optimization with 3.3% improvement. Statistical analysis confirms that algorithms incorporating difference vectors significantly outperform traditional approaches across multiple metrics. These findings provide urban planners and policymakers with evidence-based computational tools for balancing competing objectives in land-use allocation, supporting more effective urban development policies in rapidly urbanizing regions.",
   "doi": "10.1016/j.landusepol.2026.107984",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1016/j.landusepol.2026.107984"
+  "url": "https://doi.org/10.1016/j.landusepol.2026.107984",
+  "themes": [
+   "policy",
+   "housing",
+   "transport"
+  ]
  },
  {
   "journal": "Land Use Policy",
@@ -1761,7 +2244,12 @@
   "abstract": "Urban sprawl has become one of the most pressing challenges in Latin American cities, driven by a complex interplay of economic, political, and spatial factors. Despite being one of the most urbanized regions in the world, Latin America lacks a consistent analytical framework to fully understand the indicators, patterns, approaches and consequences of urban sprawl. This study conducts a systematic review of 56 peer-reviewed articles published between 2004 and 2025, applying a six-dimensional analytical framework: (i) general publication features, (ii) scale of analysis, (iii) methodological approaches, (iv) indicators employed, (v) drivers of change, and (vi) effects of urban sprawl. Findings reveal a strong concentration of city and metropolitan level studies in Mexico, Brazil, and Chile, with GIS-based spatial analysis dominating the methodological landscape, while contemporary approaches, such as machine learning and multi-criteria decision analysis, remain underused. Density and land use/land cover change are the most frequently applied indicators, followed by fragmentation and centrality metrics. The review underlines the context of structural drivers, including neoliberal housing policies, infrastructure-led growth, land market speculation, and governance gaps, which critically shape the spatial outcomes of sprawl. Socio-spatial inequality emerges as the most persistent and structural effect, yet multidimensional indices capturing access to infrastructure, public services, and ecosystem amenities are almost absent. The discussion calls for rethinking the application of Global North metrics to Global South contexts and advocates for the development of justice-oriented, context-sensitive frameworks that reflect Latin America's unique urban realities.",
   "doi": "10.1016/j.landusepol.2026.107980",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1016/j.landusepol.2026.107980"
+  "url": "https://doi.org/10.1016/j.landusepol.2026.107980",
+  "themes": [
+   "policy",
+   "transport",
+   "rural"
+  ]
  },
  {
   "journal": "Land Use Policy",
@@ -1773,7 +2261,12 @@
   "abstract": "Serving as an integral part of urban green infrastructure, the collective network of domestic gardens could make a substantial contribution to climate change adaptation. Nevertheless, these private outdoor spaces are autonomously managed by many individual gardeners, often prioritizing aesthetics and maintenance convenience, rather than environmental considerations. Understanding how people manage their gardens, and why they make certain gardening decisions is crucial for unlocking the climate adaptation potential of gardens, shedding light on the current situation and identifying opportunities for change. Unfortunately, limited research has been conducted on the personal drivers behind gardeners' decisions. Therefore, our research aims at unveiling current gardening practices and their drivers through an online citizen science survey of Flemish domestic garden owners (n = 827). Using a Structural Equation Modeling (SEM) approach, we studied how motivations, knowledge, spatial- and socio-economic factors are associated with garden management decisions related to sealed soil, lawns, and tree cover. Our findings show that factors such as spatial context, socio-economic status, and personal motivations are more critical in shaping garden composition and management. The results stress the complexity of garden management, where traditional practices and cultural perceptions coexist with a growing ecological awareness and highlights the intricate relationship between local contexts and the diverse personal drivers influencing individual gardeners' decisions. By recognizing this interconnectedness, we emphasize the need for gardening policies tailored to spatial and socio-economic variations and offer insights that can inform urban planners and policymakers on how to harness the untapped climate adaptation potential within these private outdoor spaces.",
   "doi": "10.1016/j.landusepol.2026.107975",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1016/j.landusepol.2026.107975"
+  "url": "https://doi.org/10.1016/j.landusepol.2026.107975",
+  "themes": [
+   "climate",
+   "housing",
+   "policy"
+  ]
  },
  {
   "journal": "Land Use Policy",
@@ -1785,7 +2278,12 @@
   "abstract": "This paper examines how federal and state land laws in the Brazilian Amazon create incentives that benefit private actors illegally occupying public lands, who subsequently seek legalization through land titling. Throughout this process, they invade public lands, deforest the area to signal occupation, request land titles to governmental agencies, and often lobby to modify land laws in favor of title acquisition. While existing scholarship has focused primarily on federal land policies, this study provides a systematic assessment of land laws in all nine Amazonian states, which are particularly relevant given that between 40% and 60% of undesignated public land in the region falls under state jurisdiction. Here, we identify five structural incentives embedded in current land legislation that favor the persistence of public land encroachment: (i) the absence or extension of cut-off dates for the occupation of public lands that can be titled; (ii) the possibility of issuing titles over illegally deforested areas; (iii) the weakness or lack of requirements to restore environmental damage prior to titling; (iv) the pricing mechanisms that substantially undervalues public land; and (v) the limited coordination among land agencies, resulting in an increased risk of titles being issued in areas with other land claims' priorities according to the law. Our results highlight how current land laws contribute to inefficient allocation of public land, fiscal losses, and continued deforestation. These findings provide empirical support for policy debates in Brazil focused on aligning land laws with environmental protection, climate commitments, and more efficient management of public assets.",
   "doi": "10.1016/j.landusepol.2026.107968",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1016/j.landusepol.2026.107968"
+  "url": "https://doi.org/10.1016/j.landusepol.2026.107968",
+  "themes": [
+   "climate",
+   "housing",
+   "policy"
+  ]
  },
  {
   "journal": "Land Use Policy",
@@ -1797,7 +2295,12 @@
   "abstract": "Urban regeneration investments, particularly those involving multi-million-euro allocations, require diverse evaluation methodologies to comprehensively assess their impacts. This paper aims to evaluate the effects of a substantial urban regeneration investment in Limerick, a county in west of Ireland, characterized by significant deprivation. The case study examined is the Limerick opera house, a major mixed-use development comprising office space, a public library, hotel accommodation, and leisure facilities. This project offers an exemplary context for analysing a complex urban regeneration initiative characterised by multiple, interrelated objective. Utilizing a hybrid, downscaled multi regional input output (MRIO) analysis alongside impact analysis, this study examines the economic, environmental, and social impacts of the project. The results indicate that the project generated 1676 jobs during the construction phase and 2400 jobs in the long-term phase. However, the employment opportunities created did not substantially benefit deprived areas, primarily due to a mismatch between the skill sets required for the jobs and those available within the local population. This study highlights the necessity for supplementary training and upskilling initiatives to effectively target these communities.",
   "doi": "10.1016/j.landusepol.2026.107962",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1016/j.landusepol.2026.107962"
+  "url": "https://doi.org/10.1016/j.landusepol.2026.107962",
+  "themes": [
+   "labor",
+   "climate",
+   "housing"
+  ]
  },
  {
   "journal": "Land Use Policy",
@@ -1809,7 +2312,12 @@
   "abstract": "Forest restoration in Europe has a complex history strongly influenced by various social, policy and economic factors. Understanding these influences is essential for shaping effective restoration strategies and avoiding past mistakes, particularly in light of meeting ambitious targets outlined in initiatives such as the EU Nature Restoration Regulation. Here we identify the key social, policy and economic drivers, barriers and enablers that have historically shaped forest restoration across Europe. We analyzed and synthesized detailed information from historical national narratives on forest restoration provided by experts from 18 European countries. Our work details how wars, changes in governance (centralization vs. decentralization) and forest tenure (privatization vs. nationalization), different policy instruments (regulatory, financial, persuasive and organizational), market fluctuations and sociodemographic changes (e.g., rural abandonment, changes in public opinion) have driven the development of forest restoration in Europe. The findings underscore the need to use inclusive and innovative governance mechanisms to reconcile diverging societal paradigms (e.g., rural vs. urban, conservation vs. forestry) partly reflected in incoherent forest-related policies, as well as to address the fragmentation resulting from forest privatization. Ensuring stable funding mechanisms (e.g., remuneration systems for forest ecosystem services) alongside favorable regulatory frameworks will also be key for successful large-scale forest restoration efforts. Policy recommendations are made to ensure the effective implementation of the EU Nature Restoration Regulation, including a hybrid governance model that balances strong national regulatory frameworks with local adaptability to diverse socioecological contexts, integrating socioeconomic metrics, strengthening public engagement, and leveraging market-based and green tax incentives.",
   "doi": "10.1016/j.landusepol.2025.107876",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1016/j.landusepol.2025.107876"
+  "url": "https://doi.org/10.1016/j.landusepol.2025.107876",
+  "themes": [
+   "climate",
+   "policy",
+   "rural"
+  ]
  },
  {
   "journal": "Land Use Policy",
@@ -1821,7 +2329,12 @@
   "abstract": "Urban land use serves as the fundamental foundation for human survival and development, providing essential natural resources. Simulation is an important tool for assessing the impacts of urban planning and construction of new urban areas. To support policy implementation for the development of the Xiongan New Area and promote sustainable urban management, we use the Data-Information-Knowledge-Wisdom (DIKW) model as a framework for predicting future land spatial changes considering sustainable development of urban planning. We developed a novel New Urban Multi-objective Land Use Prediction (NUMLUP) method, integrating a Genetic Algorithm (GA), Multi-Objective Planning (MOP), and the Conversion of Land Use and its Effects at Small Region Extent (CLUES) model. Using this approach, we obtained urban land spatial distribution data for three scenarios: the Historical Continuation Scenario (HCS), Policy Planning Scenario (PPS), and Planned Sustainable Development Scenario (PSDS). To evaluate Sustainable Development Goal (SDG) 11.3.1 and Regional Planning Goals (RPGs), we assessed 19 consecutive years of construction effectiveness—covering both past (2017-2023) and future (2023-2035) periods under the three scenarios. The dataset achieved a multi-year overall accuracy (OA) exceeding 0.87 and a kappa index above 0.83. The built-up area gradually increased, while wetlands (dominated by Baiyangdian) declined significantly from 2017 to 2023. From 2023 to 2035 the expansion of built-up land slows down; under the PPS, forest and wetland areas underwent the most drastic changes, with overall improvement rates ranked PPS > PSDS > HCS. The LCRPGR is consistently greater than 1 from 2023 to 2035, reflecting a plan that provides land to meet population growth and demand. Our research provides robust support for monitoring sustainable urban development and implementing regional policies.",
   "doi": "10.1016/j.landusepol.2025.107893",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1016/j.landusepol.2025.107893"
+  "url": "https://doi.org/10.1016/j.landusepol.2025.107893",
+  "themes": [
+   "rural",
+   "policy",
+   "transport"
+  ]
  },
  {
   "journal": "Land Use Policy",
@@ -1833,7 +2346,12 @@
   "abstract": "Natural elements in urban environments enhance livability and health, strengthening urban vitality. However, existing research has primarily focused on physical indicators, with limited attention paid to the joint influence of behavioral and perceptual dimensions on urban vitality. To address this gap, this study integrates a spatiotemporal analytical framework encompassing three dimensions: natural elements, human perception, and activity diversity. Focusing on Vancouver, we utilized smartphone-GPS and social media data from 2018 to 2023 to explore temporal (weekdays vs. weekends) and spatial dimensions. Using machine learning techniques (Google Vision, K-means and sentiment analysis) on multivariate social media data, we also analyzed changes in activity diversity over time. We assessed the multidimensional influences on urban vitality using the Geographically and Temporally Weighted Regression (GTWR) model. Our results show that during the pandemic, attention to nature and outdoor activities increased significantly, while cultural and social activities and transportation initially decreased but quickly recovered. Sentiment scores, natural elements, and human activity preferences significantly influenced urban vitality during COVID-19, with notable spatiotemporal heterogeneity. The pandemic intensified residents' reliance on natural spaces and green transportation, altering the spatial distribution of urban vitality. These findings provide a basis for optimizing natural spaces and sustainable transportation planning in future urban development.",
   "doi": "10.1016/j.landusepol.2025.107824",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1016/j.landusepol.2025.107824"
+  "url": "https://doi.org/10.1016/j.landusepol.2025.107824",
+  "themes": [
+   "climate",
+   "transport",
+   "policy"
+  ]
  },
  {
   "journal": "Growth and Change",
@@ -1845,7 +2363,12 @@
   "abstract": "Against the backdrop of increasingly frequent extreme weather events worldwide, urban export resilience is under severe threat, and mitigating the adverse effects of climate risk has become an urgent issue for China's pursuit of high-quality development in its open economy. Focusing on prefecture-level and above cities in China, this study combines customs export data and city-level panel data for 2010-2022, quantifies climate risk using text mining and machine learning methods, and constructs an export resilience index incorporating both stability and safety from dynamic and structural perspectives. On this basis, it empirically examines both the direct effect of climate risk on export resilience and the underlying mechanisms. The results show that: (1) Climate risk significantly weakens urban export resilience, and this finding remains robust after addressing endogeneity and conducting multiple robustness tests. (2) The negative impact is more pronounced in central and western cities, in cities outside the Yangtze River Economic Belt, and in small cities, and is further amplified in cities with lower levels of artificial intelligence, market integration, and trade openness. (3) The digital economy and industrial structure play mediating roles in the relationship between climate risk and export resilience. In addition, technological innovation significantly moderates the climate risk-digital economy-export resilience pathway by strengthening the buffering effect of the digital economy, thereby indirectly alleviating the adverse impact of climate risk. These findings are consistent with China's strategic objective of advancing climate adaptation and open development in tandem under the dual-carbon agenda. They also provide policy implications for enhancing urban export resilience in a differentiated manner.",
   "doi": "10.1111/grow.70129",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1111/grow.70129"
+  "url": "https://doi.org/10.1111/grow.70129",
+  "themes": [
+   "climate",
+   "transport",
+   "china"
+  ]
  },
  {
   "journal": "Growth and Change",
@@ -1857,7 +2380,12 @@
   "abstract": "Key digital technology (KDT) serves as a critical technological foundation for advancing pollution reduction and carbon mitigation (PRCM), while increasingly reshaping regional environmental governance capacity. However, the institutional fluctuations and governance uncertainties induced by intensifying climate risks have introduced both challenges and opportunities for the environmental effectiveness of KDT. Drawing on panel data from 276 prefecture-level cities in China between 2011 and 2021, this study investigates the impact of KDT on PRCM synergy across heterogeneous regional contexts. The findings reveal that KDT significantly enhances the degree of PRCM synergy, highlighting its dual environmental benefits. Moreover, climate risks play differentiated moderating roles in this process. Specifically, climate transition risks amplify the PRCM effect of KDT, reflecting the greater marginal adaptability of technological governance under institutional risk scenarios. In contrast, the overall moderating role of climate physical risks is limited. Heterogeneity analysis suggests that under transition risks, KDT possesses compensatory capacities to address institutional uncertainty, whereas under physical risks, its effectiveness is conditioned by regional structural characteristics and governance capacity. Mechanism analysis further demonstrates that KDT influences PRCM synergy through a chain pathway encompassing 'source prevention-process control-end-stage blocking.' Spatial effect analysis indicates a siphon effect of KDT, with significant negative spillovers on the PRCM synergy of adjacent regions, implying the risk of widening inter-regional disparities in environmental governance outcomes.",
   "doi": "10.1111/grow.70114",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1111/grow.70114"
+  "url": "https://doi.org/10.1111/grow.70114",
+  "themes": [
+   "climate",
+   "china",
+   "transport"
+  ]
  },
  {
   "journal": "Growth and Change",
@@ -1869,7 +2397,12 @@
   "abstract": "The spatiality of Entrepreneurial Ecosystems (EE) has become a topic of recent interest in literature. Traditionally based on a regionally-bounded appraisal of the contextual conditions leading up to entrepreneurial activity, EE research is facing a shift toward the inclusion of more fine-grained territorial approaches that accommodate complex spatial topologies involving heterogeneous trajectories of local, domestic, and international linkages. Yet we still fall short in grasping how the spatial features of EE relate to their respective outcomes. In this article, we take up this challenge by addressing the extent to which spatiality affects the dynamics of development in EE. To that end, we focus on investment data extracted from Crunchbase covering 11,670 investment transactions spanning 2266 EE located in 118 countries. We then assess the spatiality of EE by means of looking into the association between investment inflows and outflows in relation to post-investment valuation at the level of EE (our measure of EE outcomes). We further qualify this association by adding a vector that associates financial flows to leading EE. We complement our overall analysis by running quantile estimations to check for variations in associations across different levels of development in the analyzed EE. Our findings offer consistent evidence of a positive association between the spatial fluidity of EE and its respective outcomes. This is valid for both inward and outward spatial connections, although stronger associations are perceived for the former. Also, where investments come from/go to matters, as receiving/sending investments from/to the most eminent ecosystems is a good predictor of EE outcomes.",
   "doi": "10.1111/grow.70126",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1111/grow.70126"
+  "url": "https://doi.org/10.1111/grow.70126",
+  "themes": [
+   "climate",
+   "labor",
+   "housing"
+  ]
  },
  {
   "journal": "Growth and Change",
@@ -1881,7 +2414,11 @@
   "abstract": "This study examines how disaster management expenditure affects regional economic growth across different institutional contexts. Analyzing panel data from 226 South Korean municipalities (2011-2021) using fixed effects and System GMM, the analysis reveals systematically heterogeneous effects even after explicitly controlling for population density as a proxy for agglomeration: districts demonstrate the strongest impact, whereas counties show the weakest returns. These differences are consistent with agglomeration economies and vertical intergovernmental cooperation advantages in metropolitan districts. The findings contribute to fiscal federalism theory by demonstrating that for public services with network externalities, cooperative governance can be as crucial as local autonomy in shaping the economic returns to resilience-enhancing disaster management expenditure. Results support differentiated regional policies leveraging institutional characteristics.",
   "doi": "10.1111/grow.70124",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1111/grow.70124"
+  "url": "https://doi.org/10.1111/grow.70124",
+  "themes": [
+   "housing",
+   "transport"
+  ]
  },
  {
   "journal": "Growth and Change",
@@ -1893,7 +2430,12 @@
   "abstract": "China's reform permitting rural collective construction land to enter the market has created new institutional conditions for the integration of the urban-rural land market, revitalizing rural areas, and promoting balanced regional development. From the perspectives of property rights differentiation and governance structure, this study constructs a Structure-Conduct-Performance (SCP) analytical framework to examine patterns of market integration under rural land institutional reform. A comparative case study was conducted in three representative regions in China, namely Wujin District (eastern), Changyuan County (central), and Meitan County (western), to examine the mechanisms of urban-rural construction land markets integration. The results indicate significant regional heterogeneity in the degree of market integration across pilot regions operating under a common reform framework. Depending on local property-right foundations, three distinct governance structures have emerged: market-dominated, government-market hybrid, and government-guided. Each governance structure corresponds with a distinct pattern of price integration. Therefore, rural land system reforms should be adapted to local conditions, with governance paths aligned to the existing property rights foundation, to progressively advance urban-rural land market integration through context-specific governance arrangements.",
   "doi": "10.1111/grow.70131",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1111/grow.70131"
+  "url": "https://doi.org/10.1111/grow.70131",
+  "themes": [
+   "rural",
+   "china",
+   "housing"
+  ]
  },
  {
   "journal": "Growth and Change",
@@ -1905,6 +2447,11 @@
   "abstract": "Returnee migrant entrepreneurs are pivotal agents of rural revitalization. Policies fostering their entrepreneurship directly address structural bottlenecks in China's countryside. This study evaluates the comprehensive impact and mechanisms of two key returnee entrepreneurship policies in China, namely the returnee entrepreneurship pilot policy and the rural entrepreneurship park policy, on rural income levels and income inequality. Using county-level panel data from China, this study employs the propensity score matching-generalized difference-in-difference method for causal inference. The findings indicate that the returnee entrepreneurship pilot policy and the rural entrepreneurship park policy are complementary. Their coordinated implementation significantly promotes rural income growth, as well as effectively reduces rural income inequality. Mechanism analysis reveals that returnee entrepreneurship policies operate through three channels: entrepreneurial effects, employment effects, and agglomeration effects. These effects are achieved through the construction of a more inclusive entrepreneurial ecosystem. Furthermore, this study highlights the heterogeneity in the effects of returnee entrepreneurship policies. The effectiveness of these policies is influenced differently by factors such as the development of digital inclusive finance, cultural characteristics, and economic development levels. The results emphasize that fostering an inclusive entrepreneurial ecosystem through complementary policy design is essential for achieving both growth and equity goals in returnee entrepreneurship policies.",
   "doi": "10.1111/grow.70121",
   "added": "2026-07-14",
-  "url": "https://doi.org/10.1111/grow.70121"
+  "url": "https://doi.org/10.1111/grow.70121",
+  "themes": [
+   "labor",
+   "policy",
+   "rural"
+  ]
  }
 ]
