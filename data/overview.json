@@ -1,0 +1,104 @@
+{
+ "updated": "2026-07-14",
+ "window_note": "Rolling archive since April 2026. Updated weekly.",
+ "themes": [
+  [
+   "China's regional & urban transformation",
+   "Subways & firm taxation, treaty-port legacies, city-county mergers, urban innovation networks, digital-village governance, farmland institutions, agricultural digital intelligence."
+  ],
+  [
+   "Climate, green transition & environment",
+   "Heat & traffic accidents, floods & density, green-transition income gaps, soil-carbon markets, circular economy in shrinking regions, air quality & housing."
+  ],
+  [
+   "Housing, real estate & financialization",
+   "Rent control & housing wealth, house prices & SME lending, Airbnb & evictions, immigration salience, Beirut/Johannesburg property, tax redistribution."
+  ],
+  [
+   "Place-based policy & regional inequality",
+   "Italy inner areas, EU structural funds, China development zones, CRA, a new framework for unintended policy consequences, Theil-decomposition inequality."
+  ],
+  [
+   "Transportation economics (RSUE cluster)",
+   "Invited surveys: maritime shipping networks, interstate highways & rural America, transport in low/middle-income countries, pre-industrial transport."
+  ],
+  [
+   "Geography of AI & the digital economy",
+   "AI adoption in Dutch municipalities, AI across European regions, post-ChatGPT skill demand, digital transformation, crowdfunding & diversification."
+  ],
+  [
+   "Migration, mobility & labor",
+   "WFH & commuting, counterurban migration, skilled migration, disability-employment gap, college & residential stickiness."
+  ],
+  [
+   "Rural studies: care, food & agroecology",
+   "Rural ageing & ethic of care, food insecurity, regenerative agriculture, alternative food, social-farming cooperatives."
+  ]
+ ],
+ "picks": [
+  [
+   "Unintended consequences of place-based & person-based policies: a mechanism-based framework",
+   "Redinger & Ross — Annals of Regional Science",
+   "Reusable scaffold for framing any place-based-policy evaluation."
+  ],
+  [
+   "Impacts of CRA designation on employment with spatial spillovers",
+   "Rupasingha & Goetz — Annals of Regional Science",
+   "Synthetic DID, explicit metro>micro>rural gradient — a rural place-based template."
+  ],
+  [
+   "Transport in low- and middle-income countries",
+   "Storeygard — Reg. Sci. & Urban Economics",
+   "The reference survey for development-transport work."
+  ],
+  [
+   "The urban wage premium in historical perspective",
+   "Butts, Jaworski & Kitchens — RSUE",
+   "Clean long-run (1940-2010) decomposition of agglomeration wage premia."
+  ],
+  [
+   "Uneven Greening: urban-rural income gap during the green transition",
+   "He, Chen & Yu — J. Regional Science",
+   "Distributional green-transition question, directly ag/rural-relevant."
+  ],
+  [
+   "Out of Sight? Creativity-Led Innovation in Rural Regions",
+   "Castaldi, Cortinovis & Tessarin — Economic Geography (OA)",
+   "Trademarks make rural innovation visible — a measurement lesson."
+  ],
+  [
+   "Counterurban migration and regional structural change",
+   "Neyse & Eriksson — Reg. Sci. Policy & Practice",
+   "Post-pandemic counterurbanization meets structural change."
+  ],
+  [
+   "The redistribution of housing wealth caused by rent control",
+   "Ahern & Giacoletti — J. Urban Economics",
+   "Crisp natural experiment; a model policy-evaluation design."
+  ],
+  [
+   "Scales of Inequality: two-stage Theil decomposition, US 1970-2020",
+   "Lee & Breau — Int'l Regional Science Review",
+   "How geographic scale drives your inequality story."
+  ],
+  [
+   "Older people and food insecurity in rural places",
+   "Milbourne, Blake & Chesworth — J. Rural Studies (OA)",
+   "Qualitative depth on rural food access & ageing."
+  ]
+ ],
+ "deep_dois": [
+  "10.1007/s00168-026-01504-8",
+  "10.1007/s00168-026-01485-8",
+  "10.1016/j.regsciurbeco.2026.104231",
+  "10.1016/j.regsciurbeco.2026.104245",
+  "10.1111/jors.70074",
+  "10.1080/00130095.2026.2654521",
+  "10.1016/j.rspp.2026.100332",
+  "10.1177/01600176261440842",
+  "10.1016/j.jrurstud.2026.104287"
+ ],
+ "deep_titles": [
+  "The redistribution of housing wealth caused by rent control"
+ ]
+}
