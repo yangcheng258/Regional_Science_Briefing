@@ -3,27 +3,28 @@
   "name": "Journal of Regional Science",
   "group": "Core regional science",
   "url": "https://onlinelibrary.wiley.com/journal/14679787",
-  "wiki": "Journal of Regional Science"
+  "wiki": "Journal of Regional Science",
+  "img": "https://www.regionalscience.org/images/Media/jors.v60.5.cover.gif"
  },
  {
   "name": "Papers in Regional Science",
   "group": "Core regional science",
   "url": "https://www.sciencedirect.com/journal/papers-in-regional-science",
-  "img": "https://ars.els-cdn.com/content/image/X10568190.jpg",
+  "img": "https://www.regionalscience.org/images/Media/X10568190.jpg",
   "wiki": "Papers in Regional Science"
  },
  {
   "name": "Annals of Regional Science",
   "group": "Core regional science",
   "url": "https://link.springer.com/journal/168",
-  "img": "https://media.springernature.com/w153/springer-static/cover-hires/journal/168",
+  "img": "https://www.regionalscience.org/images/Media/the_annals_of_regional_science.jpg",
   "wiki": "The Annals of Regional Science"
  },
  {
   "name": "Regional Science and Urban Economics",
   "group": "Core regional science",
   "url": "https://www.sciencedirect.com/journal/regional-science-and-urban-economics",
-  "img": "https://ars.els-cdn.com/content/image/X01660462.jpg",
+  "img": "https://www.regionalscience.org/images/Media/rsuev.gif",
   "wiki": "Regional Science and Urban Economics"
  },
  {
@@ -36,38 +37,42 @@
   "name": "Spatial Economic Analysis",
   "group": "Core regional science",
   "url": "https://www.tandfonline.com/journals/rsea20",
-  "wiki": "Spatial Economic Analysis"
+  "wiki": "Spatial Economic Analysis",
+  "img": "https://www.regionalscience.org/images/Media/rsea20.jpg"
  },
  {
   "name": "International Regional Science Review",
   "group": "Core regional science",
   "url": "https://journals.sagepub.com/home/irx",
-  "wiki": "International Regional Science Review"
+  "wiki": "International Regional Science Review",
+  "img": "https://www.regionalscience.org/images/Media/irxa_44_1.cover.png"
  },
  {
   "name": "Regional Science Policy & Practice",
   "group": "Core regional science",
   "url": "https://www.sciencedirect.com/journal/regional-science-policy-and-practice",
-  "img": "https://ars.els-cdn.com/content/image/X17577802.jpg"
+  "img": "https://www.regionalscience.org/images/Media/cover_rspp.gif"
  },
  {
   "name": "Journal of Urban Economics",
   "group": "Urban / spatial / econ geography",
   "url": "https://www.sciencedirect.com/journal/journal-of-urban-economics",
-  "img": "https://ars.els-cdn.com/content/image/X00941190.jpg",
+  "img": "https://www.regionalscience.org/images/Media/urbanj.gif",
   "wiki": "Journal of Urban Economics"
  },
  {
   "name": "Journal of Economic Geography",
   "group": "Urban / spatial / econ geography",
   "url": "https://academic.oup.com/joeg",
-  "wiki": "Journal of Economic Geography"
+  "wiki": "Journal of Economic Geography",
+  "img": "https://www.regionalscience.org/images/Media/m_jnlecg_20_6cover.png"
  },
  {
   "name": "Economic Geography",
   "group": "Urban / spatial / econ geography",
   "url": "https://www.tandfonline.com/journals/recg20",
-  "wiki": "Economic Geography (journal)"
+  "wiki": "Economic Geography (journal)",
+  "img": "https://www.regionalscience.org/images/Media/recg20.jpg"
  },
  {
   "name": "Environment and Planning A",
@@ -93,7 +98,8 @@
   "name": "Growth and Change",
   "group": "Rural & land",
   "url": "https://onlinelibrary.wiley.com/journal/14682257",
-  "wiki": "Growth and Change (journal)"
+  "wiki": "Growth and Change (journal)",
+  "img": "https://www.regionalscience.org/images/Media/grow.png"
  },
  {
   "name": "American Journal of Agricultural Economics",
@@ -149,195 +155,219 @@
   "name": "Urban Studies",
   "group": "Urban / spatial / econ geography",
   "url": "https://journals.sagepub.com/home/usj",
-  "wiki": "Urban Studies (journal)"
+  "wiki": "Urban Studies (journal)",
+  "img": "https://www.regionalscience.org/images/Media/urban_stduies.gif"
  },
  {
   "name": "Cities",
   "group": "Urban / spatial / econ geography",
   "url": "https://www.sciencedirect.com/journal/cities",
-  "img": "https://ars.els-cdn.com/content/image/X02642751.jpg",
+  "img": "https://www.regionalscience.org/images/Media/cities.gif",
   "wiki": "Cities (journal)"
  },
  {
   "name": "International Journal of Urban and Regional Research",
   "group": "Urban / spatial / econ geography",
   "url": "https://onlinelibrary.wiley.com/journal/14682427",
-  "wiki": "International Journal of Urban and Regional Research"
+  "wiki": "International Journal of Urban and Regional Research",
+  "img": "https://www.regionalscience.org/images/Media/ijur.v45.1.cover.gif"
  },
  {
   "name": "Journal of Urban Affairs",
   "group": "Urban / spatial / econ geography",
   "url": "https://www.tandfonline.com/journals/ujua20",
-  "wiki": "Journal of Urban Affairs"
+  "wiki": "Journal of Urban Affairs",
+  "img": "https://www.regionalscience.org/images/Media/ujua20.jpg"
  },
  {
   "name": "Computers, Environment and Urban Systems",
   "group": "Urban / spatial / econ geography",
   "url": "https://www.sciencedirect.com/journal/computers-environment-and-urban-systems",
-  "img": "https://ars.els-cdn.com/content/image/X01989715.jpg"
+  "img": "https://www.regionalscience.org/images/Media/computers.gif"
  },
  {
   "name": "Transportation Research Part A: Policy and Practice",
   "group": "Urban / spatial / econ geography",
   "url": "https://www.sciencedirect.com/journal/transportation-research-part-a-policy-and-practice",
-  "img": "https://ars.els-cdn.com/content/image/X09658564.jpg",
+  "img": "https://www.regionalscience.org/images/Media/TRPa.gif",
   "wiki": "Transportation Research"
  },
  {
   "name": "Geographical Analysis",
   "group": "Core regional science",
   "url": "https://onlinelibrary.wiley.com/journal/15384632",
-  "wiki": "Geographical Analysis"
+  "wiki": "Geographical Analysis",
+  "img": "https://www.regionalscience.org/images/Media/gean.png"
  },
  {
   "name": "Journal of Geographical Systems",
   "group": "Core regional science",
   "url": "https://link.springer.com/journal/10109",
-  "img": "https://media.springernature.com/w153/springer-static/cover-hires/journal/10109",
+  "img": "https://www.regionalscience.org/images/Media/journal_of_geographical_systems.jpg",
   "wiki": "Journal of Geographical Systems"
  },
  {
   "name": "Networks and Spatial Economics",
   "group": "Core regional science",
   "url": "https://link.springer.com/journal/11067",
-  "img": "https://media.springernature.com/w153/springer-static/cover-hires/journal/11067",
+  "img": "https://www.regionalscience.org/images/Media/networks_and_spatial_economics.jpg",
   "wiki": "Networks and Spatial Economics"
  },
  {
   "name": "Applied Spatial Analysis and Policy",
   "group": "Core regional science",
   "url": "https://link.springer.com/journal/12061",
-  "img": "https://media.springernature.com/w153/springer-static/cover-hires/journal/12061"
+  "img": "https://www.regionalscience.org/images/Media/asap.png"
  },
  {
   "name": "Asia-Pacific Journal of Regional Science",
   "group": "Core regional science",
   "url": "https://link.springer.com/journal/41685",
-  "img": "https://media.springernature.com/w153/springer-static/cover-hires/journal/41685"
+  "img": "https://www.regionalscience.org/images/Media/asian.jpg"
  },
  {
   "name": "Economic Systems Research",
   "group": "Core regional science",
-  "url": "https://www.tandfonline.com/journals/cesr20"
+  "url": "https://www.tandfonline.com/journals/cesr20",
+  "img": "https://www.regionalscience.org/images/Media/economicsystemsrescov.jpg"
  },
  {
   "name": "Socio-Economic Planning Sciences",
   "group": "Core regional science",
   "url": "https://www.sciencedirect.com/journal/socio-economic-planning-sciences",
-  "img": "https://ars.els-cdn.com/content/image/X00380121.jpg"
+  "img": "https://www.regionalscience.org/images/Media/SEP.gif"
  },
  {
   "name": "REGION",
   "group": "Core regional science",
-  "url": "https://region.ersa.org"
+  "url": "https://region.ersa.org",
+  "img": "https://www.regionalscience.org/images/Media/cover_issue_region.png"
  },
  {
   "name": "The Review of Regional Studies",
   "group": "Core regional science",
-  "url": "https://rrs.scholasticahq.com"
+  "url": "https://rrs.scholasticahq.com",
+  "img": "https://www.regionalscience.org/images/Media/RRS_Journal_Cover_5-2012_ICO.jpg"
  },
  {
   "name": "Review of Regional Research",
   "group": "Core regional science",
   "url": "https://link.springer.com/journal/10037",
-  "img": "https://media.springernature.com/w153/springer-static/cover-hires/journal/10037"
+  "img": "https://www.regionalscience.org/images/Media/10037.jpg"
  },
  {
   "name": "Letters in Spatial and Resource Sciences",
   "group": "Core regional science",
   "url": "https://link.springer.com/journal/12076",
-  "img": "https://media.springernature.com/w153/springer-static/cover-hires/journal/12076"
+  "img": "https://www.regionalscience.org/images/Media/letters_of_spatial_and_resource_science.jpg"
  },
  {
   "name": "Studies in Regional Science",
   "group": "Core regional science",
-  "url": "https://www.jstage.jst.go.jp/browse/srs"
+  "url": "https://www.jstage.jst.go.jp/browse/srs",
+  "img": "https://www.regionalscience.org/images/Media/Studies_in_Regional_Science.jpg"
  },
  {
   "name": "The Canadian Journal of Regional Science",
   "group": "Core regional science",
-  "url": "https://cjrs-rcsr.org"
+  "url": "https://cjrs-rcsr.org",
+  "img": "https://www.regionalscience.org/images/Media/V43N2-TABLE-MATIERES.jpg"
  },
  {
   "name": "Regional Statistics",
   "group": "Core regional science",
-  "url": "https://www.ksh.hu/regionalstatistics"
+  "url": "https://www.ksh.hu/regionalstatistics",
+  "img": "https://www.regionalscience.org/images/Media/reg_stat_bor.gif"
  },
  {
   "name": "Journal of Regional Analysis and Policy",
   "group": "Core regional science",
-  "url": "https://jrap.scholasticahq.com"
+  "url": "https://jrap.scholasticahq.com",
+  "img": "https://www.regionalscience.org/images/Media/RAP.png"
  },
  {
   "name": "Journal of Economic Structures",
   "group": "Core regional science",
   "url": "https://journalofeconomicstructures.springeropen.com",
-  "img": "https://media.springernature.com/w153/springer-static/cover-hires/journal/40008"
+  "img": "https://www.regionalscience.org/images/Media/JES.gif"
  },
  {
   "name": "Review of Urban and Regional Development Studies",
   "group": "Core regional science",
-  "url": "https://onlinelibrary.wiley.com/journal/1467940x"
+  "url": "https://onlinelibrary.wiley.com/journal/1467940x",
+  "img": "https://www.regionalscience.org/images/Media/rurd.v31.3.cover.gif"
  },
  {
   "name": "Investigaciones Regionales-Journal of Regional Research",
   "group": "Core regional science",
-  "url": "https://investigacionesregionales.org"
+  "url": "https://investigacionesregionales.org",
+  "img": "https://www.regionalscience.org/images/Media/cover_issue_3954_es_ES.jpg"
  },
  {
   "name": "Scienze Regionali - Italian Journal of Regional Science",
   "group": "Core regional science",
-  "url": "https://www.rivisteweb.it/issn/1720-3929"
+  "url": "https://www.rivisteweb.it/issn/1720-3929",
+  "img": "https://www.regionalscience.org/images/Media/1720-3929.gif"
  },
  {
   "name": "Revue d'Economie Regionale et Urbaine",
   "group": "Core regional science",
-  "url": "https://www.cairn.info/revue-d-economie-regionale-et-urbaine.htm"
+  "url": "https://www.cairn.info/revue-d-economie-regionale-et-urbaine.htm",
+  "img": "https://www.regionalscience.org/images/Media/RERU_124_L148.jpg"
  },
  {
   "name": "Revista Portuguesa de Estudos Regionais",
   "group": "Core regional science",
-  "url": "https://rper.apdr.pt"
+  "url": "https://rper.apdr.pt",
+  "img": "https://www.regionalscience.org/images/Media/capa57.jpg"
  },
  {
   "name": "Romanian Journal of Regional Science",
   "group": "Core regional science",
-  "url": "https://rjrs.ase.ro"
+  "url": "https://rjrs.ase.ro",
+  "img": "https://www.regionalscience.org/images/Media/ROMANIAN2.jpg"
  },
  {
   "name": "Revista Brasileira de Estudos Regionais e Urbanos",
   "group": "Core regional science",
-  "url": "https://www.revistaaber.org.br"
+  "url": "https://www.revistaaber.org.br",
+  "img": "https://www.regionalscience.org/images/Media/P%C3%A1ginas_de_33-21-PB.jpg"
  },
  {
   "name": "Regional and Sectoral Economic Studies",
   "group": "Core regional science",
-  "url": "https://www.usc.gal/economet/rses.htm"
+  "url": "https://www.usc.gal/economet/rses.htm",
+  "img": "https://www.regionalscience.org/images/Media/regsecteconomicstudiesjournal.jpg"
  },
  {
   "name": "Regional Science Inquiry",
   "group": "Core regional science",
-  "url": "https://www.rsijournal.eu"
+  "url": "https://www.rsijournal.eu",
+  "img": "https://www.regionalscience.org/images/Media/RSIK.png"
  },
  {
   "name": "Journal of Geography and Regional Planning",
   "group": "Core regional science",
-  "url": "https://academicjournals.org/journal/JGRP"
+  "url": "https://academicjournals.org/journal/JGRP",
+  "img": "https://www.regionalscience.org/images/Media/journal1609846103_JGRP.png"
  },
  {
   "name": "Global Challenges & Regional Science",
   "group": "Core regional science",
-  "url": "https://www.sciencedirect.com/journal/global-challenges-and-regional-science"
+  "url": "https://www.sciencedirect.com/journal/global-challenges-and-regional-science",
+  "img": "https://www.regionalscience.org/images/Media/3050502X.jpg"
  },
  {
   "name": "Sustainable Regional Development Scientific Journal",
   "group": "Core regional science",
-  "url": "http://www.srdsjournal.eu"
+  "url": "http://www.srdsjournal.eu",
+  "img": "https://www.regionalscience.org/images/Media/coverarticle1.png"
  },
  {
   "name": "South African Journal of Economics",
   "group": "Core regional science",
   "url": "https://onlinelibrary.wiley.com/journal/18136982",
-  "wiki": "South African Journal of Economics"
+  "wiki": "South African Journal of Economics",
+  "img": "https://www.regionalscience.org/images/Media/saje.v88.4.cover.gif"
  }
 ]
