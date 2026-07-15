@@ -1,0 +1,30 @@
+name: Auto-rebuild on inbox arrivals
+on:
+  push:
+    branches: [main]
+    paths:
+      - "inbox/*.json"
+      - "inbox/*.ris"
+permissions:
+  contents: write
+jobs:
+  rebuild:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install openpyxl
+      - name: Merge inbox and rebuild
+        run: |
+          python3 scripts/merge_ris.py
+          python3 scripts/build_html.py
+          python3 scripts/build_xlsx.py
+      - name: Commit and push if changed
+        run: |
+          git config user.name "journal-watch-bot"
+          git config user.email "actions@github.com"
+          git add -A
+          git diff --cached --quiet || git commit -m "Auto-rebuild: merged inbox abstracts [skip ci]"
+          git push
