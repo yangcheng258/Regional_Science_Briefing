@@ -341,12 +341,45 @@ if(jlistEl){
     const a=grad[i%2], b=grad[(i%2)+1];
     const ang=(i*47)%360;
     return `<a class="jcard" href="${j.url||"#"}" target="_blank" rel="noopener">
-      <span class="jthumb" style="background:linear-gradient(${ang}deg,${a},${b})">${initials(j.name)}${j.img?`<img src="${j.img}" alt="" loading="lazy" onerror="this.remove()">`:""}</span>
+      <span class="jthumb" data-jn="${j.name.replace(/"/g,"&quot;")}" style="background:linear-gradient(${ang}deg,${a},${b})">${initials(j.name)}${j.img?`<img src="${j.img}" alt="" loading="lazy" onerror="this.remove()">`:""}</span>
       <span><span class="jname">${j.name}</span><br><span class="jmeta">${counts[j.name]?counts[j.name]+" papers · ":""}visit journal ↗</span></span></a>`;
    }).join("")
   }</div></details>`;
  }).join("")+
  `<p style="font-size:12px;color:#6a6a66;margin-top:8px">Papers counts reflect the current archive; journals without a count are covered and will appear as they publish.</p>`;
+ setTimeout(resolveWikiCovers,1500);
+}
+async function resolveWikiCovers(){
+ const wikimap={};JALL.forEach(j=>{if(j.wiki)wikimap[j.wiki]=j.name;});
+ const titles=Object.keys(wikimap);if(!titles.length)return;
+ const byName={};
+ for(let i=0;i<titles.length;i+=25){
+  const batch=titles.slice(i,i+25);
+  try{
+   const u="https://en.wikipedia.org/w/api.php?action=query&format=json&origin=*&prop=pageimages&pithumbsize=200&redirects=1&titles="+encodeURIComponent(batch.join("|"));
+   const r=await fetch(u);if(!r.ok)continue;
+   const d=await r.json();
+   const redir={};(d.query.redirects||[]).forEach(x=>{redir[x.to]=x.from;});
+   const norm={};(d.query.normalized||[]).forEach(x=>{norm[x.to]=x.from;});
+   Object.values(d.query.pages||{}).forEach(p=>{
+    if(!p.thumbnail||!p.thumbnail.source)return;
+    let t=p.title;
+    if(redir[t])t=redir[t];
+    if(norm[t])t=norm[t];
+    const name=wikimap[t]||wikimap[p.title];
+    if(name)byName[name]=p.thumbnail.source;
+   });
+  }catch(e){}
+ }
+ document.querySelectorAll(".jthumb[data-jn]").forEach(el=>{
+  if(el.querySelector("img"))return;              // publisher cover already showing
+  const src=byName[el.dataset.jn];
+  if(!src)return;
+  const im=document.createElement("img");
+  im.alt="";im.loading="lazy";im.src=src;
+  im.onerror=()=>im.remove();
+  el.appendChild(im);
+ });
 }
 const themesEl=document.getElementById("themes");
 if(themesEl)themesEl.innerHTML=TAX.map(t=>

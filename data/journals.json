@@ -2,40 +2,47 @@
  {
   "name": "Journal of Regional Science",
   "group": "Core regional science",
-  "url": "https://onlinelibrary.wiley.com/journal/14679787"
+  "url": "https://onlinelibrary.wiley.com/journal/14679787",
+  "wiki": "Journal of Regional Science"
  },
  {
   "name": "Papers in Regional Science",
   "group": "Core regional science",
   "url": "https://www.sciencedirect.com/journal/papers-in-regional-science",
-  "img": "https://ars.els-cdn.com/content/image/X10568190.jpg"
+  "img": "https://ars.els-cdn.com/content/image/X10568190.jpg",
+  "wiki": "Papers in Regional Science"
  },
  {
   "name": "Annals of Regional Science",
   "group": "Core regional science",
   "url": "https://link.springer.com/journal/168",
-  "img": "https://media.springernature.com/w153/springer-static/cover-hires/journal/168"
+  "img": "https://media.springernature.com/w153/springer-static/cover-hires/journal/168",
+  "wiki": "The Annals of Regional Science"
  },
  {
   "name": "Regional Science and Urban Economics",
   "group": "Core regional science",
   "url": "https://www.sciencedirect.com/journal/regional-science-and-urban-economics",
-  "img": "https://ars.els-cdn.com/content/image/X01660462.jpg"
+  "img": "https://ars.els-cdn.com/content/image/X01660462.jpg",
+  "wiki": "Regional Science and Urban Economics"
  },
  {
   "name": "Regional Studies",
   "group": "Core regional science",
-  "url": "https://www.tandfonline.com/journals/cres20"
+  "url": "https://www.tandfonline.com/journals/cres20",
+  "wiki": "Regional Studies (journal)"
  },
  {
   "name": "Spatial Economic Analysis",
   "group": "Core regional science",
-  "url": "https://www.tandfonline.com/journals/rsea20"
+  "url": "https://www.tandfonline.com/journals/rsea20",
+  "wiki": "Spatial Economic Analysis"
  },
  {
   "name": "International Regional Science Review",
   "group": "Core regional science",
-  "url": "https://journals.sagepub.com/home/irx"
+  "url": "https://journals.sagepub.com/home/irx",
+  "wiki": "International Regional Science Review"
  },
  {
   "name": "Regional Science Policy & Practice",
@@ -47,66 +54,78 @@
   "name": "Journal of Urban Economics",
   "group": "Urban / spatial / econ geography",
   "url": "https://www.sciencedirect.com/journal/journal-of-urban-economics",
-  "img": "https://ars.els-cdn.com/content/image/X00941190.jpg"
+  "img": "https://ars.els-cdn.com/content/image/X00941190.jpg",
+  "wiki": "Journal of Urban Economics"
  },
  {
   "name": "Journal of Economic Geography",
   "group": "Urban / spatial / econ geography",
-  "url": "https://academic.oup.com/joeg"
+  "url": "https://academic.oup.com/joeg",
+  "wiki": "Journal of Economic Geography"
  },
  {
   "name": "Economic Geography",
   "group": "Urban / spatial / econ geography",
-  "url": "https://www.tandfonline.com/journals/recg20"
+  "url": "https://www.tandfonline.com/journals/recg20",
+  "wiki": "Economic Geography (journal)"
  },
  {
   "name": "Environment and Planning A",
   "group": "Urban / spatial / econ geography",
-  "url": "https://journals.sagepub.com/home/epn"
+  "url": "https://journals.sagepub.com/home/epn",
+  "wiki": "Environment and Planning"
  },
  {
   "name": "Journal of Rural Studies",
   "group": "Rural & land",
   "url": "https://www.sciencedirect.com/journal/journal-of-rural-studies",
-  "img": "https://ars.els-cdn.com/content/image/X07430167.jpg"
+  "img": "https://ars.els-cdn.com/content/image/X07430167.jpg",
+  "wiki": "Journal of Rural Studies"
  },
  {
   "name": "Land Use Policy",
   "group": "Rural & land",
   "url": "https://www.sciencedirect.com/journal/land-use-policy",
-  "img": "https://ars.els-cdn.com/content/image/X02648377.jpg"
+  "img": "https://ars.els-cdn.com/content/image/X02648377.jpg",
+  "wiki": "Land Use Policy (journal)"
  },
  {
   "name": "Growth and Change",
   "group": "Rural & land",
-  "url": "https://onlinelibrary.wiley.com/journal/14682257"
+  "url": "https://onlinelibrary.wiley.com/journal/14682257",
+  "wiki": "Growth and Change (journal)"
  },
  {
   "name": "American Journal of Agricultural Economics",
   "group": "Agricultural & applied economics",
-  "url": "https://onlinelibrary.wiley.com/journal/14678276"
+  "url": "https://onlinelibrary.wiley.com/journal/14678276",
+  "wiki": "American Journal of Agricultural Economics"
  },
  {
   "name": "Applied Economic Perspectives and Policy",
   "group": "Agricultural & applied economics",
-  "url": "https://onlinelibrary.wiley.com/journal/20405804"
+  "url": "https://onlinelibrary.wiley.com/journal/20405804",
+  "wiki": "Applied Economic Perspectives and Policy"
  },
  {
   "name": "Food Policy",
   "group": "Agricultural & applied economics",
   "url": "https://www.sciencedirect.com/journal/food-policy",
-  "img": "https://ars.els-cdn.com/content/image/X03069192.jpg"
+  "img": "https://ars.els-cdn.com/content/image/X03069192.jpg",
+  "wiki": "Food Policy (journal)"
  },
  {
   "name": "European Review of Agricultural Economics",
   "group": "Agricultural & applied economics",
-  "url": "https://academic.oup.com/erae"
+  "url": "https://academic.oup.com/erae",
+  "wiki": "European Review of Agricultural Economics"
  },
  {
   "name": "Journal of Environmental Economics and Management",
   "group": "Environment & resource economics",
   "url": "https://www.sciencedirect.com/journal/journal-of-environmental-economics-and-management",
-  "img": "https://ars.els-cdn.com/content/image/X00950696.jpg"
+  "img": "https://ars.els-cdn.com/content/image/X00950696.jpg",
+  "wiki": "Journal of Environmental Economics and Management"
  },
  {
   "name": "Journal of the Association of Environmental and Resource Economists",
@@ -116,34 +135,40 @@
  {
   "name": "Land Economics",
   "group": "Environment & resource economics",
-  "url": "https://le.uwpress.org"
+  "url": "https://le.uwpress.org",
+  "wiki": "Land Economics"
  },
  {
   "name": "Ecological Economics",
   "group": "Environment & resource economics",
   "url": "https://www.sciencedirect.com/journal/ecological-economics",
-  "img": "https://ars.els-cdn.com/content/image/X09218009.jpg"
+  "img": "https://ars.els-cdn.com/content/image/X09218009.jpg",
+  "wiki": "Ecological Economics (journal)"
  },
  {
   "name": "Urban Studies",
   "group": "Urban / spatial / econ geography",
-  "url": "https://journals.sagepub.com/home/usj"
+  "url": "https://journals.sagepub.com/home/usj",
+  "wiki": "Urban Studies (journal)"
  },
  {
   "name": "Cities",
   "group": "Urban / spatial / econ geography",
   "url": "https://www.sciencedirect.com/journal/cities",
-  "img": "https://ars.els-cdn.com/content/image/X02642751.jpg"
+  "img": "https://ars.els-cdn.com/content/image/X02642751.jpg",
+  "wiki": "Cities (journal)"
  },
  {
   "name": "International Journal of Urban and Regional Research",
   "group": "Urban / spatial / econ geography",
-  "url": "https://onlinelibrary.wiley.com/journal/14682427"
+  "url": "https://onlinelibrary.wiley.com/journal/14682427",
+  "wiki": "International Journal of Urban and Regional Research"
  },
  {
   "name": "Journal of Urban Affairs",
   "group": "Urban / spatial / econ geography",
-  "url": "https://www.tandfonline.com/journals/ujua20"
+  "url": "https://www.tandfonline.com/journals/ujua20",
+  "wiki": "Journal of Urban Affairs"
  },
  {
   "name": "Computers, Environment and Urban Systems",
@@ -155,24 +180,28 @@
   "name": "Transportation Research Part A: Policy and Practice",
   "group": "Urban / spatial / econ geography",
   "url": "https://www.sciencedirect.com/journal/transportation-research-part-a-policy-and-practice",
-  "img": "https://ars.els-cdn.com/content/image/X09658564.jpg"
+  "img": "https://ars.els-cdn.com/content/image/X09658564.jpg",
+  "wiki": "Transportation Research"
  },
  {
   "name": "Geographical Analysis",
   "group": "Core regional science",
-  "url": "https://onlinelibrary.wiley.com/journal/15384632"
+  "url": "https://onlinelibrary.wiley.com/journal/15384632",
+  "wiki": "Geographical Analysis"
  },
  {
   "name": "Journal of Geographical Systems",
   "group": "Core regional science",
   "url": "https://link.springer.com/journal/10109",
-  "img": "https://media.springernature.com/w153/springer-static/cover-hires/journal/10109"
+  "img": "https://media.springernature.com/w153/springer-static/cover-hires/journal/10109",
+  "wiki": "Journal of Geographical Systems"
  },
  {
   "name": "Networks and Spatial Economics",
   "group": "Core regional science",
   "url": "https://link.springer.com/journal/11067",
-  "img": "https://media.springernature.com/w153/springer-static/cover-hires/journal/11067"
+  "img": "https://media.springernature.com/w153/springer-static/cover-hires/journal/11067",
+  "wiki": "Networks and Spatial Economics"
  },
  {
   "name": "Applied Spatial Analysis and Policy",
@@ -308,6 +337,7 @@
  {
   "name": "South African Journal of Economics",
   "group": "Core regional science",
-  "url": "https://onlinelibrary.wiley.com/journal/18136982"
+  "url": "https://onlinelibrary.wiley.com/journal/18136982",
+  "wiki": "South African Journal of Economics"
  }
 ]
