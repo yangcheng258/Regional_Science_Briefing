@@ -121,6 +121,19 @@ details.sect[open] summary::before{content:"⌄ "}
 .about .dhead{font-family:var(--mono);font-size:10px;letter-spacing:.15em;
  text-transform:uppercase;color:var(--accent);margin:18px 0 8px}
 .about li{font-size:13px;color:var(--muted);line-height:1.6;margin-bottom:6px;max-width:80ch}
+details.jgrp{border:1px solid var(--line);background:var(--card);margin:0 0 10px}
+details.jgrp summary{cursor:pointer;list-style:none;padding:12px 14px;
+ font-family:var(--mono);font-size:10px;letter-spacing:.15em;text-transform:uppercase;color:var(--fg)}
+details.jgrp summary::-webkit-details-marker{display:none}
+details.jgrp summary::before{content:"› ";color:var(--accent)}
+details.jgrp[open] summary::before{content:"⌄ "}
+.jcards{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:1px;background:var(--line);border-top:1px solid var(--line)}
+.jcard{display:flex;gap:10px;align-items:center;background:var(--card);padding:10px 12px;text-decoration:none}
+.jcard:hover{background:var(--bg);text-decoration:none}
+.jthumb{width:40px;height:40px;flex:none;display:flex;align-items:center;justify-content:center;
+ font-family:var(--mono);font-size:11px;font-weight:500;color:rgba(255,255,255,.95);letter-spacing:.05em}
+.jname{font-family:var(--serif);font-size:13.5px;font-weight:500;line-height:1.25;color:var(--fg)}
+.jmeta{font-family:var(--mono);font-size:9px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin-top:2px}
 
 /* ── Controls ── */
 .controls{position:sticky;top:51px;z-index:9;background:rgba(246,244,239,.94);
@@ -308,15 +321,30 @@ function lsGet(k){try{return localStorage.getItem(k)}catch(e){return null}}
 
 const jlistEl=document.getElementById("jlist");
 if(jlistEl){
+ const GGRAD={
+  "Core regional science":["#cdd9bf","#8aa074","#4a5d3a"],
+  "Urban / spatial / econ geography":["#c0d6e8","#7a9bc2","#33567a"],
+  "Rural & land":["#e3d9c2","#a89272","#5d4a2c"],
+  "Agricultural & applied economics":["#e7d6b8","#c8a97a","#7a6347"],
+  "Environment & resource economics":["#c8e2cb","#6fa57c","#2c5a3a"]};
+ const initials=n=>n.replace(/[^A-Za-z ]/g,"").split(" ").filter(w=>w.length>2&&!/^(and|the|of|in|for|part)$/i.test(w)).map(w=>w[0]).join("").slice(0,3).toUpperCase()||n.slice(0,2).toUpperCase();
  const groups={};
- JALL.forEach(j=>{(groups[j.group]=groups[j.group]||[]).push(j.name);});
+ JALL.forEach(j=>{(groups[j.group]=groups[j.group]||[]).push(j);});
  const counts={};
  DATA.forEach(d=>{counts[d.journal]=(counts[d.journal]||0)+1;});
- jlistEl.innerHTML=Object.entries(groups).map(([g,names])=>
-  `<div class="theme"><h4>${g} (${names.length})</h4><p>${
-    names.map(n=>counts[n]?`${n} (${counts[n]})`:n).join(" · ")
-  }</p></div>`).join("")+
-  `<p style="font-size:12px;color:#6a6a66">Numbers show papers currently in the archive; journals without a number are covered and will appear as they publish. Full list: data/journals.json.</p>`;
+ jlistEl.innerHTML=Object.entries(groups).map(([g,js],gi)=>{
+  const grad=GGRAD[g]||["#d8d4ca","#a8a49a","#6a6a66"];
+  return `<details class="jgrp"${gi===0?" open":""}><summary>${g} · ${js.length} journals</summary><div class="jcards">${
+   js.map((j,i)=>{
+    const a=grad[i%2], b=grad[(i%2)+1];
+    const ang=(i*47)%360;
+    return `<a class="jcard" href="${j.url||"#"}" target="_blank" rel="noopener">
+      <span class="jthumb" style="background:linear-gradient(${ang}deg,${a},${b})">${initials(j.name)}</span>
+      <span><span class="jname">${j.name}</span><br><span class="jmeta">${counts[j.name]?counts[j.name]+" papers · ":""}visit journal ↗</span></span></a>`;
+   }).join("")
+  }</div></details>`;
+ }).join("")+
+ `<p style="font-size:12px;color:#6a6a66;margin-top:8px">Papers counts reflect the current archive; journals without a count are covered and will appear as they publish.</p>`;
 }
 const themesEl=document.getElementById("themes");
 if(themesEl)themesEl.innerHTML=TAX.map(t=>

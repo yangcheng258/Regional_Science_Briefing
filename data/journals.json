@@ -1,234 +1,292 @@
 [
  {
   "name": "Journal of Regional Science",
-  "group": "Core regional science"
+  "group": "Core regional science",
+  "url": "https://onlinelibrary.wiley.com/journal/14679787"
  },
  {
   "name": "Papers in Regional Science",
-  "group": "Core regional science"
+  "group": "Core regional science",
+  "url": "https://www.sciencedirect.com/journal/papers-in-regional-science"
  },
  {
   "name": "Annals of Regional Science",
-  "group": "Core regional science"
+  "group": "Core regional science",
+  "url": "https://link.springer.com/journal/168"
  },
  {
   "name": "Regional Science and Urban Economics",
-  "group": "Core regional science"
+  "group": "Core regional science",
+  "url": "https://www.sciencedirect.com/journal/regional-science-and-urban-economics"
  },
  {
   "name": "Regional Studies",
-  "group": "Core regional science"
+  "group": "Core regional science",
+  "url": "https://www.tandfonline.com/journals/cres20"
  },
  {
   "name": "Spatial Economic Analysis",
-  "group": "Core regional science"
+  "group": "Core regional science",
+  "url": "https://www.tandfonline.com/journals/rsea20"
  },
  {
   "name": "International Regional Science Review",
-  "group": "Core regional science"
+  "group": "Core regional science",
+  "url": "https://journals.sagepub.com/home/irx"
  },
  {
   "name": "Regional Science Policy & Practice",
-  "group": "Core regional science"
+  "group": "Core regional science",
+  "url": "https://www.sciencedirect.com/journal/regional-science-policy-and-practice"
  },
  {
   "name": "Journal of Urban Economics",
-  "group": "Urban / spatial / econ geography"
+  "group": "Urban / spatial / econ geography",
+  "url": "https://www.sciencedirect.com/journal/journal-of-urban-economics"
  },
  {
   "name": "Journal of Economic Geography",
-  "group": "Urban / spatial / econ geography"
+  "group": "Urban / spatial / econ geography",
+  "url": "https://academic.oup.com/joeg"
  },
  {
   "name": "Economic Geography",
-  "group": "Urban / spatial / econ geography"
+  "group": "Urban / spatial / econ geography",
+  "url": "https://www.tandfonline.com/journals/recg20"
  },
  {
   "name": "Environment and Planning A",
-  "group": "Urban / spatial / econ geography"
+  "group": "Urban / spatial / econ geography",
+  "url": "https://journals.sagepub.com/home/epn"
  },
  {
   "name": "Journal of Rural Studies",
-  "group": "Rural & land"
+  "group": "Rural & land",
+  "url": "https://www.sciencedirect.com/journal/journal-of-rural-studies"
  },
  {
   "name": "Land Use Policy",
-  "group": "Rural & land"
+  "group": "Rural & land",
+  "url": "https://www.sciencedirect.com/journal/land-use-policy"
  },
  {
   "name": "Growth and Change",
-  "group": "Rural & land"
+  "group": "Rural & land",
+  "url": "https://onlinelibrary.wiley.com/journal/14682257"
  },
  {
   "name": "American Journal of Agricultural Economics",
-  "group": "Agricultural & applied economics"
+  "group": "Agricultural & applied economics",
+  "url": "https://onlinelibrary.wiley.com/journal/14678276"
  },
  {
   "name": "Applied Economic Perspectives and Policy",
-  "group": "Agricultural & applied economics"
+  "group": "Agricultural & applied economics",
+  "url": "https://onlinelibrary.wiley.com/journal/20405804"
  },
  {
   "name": "Food Policy",
-  "group": "Agricultural & applied economics"
+  "group": "Agricultural & applied economics",
+  "url": "https://www.sciencedirect.com/journal/food-policy"
  },
  {
   "name": "European Review of Agricultural Economics",
-  "group": "Agricultural & applied economics"
+  "group": "Agricultural & applied economics",
+  "url": "https://academic.oup.com/erae"
  },
  {
   "name": "Journal of Environmental Economics and Management",
-  "group": "Environment & resource economics"
+  "group": "Environment & resource economics",
+  "url": "https://www.sciencedirect.com/journal/journal-of-environmental-economics-and-management"
  },
  {
   "name": "Journal of the Association of Environmental and Resource Economists",
-  "group": "Environment & resource economics"
+  "group": "Environment & resource economics",
+  "url": "https://www.journals.uchicago.edu/toc/jaere/current"
  },
  {
   "name": "Land Economics",
-  "group": "Environment & resource economics"
+  "group": "Environment & resource economics",
+  "url": "https://le.uwpress.org"
  },
  {
   "name": "Ecological Economics",
-  "group": "Environment & resource economics"
+  "group": "Environment & resource economics",
+  "url": "https://www.sciencedirect.com/journal/ecological-economics"
  },
  {
   "name": "Urban Studies",
-  "group": "Urban / spatial / econ geography"
+  "group": "Urban / spatial / econ geography",
+  "url": "https://journals.sagepub.com/home/usj"
  },
  {
   "name": "Cities",
-  "group": "Urban / spatial / econ geography"
+  "group": "Urban / spatial / econ geography",
+  "url": "https://www.sciencedirect.com/journal/cities"
  },
  {
   "name": "International Journal of Urban and Regional Research",
-  "group": "Urban / spatial / econ geography"
+  "group": "Urban / spatial / econ geography",
+  "url": "https://onlinelibrary.wiley.com/journal/14682427"
  },
  {
   "name": "Journal of Urban Affairs",
-  "group": "Urban / spatial / econ geography"
+  "group": "Urban / spatial / econ geography",
+  "url": "https://www.tandfonline.com/journals/ujua20"
  },
  {
   "name": "Computers, Environment and Urban Systems",
-  "group": "Urban / spatial / econ geography"
+  "group": "Urban / spatial / econ geography",
+  "url": "https://www.sciencedirect.com/journal/computers-environment-and-urban-systems"
  },
  {
   "name": "Transportation Research Part A: Policy and Practice",
-  "group": "Urban / spatial / econ geography"
+  "group": "Urban / spatial / econ geography",
+  "url": "https://www.sciencedirect.com/journal/transportation-research-part-a-policy-and-practice"
  },
  {
   "name": "Geographical Analysis",
-  "group": "Core regional science"
+  "group": "Core regional science",
+  "url": "https://onlinelibrary.wiley.com/journal/15384632"
  },
  {
   "name": "Journal of Geographical Systems",
-  "group": "Core regional science"
+  "group": "Core regional science",
+  "url": "https://link.springer.com/journal/10109"
  },
  {
   "name": "Networks and Spatial Economics",
-  "group": "Core regional science"
+  "group": "Core regional science",
+  "url": "https://link.springer.com/journal/11067"
  },
  {
   "name": "Applied Spatial Analysis and Policy",
-  "group": "Core regional science"
+  "group": "Core regional science",
+  "url": "https://link.springer.com/journal/12061"
  },
  {
   "name": "Asia-Pacific Journal of Regional Science",
-  "group": "Core regional science"
+  "group": "Core regional science",
+  "url": "https://link.springer.com/journal/41685"
  },
  {
   "name": "Economic Systems Research",
-  "group": "Core regional science"
+  "group": "Core regional science",
+  "url": "https://www.tandfonline.com/journals/cesr20"
  },
  {
   "name": "Socio-Economic Planning Sciences",
-  "group": "Core regional science"
+  "group": "Core regional science",
+  "url": "https://www.sciencedirect.com/journal/socio-economic-planning-sciences"
  },
  {
   "name": "REGION",
-  "group": "Core regional science"
+  "group": "Core regional science",
+  "url": "https://region.ersa.org"
  },
  {
   "name": "The Review of Regional Studies",
-  "group": "Core regional science"
+  "group": "Core regional science",
+  "url": "https://rrs.scholasticahq.com"
  },
  {
   "name": "Review of Regional Research",
-  "group": "Core regional science"
+  "group": "Core regional science",
+  "url": "https://link.springer.com/journal/10037"
  },
  {
   "name": "Letters in Spatial and Resource Sciences",
-  "group": "Core regional science"
+  "group": "Core regional science",
+  "url": "https://link.springer.com/journal/12076"
  },
  {
   "name": "Studies in Regional Science",
-  "group": "Core regional science"
+  "group": "Core regional science",
+  "url": "https://www.jstage.jst.go.jp/browse/srs"
  },
  {
   "name": "The Canadian Journal of Regional Science",
-  "group": "Core regional science"
+  "group": "Core regional science",
+  "url": "https://cjrs-rcsr.org"
  },
  {
   "name": "Regional Statistics",
-  "group": "Core regional science"
+  "group": "Core regional science",
+  "url": "https://www.ksh.hu/regionalstatistics"
  },
  {
   "name": "Journal of Regional Analysis and Policy",
-  "group": "Core regional science"
+  "group": "Core regional science",
+  "url": "https://jrap.scholasticahq.com"
  },
  {
   "name": "Journal of Economic Structures",
-  "group": "Core regional science"
+  "group": "Core regional science",
+  "url": "https://journalofeconomicstructures.springeropen.com"
  },
  {
   "name": "Review of Urban and Regional Development Studies",
-  "group": "Core regional science"
+  "group": "Core regional science",
+  "url": "https://onlinelibrary.wiley.com/journal/1467940x"
  },
  {
   "name": "Investigaciones Regionales-Journal of Regional Research",
-  "group": "Core regional science"
+  "group": "Core regional science",
+  "url": "https://investigacionesregionales.org"
  },
  {
   "name": "Scienze Regionali - Italian Journal of Regional Science",
-  "group": "Core regional science"
+  "group": "Core regional science",
+  "url": "https://www.rivisteweb.it/issn/1720-3929"
  },
  {
   "name": "Revue d'Economie Regionale et Urbaine",
-  "group": "Core regional science"
+  "group": "Core regional science",
+  "url": "https://www.cairn.info/revue-d-economie-regionale-et-urbaine.htm"
  },
  {
   "name": "Revista Portuguesa de Estudos Regionais",
-  "group": "Core regional science"
+  "group": "Core regional science",
+  "url": "https://rper.apdr.pt"
  },
  {
   "name": "Romanian Journal of Regional Science",
-  "group": "Core regional science"
+  "group": "Core regional science",
+  "url": "https://rjrs.ase.ro"
  },
  {
   "name": "Revista Brasileira de Estudos Regionais e Urbanos",
-  "group": "Core regional science"
+  "group": "Core regional science",
+  "url": "https://www.revistaaber.org.br"
  },
  {
   "name": "Regional and Sectoral Economic Studies",
-  "group": "Core regional science"
+  "group": "Core regional science",
+  "url": "https://www.usc.gal/economet/rses.htm"
  },
  {
   "name": "Regional Science Inquiry",
-  "group": "Core regional science"
+  "group": "Core regional science",
+  "url": "https://www.rsijournal.eu"
  },
  {
   "name": "Journal of Geography and Regional Planning",
-  "group": "Core regional science"
+  "group": "Core regional science",
+  "url": "https://academicjournals.org/journal/JGRP"
  },
  {
   "name": "Global Challenges & Regional Science",
-  "group": "Core regional science"
+  "group": "Core regional science",
+  "url": "https://www.sciencedirect.com/journal/global-challenges-and-regional-science"
  },
  {
   "name": "Sustainable Regional Development Scientific Journal",
-  "group": "Core regional science"
+  "group": "Core regional science",
+  "url": "http://www.srdsjournal.eu"
  },
  {
   "name": "South African Journal of Economics",
-  "group": "Core regional science"
+  "group": "Core regional science",
+  "url": "https://onlinelibrary.wiley.com/journal/18136982"
  }
 ]
