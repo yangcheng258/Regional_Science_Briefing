@@ -119,6 +119,7 @@
    "Add a journal: one line in data/journals.json in the GitHub repository — the next weekly update starts covering it (the journal count on this page updates automatically).",
    "Add or adjust a theme: edit themes_taxonomy in data/overview.json (never rename existing ids).",
    "Change any wording on this page: edit data/overview.json — or simply ask Claude in a Cowork chat."
-  ]
+  ],
+  "author_url": "https://yangcheng258.github.io"
  }
 }

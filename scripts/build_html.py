@@ -80,6 +80,8 @@ a:hover{color:var(--accent-hover);text-decoration:underline}
  position:sticky;top:0;z-index:10;background:rgba(246,244,239,.9);
  backdrop-filter:blur(8px) saturate(140%)}
 .mark{font-family:var(--serif);font-style:italic;font-size:22px;color:var(--fg);letter-spacing:-.01em}
+.mark a,footer .fmark a{color:inherit;text-decoration:none}
+.mark a:hover,footer .fmark a:hover{text-decoration:underline}
 .topnav{display:flex;gap:26px;align-items:center}
 .topnav a{color:var(--fg);font-size:13px;font-weight:500;letter-spacing:.02em}
 .topnav a:hover{color:var(--accent);text-decoration:none}
@@ -223,7 +225,7 @@ footer .fmono{font-family:var(--mono);font-size:10px;letter-spacing:.1em;text-tr
 
 <div class="shell">
   <div class="topbar">
-    <div class="mark">__AUTHOR__</div>
+    <div class="mark"><a href="__AUTHORURL__" target="_blank" rel="noopener">__AUTHOR__</a></div>
     <nav class="topnav">
       <a href="#" id="nav-all">Papers</a>
       <a href="#about" id="nav-about">About</a>
@@ -304,7 +306,7 @@ footer .fmono{font-family:var(--mono);font-size:10px;letter-spacing:.1em;text-tr
 
 <footer>
   <div class="inner">
-    <div class="fmark">__AUTHOR__</div>
+    <div class="fmark"><a href="__AUTHORURL__" target="_blank" rel="noopener">__AUTHOR__</a></div>
     <p>__FOOTDISC__</p>
     <p class="fmono">Journal Watch · updated __TODAY__ · built &amp; maintained with Claude (Anthropic) ·
     <a href="https://github.com/yangcheng258/Regional_Science_Briefing" target="_blank" rel="noopener">source &amp; history on GitHub</a></p>
@@ -647,6 +649,7 @@ HTML = (HTML.replace("__PAYLOAD__", json.dumps(data, ensure_ascii=False))
             .replace("__NT__", str(n_total)).replace("__NJ__", str(n_j))
             .replace("__NA__", str(n_abs)).replace("__NNEW__", str(n_new))
             .replace("__TODAY__", TODAY)
+            .replace("__AUTHORURL__", SITE.get("author_url", "https://yangcheng258.github.io"))
             .replace("__AUTHOR__", SITE.get("author", "Yang Cheng"))
             .replace("__AFFILIATION__", SITE.get("affiliation", ""))
             .replace("__TAGLINE__", SITE.get("tagline", ""))
