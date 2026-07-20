@@ -5405,5 +5405,853 @@
   "url": "https://scholar.google.com/scholar?q=%22Mapping%20Educational%20Exclusion%3A%20A%20Spatio-Temporal%20Analysis%20of%20Out-of-School%20Children%20in%20Nig%22",
   "added": "2026-07-15",
   "themes": []
+ },
+ {
+  "journal": "Growth and Change",
+  "group": "Rural & land",
+  "date": "2026 (Early View)",
+  "title": "Digital Empowerment and Rural Transformation: How Digital Rural Development Shapes Non-Agricultural Entrepreneurship in China",
+  "authors": "Liu",
+  "keywords": "",
+  "abstract": "",
+  "doi": "10.1111/grow.70141",
+  "url": "https://doi.org/10.1111/grow.70141",
+  "added": "2026-07-20",
+  "themes": [
+   "digital",
+   "labor",
+   "rural"
+  ],
+  "summary": "Digital Empowerment and Rural Transformation: How Digital Rural Development Shapes Non-Agricultural Entrepreneurship in China."
+ },
+ {
+  "journal": "Journal of Geographical Systems",
+  "group": "Core regional science",
+  "date": "2026-07-20",
+  "title": "Spatial panel models with heterogeneous coefficients: a scalable, integrated hamiltonian monte carlo estimation framework",
+  "authors": "Yuheng Ling; Peiyi Wu; Lei Jiang",
+  "keywords": "Bayesian spatial panel models; Heterogeneous coefficients; Hierarchical prior; Hamiltonian Monte Carlo; Hutchinson stochastic trace estimator",
+  "abstract": "Spatial panel models with heterogeneous coefficients provide a flexible framework for capturing region-specific spillovers, but their practical use is often constrained by two challenges: (i) existing estimators primarily justified under large-T asymptotics, leaving unit-specific effects imprecisely estimated in the short panels common in regional science; and (ii) allowing spatial dependence and slopes to vary across units yields a high-dimensional parameter space that is difficult to estimate efficiently. This paper proposes a hierarchical Bayesian spatial model with heterogeneous coefficients that addresses both issues through hierarchical priors and an integrated Hamiltonian Monte Carlo estimation framework. The hierarchical prior induces partial pooling across units, shifting inference toward low-dimensional population hyperparameters while stabilizing unit-level estimates in finite samples, particularly when N>T. Furthermore, we develop scalable evaluation of the log-determinant term using a power-series expansion and Hutchinson stochastic trace estimation, and we exploit sparse matrix-vector multiplication and parallel computing to improve computational efficiency. Comprehensive simulation experiments demonstrate that the proposed Bayesian framework delivers reliable finite-sample inference and improved estimation accuracy relative to maximum likelihood in short panels. The results also show that the heterogeneous spatial dependence is more sensitive to the density of the spatial weights matrix than slope coefficients, offering practical guidance for applied research.",
+  "doi": "10.1007/s10109-026-00508-4",
+  "url": "https://doi.org/10.1007/s10109-026-00508-4",
+  "added": "2026-07-20",
+  "themes": [
+   "policy"
+  ],
+  "summary": "Comprehensive simulation experiments demonstrate that the proposed Bayesian framework delivers reliable finite-sample inference and improved estimation accuracy relative to maximum likelihood in short panels."
+ },
+ {
+  "journal": "Journal of Geographical Systems",
+  "group": "Core regional science",
+  "date": "2026-07-16",
+  "title": "Divergence-driven co-evolution between spatial regulation and urban development in complex urban systems",
+  "authors": "Weixuan Fang; Wenbin Zhang",
+  "keywords": "Co-evolution; Endogenous regulation; Complex systems; Adaptive governance; Feedback dynamics",
+  "abstract": "Complex urban systems are shaped by the ongoing interaction between regulatory rules and emergent spatial dynamics. In planning theory and urban modelling, regulation is often conceptualized as an external instrument designed to steer or correct self-organizing processes. This paper challenges that separation by reconceptualizing regulation as an endogenous process generated within the dynamics it seeks to govern. The paper introduces a divergence-driven framework in which regulation evolves through the persistent gap between regulatory intentions and realized spatial outcomes. Rather than being treated only as policy failure, divergence is understood as a generative condition that produces recursive feedback between regulation and urban development. By developing a formal representation of this process, the paper shows how regulatory adjustment and urban dynamics may co-evolve through ongoing interaction. The contribution is primarily theoretical and methodological, offering a formal account of regulation as endogenous feedback and reframing divergence as a structural driver of adaptive governance in complex urban systems. This perspective shifts the focus from the pursuit of control and equilibrium toward the management of uncertainty and persistent misalignment.",
+  "doi": "10.1007/s10109-026-00511-9",
+  "url": "https://doi.org/10.1007/s10109-026-00511-9",
+  "added": "2026-07-20",
+  "themes": [
+   "policy"
+  ],
+  "summary": "Complex urban systems are shaped by the ongoing interaction between regulatory rules and emergent spatial dynamics."
+ },
+ {
+  "journal": "Networks and Spatial Economics",
+  "group": "Core regional science",
+  "date": "2026-07-16",
+  "title": "Seasonal Reconfiguration of Platform-Mediated Fruit Freight Flow Networks: A Directed Weighted OD-Flow Analysis in China",
+  "authors": "Haoyu Zheng; Hongbo Qu; Bo Song; Hui Zhang; Yu-Rong Song",
+  "keywords": "Platform-mediated freight; Fruit logistics; OD-flow network; Seasonal dynamics; Directed weighted network",
+  "abstract": "Intercity freight flows vary within the year, especially for seasonal commodities such as fruit, yet many freight-network studies still rely on annually aggregated static networks. Using fulfillment records for fruit shipments from a leading digital freight platform in China, we construct monthly and seasonal directed weighted origin–destination (OD) flow networks for December 2022–November 2023. The analysis asks whether seasonal variation is associated with changes in hub roles, community structure, and OD-graph connectivity at three structural levels: node, community, and network. The results show a stable consumption-side core and a more variable production-side core. Among monthly top-10% strength nodes, consumption-oriented inbound hubs show a 75% twelve-month persistence rate, whereas production-oriented outbound hubs show an approximately 81% twelve-month replacement rate. Seasonal snapshots also differ in community granularity and observed OD connectivity: summer contains more direct OD relations, whereas spring and winter require more graph-theoretic intermediary steps to connect city pairs in the OD relation graph. These graph paths describe connectivity in the observed OD relation network, not physical truck routes or transshipment chains. A cross-commodity comparison with electronics and a seasonal PPML gravity model delimit the scope of the findings and show that the observed patterns are consistent with spatial-interaction mechanisms. The study suggests that, in dense platform-mediated OD networks, seasonal reconfiguration is expressed mainly through weighted flow concentration, core-node turnover, and community-level weight allocation rather than through binary connectivity alone.",
+  "doi": "10.1007/s11067-026-09777-4",
+  "url": "https://doi.org/10.1007/s11067-026-09777-4",
+  "added": "2026-07-20",
+  "themes": [
+   "transport",
+   "digital",
+   "markets"
+  ],
+  "summary": "The results show a stable consumption-side core and a more variable production-side core."
+ },
+ {
+  "journal": "Networks and Spatial Economics",
+  "group": "Core regional science",
+  "date": "2026-06-27",
+  "title": "Transfer Learning for High-dimensional Spatial Durbin Model",
+  "authors": "Shuyu Xiao; Yunquan Song; Hui Zhou",
+  "keywords": "Spatial Durbin model; Transfer learning; Spatial spillover effect",
+  "abstract": "The spatial Durbin model has been widely applied in regional economics, real estate, and environmental policy studies for its ability to capture both direct and indirect effects. However, when the target domain suffers from limited sample size or distributional discrepancies with available source domains, conventional single-domain estimation often encounters sample representativeness limitations and external estimation bias. To address this challenge, this paper introduces the concept of transfer learning into the spatial econometric framework and proposes a transfer learning method for spatial Durbin model, which enables knowledge transfer across multiple domains under spatial dependence. Furthermore, under the scenario where transferable sources are unknown, we develop a transferable source detection mechanism that combines instrumental variable transformation and cross-validation to automatically identify source domains most similar to the target domain. Both simulation and empirical analysis demonstrate that our methods outperform the baseline methods.",
+  "doi": "10.1007/s11067-026-09772-9",
+  "url": "https://doi.org/10.1007/s11067-026-09772-9",
+  "added": "2026-07-20",
+  "themes": [
+   "housing"
+  ],
+  "summary": "Both simulation and empirical analysis demonstrate that our methods outperform the baseline methods."
+ },
+ {
+  "journal": "Networks and Spatial Economics",
+  "group": "Core regional science",
+  "date": "2026-06-26",
+  "title": "Transfer Learning for Spatial Durbin Stochastic Frontier Model",
+  "authors": "Jiaqi Lv; Yunquan Song",
+  "keywords": "Transfer learning; SDF-STE; Trans-SDF-STE Model; 2SLS estimation; Spatial correlation effect",
+  "abstract": "Transfer learning has been successfully applied across multiple domains, aiming to uncover intrinsic relationships between data or models and transfer knowledge gained from source domain training to target domains. As a core method for evaluating technical efficiency, stochastic frontier models have consistently attracted significant attention. This paper innovatively combines the two approaches, proposing the Spatial Durbin Stochastic Frontier Model with an integrated transfer learning framework (Trans-SDF-STE). This model retains the Spatial Durbin model's ability to capture \"spatial correlation effects between an entity and its neighboring units\" while extending the Stochastic Frontier Analysis's advantage in quantifying heterogeneity in technical efficiency. Simultaneously, it overcomes modeling limitations in target domains with small samples through transfer learning mechanisms. We employ spatial residual bootstrapping to select source domains exhibiting \"spatial structural consistency and efficiency mechanism similarity.\" By integrating 2SLS estimation to construct instrumental variables addressing endogeneity, followed by a two-stage transfer learning approach (\"transfer + bias removal\"), we migrate the source domain to the target domain. This enhances the accuracy of model parameter estimation and technical efficiency measurement. Through simulation experiments and real-world data applications, we validate the effectiveness and practicality of the proposed method.",
+  "doi": "10.1007/s11067-026-09766-7",
+  "url": "https://doi.org/10.1007/s11067-026-09766-7",
+  "added": "2026-07-20",
+  "themes": [
+   "policy"
+  ],
+  "summary": "Transfer learning has been successfully applied across multiple domains, aiming to uncover intrinsic relationships between data or models and transfer knowledge gained from source domain training to target domains."
+ },
+ {
+  "journal": "Networks and Spatial Economics",
+  "group": "Core regional science",
+  "date": "2026-06-25",
+  "title": "The Spillover Effect and Mechanism of Digital Inclusive Finance on the Relative Poverty of Rural Residents: Based on Chinese Big Data Sample",
+  "authors": "Wenhui Li; Changchun Zhou",
+  "keywords": "Digital inclusive finance; Agricultural total factor productivity; Rural educational human capital; Spatial spillover effect",
+  "abstract": "This paper incorporates digital inclusive finance, agricultural total factor productivity, and rural education-based human capital simultaneously into the analytical framework of rural residents' relative poverty. Based on the panel data of 31 provincial regions in China from 2011 to 2023 and digital inclusive finance data, the spatial Durbin model (SDM) is adopted to analyze the spatial spillover effect of the digital economy on rural residents' relative poverty. Meanwhile, the mediation model and the panel threshold model are utilized to explore the path of digital inclusive finance on rural residents' relative poverty. The research has found that there is a spatial correlation between digital inclusive finance and rural residents' relative poverty; digital inclusive finance can significantly alleviate the problem of rural residents' relative poverty, and has a spatial impact on the relative poverty of rural residents in the local area and surrounding areas; agricultural total factor productivity and rural educational human capital not only can alleviate rural residents' relative poverty themselves, but also agricultural total factor productivity can play an intermediary role, and rural educational human capital can play a threshold effect. Therefore, attention should be paid to promoting the development of digital inclusive finance and fully exerting its regional radiation effect. While enhancing agricultural total factor productivity, emphasis should also be placed on the cultivation of rural educational human capital.",
+  "doi": "10.1007/s11067-026-09767-6",
+  "url": "https://doi.org/10.1007/s11067-026-09767-6",
+  "added": "2026-07-20",
+  "themes": [
+   "digital",
+   "labor",
+   "rural"
+  ],
+  "summary": "This paper incorporates digital inclusive finance, agricultural total factor productivity, and rural education-based human capital simultaneously into the analytical framework of rural residents' relative poverty."
+ },
+ {
+  "journal": "Networks and Spatial Economics",
+  "group": "Core regional science",
+  "date": "2026-06-23",
+  "title": "Pareto-Based Joint Optimization for Rapid Transit Lines: Integrating Flexible Routing, Stop Planning, and Train Scheduling under Time-Dependent Demand",
+  "authors": "Mehdi Oldache; Wenliang Zhou",
+  "keywords": "Frequency setting; Stop planning; Path planning; Train timetabling; Train circulation planning; Traffic assignment; Pareto optimization",
+  "abstract": "Rapid transit systems (RTSs) are essential for sustainable urban mobility, especially in high-density metropolitan areas where passenger demand varies significantly over time and space. Efficient planning of such systems requires balancing service quality with operational cost under complex operational constraints. This study presents a multi-objective framework for the joint optimization of frequency setting, stop and path planning, timetabling, and train circulation in RTSs under time-dependent demand. A mixed-integer nonlinear programming (MINLP) model is formulated to capture these interdependent planning decisions while considering first-in-first-out-based traffic assignment and operational limitations. To solve this large-scale problem, a tailored NSGA-II algorithm is developed, enabling flexible control over journey patterns, routing strategies, and rolling-stock allocation. The framework is validated via extensive numerical experiments based on real-world data from Xi'an Metro Line 1. Compared with traditional operations such as all-stop, skip-stop, and short-turn strategies, the proposed approach achieves reductions in operational costs and passenger waiting times while guaranteeing full coverage of passenger demand. The results highlight the potential of demand-responsive planning for improving service efficiency and resource use in urban transit systems.",
+  "doi": "10.1007/s11067-026-09768-5",
+  "url": "https://doi.org/10.1007/s11067-026-09768-5",
+  "added": "2026-07-20",
+  "themes": [
+   "transport"
+  ],
+  "summary": "The results highlight the potential of demand-responsive planning for improving service efficiency and resource use in urban transit systems."
+ },
+ {
+  "journal": "Networks and Spatial Economics",
+  "group": "Core regional science",
+  "date": "2026-06-23",
+  "title": "Revisiting the Economic Growth Effect of Market Integration in the Chengdu-Chongqing Urban Agglomeration, China",
+  "authors": "Li Yao; Xuguang Tang; Xiaoyu Yu; Siqi Wu",
+  "keywords": "Market integration; Economic growth; Chengdu-Chongqing Urban Agglomeration; Nonlinear growth",
+  "abstract": "As the economic core where the 'Belt and Road Initiative' and the Yangtze River Economic Belt converge, the Chengdu-Chongqing Urban Agglomeration plays a crucial role in building a unified national market. Based on the statistical data of 11 major cities in the Chengdu-Chongqing Urban Agglomeration from 2011 to 2022, this paper explores the impact of market integration on regional economic growth and analyzes the mechanism of action and policy implications. The results show that from 2011 to 2022, the level of market integration in the Chengdu-Chongqing Urban Agglomeration has shown a fluctuating upward trend, and it has a significant positive impact on economic growth. Factors such as human capital, opening up, consumption level, and industrial structure also have a significant promoting effect on economic growth. The effect of market integration on economic growth exhibits a non-linear 'inverted U-shaped' characteristic and shows spatial heterogeneity. The market integration effect in developed cities is gradually weakening, while there is still considerable room for improvement in less developed cities.",
+  "doi": "10.1007/s11067-026-09771-w",
+  "url": "https://doi.org/10.1007/s11067-026-09771-w",
+  "added": "2026-07-20",
+  "themes": [
+   "labor",
+   "markets"
+  ],
+  "summary": "The results show that from 2011 to 2022, the level of market integration in the Chengdu-Chongqing Urban Agglomeration has shown a fluctuating upward trend, and it has a significant positive impact on economic growth."
+ },
+ {
+  "journal": "Letters in Spatial and Resource Sciences",
+  "group": "Core regional science",
+  "date": "2026-07-17",
+  "title": "Constructing million-cell spatial weight matrices on irregular support: a kronecker-plus-projection workflow",
+  "authors": "Gigih Fitrianto; Immanuel Satya Pekerti",
+  "keywords": "",
+  "abstract": "This paper presents a sparse Kronecker-plus-projection workflow for constructing spatial weight matrices from large regular-grid data observed on irregular analytical support. The procedure combines common-support masking, sparse Kronecker construction of full-lattice contiguity, projection to the retained support, isolate removal, and row-standardisation. The contribution is methodological and practical, providing a transparent construction route for large gridded spatial weight matrices before likelihood evaluation or model estimation. We apply the workflow to Indonesia, where approximately 2.2 million of 11.3 million template cells belong to the common valid support. Benchmarks against a dense-output 'spdep' route and a raster-native terra::adjacent route show that the proposed workflow remains feasible at full national support and performs at the same order of magnitude as the raster-native sparse alternative. The dense-output route becomes infeasible once the retained support exceeds very small benchmark levels. A separate naïve dense-reference exercise illustrates the infeasibility of direct dense log-determinant computation at this scale.",
+  "doi": "10.1007/s12076-026-00442-5",
+  "url": "https://doi.org/10.1007/s12076-026-00442-5",
+  "added": "2026-07-20",
+  "themes": [
+   "policy"
+  ],
+  "summary": "This paper presents a sparse Kronecker-plus-projection workflow for constructing spatial weight matrices from large regular-grid data observed on irregular analytical support."
+ },
+ {
+  "journal": "Letters in Spatial and Resource Sciences",
+  "group": "Core regional science",
+  "date": "2026-07-15",
+  "title": "On the use of network matrices with Sherman–Morrison–Woodbury inverses in econometrics",
+  "authors": "Peter H. Egger; Kevin E. Staub",
+  "keywords": "Network econometrics; Sherman–Morrison–Woodbury inverses",
+  "abstract": "We discuss and motivate the use of specific network matrices with a Sherman–Morrison–Woodbury inverse form in econometrics. Such matrices feature a parsimonious structure dependent on only two vectors that fits many situations where link intensity is the product of two size-based measures—a common reduced-form approximation in many gravity and industrial organization contexts. Matrices of Sherman–Morrison–Woodbury form permit special treatment which is fundamentally different from customary network matrices. In particular, the use of such matrices can lead to network models where the key slope parameters can be estimated easily by OLS from the structural network model. We illustrate their properties theoretically and in simulations.",
+  "doi": "10.1007/s12076-026-00443-4",
+  "url": "https://doi.org/10.1007/s12076-026-00443-4",
+  "added": "2026-07-20",
+  "themes": [
+   "policy"
+  ],
+  "summary": "We discuss and motivate the use of specific network matrices with a Sherman–Morrison–Woodbury inverse form in econometrics."
+ },
+ {
+  "journal": "Letters in Spatial and Resource Sciences",
+  "group": "Core regional science",
+  "date": "2026-07-14",
+  "title": "Greening the future: the dynamics of green investment under financial globalization",
+  "authors": "Ilhan Ozturk; Sidra Sohail; Sana Ullah; Muhammad Tariq Majeed; Muhammad Tayyab Sohail",
+  "keywords": "Green future; Green investment; Financial globalization",
+  "abstract": "Environmental degradation, largely attributable to emissions of carbon dioxide and other greenhouse gases, represents the most significant concern for global policymakers. Therefore, investing in green technologies and renewable energy sources has become important. Consequently, transitioning toward green technologies and renewable energy is not just important but necessary for a sustainable future. Finance, particularly international finance, is considered the main source for funding the transition to a green economy. The primary objective of this study is to investigate the impact of financial globalization on green investment in the top 41 carbon-emitting economies from 1998 to 2021 using advanced econometric estimators such as the cross-sectionally augmented autoregressive distributed lag (CS-ARDL) model. Our results confirm that financial globalization positively fosters green investment in the short and long run. Particularly, the estimate suggests that a 1% increase in financial globalization leads to a 3.14% increase in green investment in the long run and a 2.81% increase in the short run. Likewise, the higher GDP also led to the promotion of green investment in the long run, and ICT also promotes green investment only in the long run. Global policymakers need to focus on pooling financial resources to foster investment in eco-friendly technologies and renewable energy sources.",
+  "doi": "10.1007/s12076-026-00444-3",
+  "url": "https://doi.org/10.1007/s12076-026-00444-3",
+  "added": "2026-07-20",
+  "themes": [
+   "climate",
+   "digital"
+  ],
+  "summary": "Our results confirm that financial globalization positively fosters green investment in the short and long run."
+ },
+ {
+  "journal": "Environment and Planning A",
+  "group": "Urban / spatial / econ geography",
+  "date": "2026-06-02",
+  "title": "Reordering labour, value, and informality in Accra's e-waste economy: Circuits of persistence and precarity",
+  "authors": "Ebenezer Gyampoh Amoah; Michael Osei Asibey",
+  "keywords": "",
+  "abstract": "",
+  "doi": "10.1177/0308518X261446433",
+  "url": "https://doi.org/10.1177/0308518X261446433",
+  "added": "2026-07-20",
+  "themes": [
+   "policy"
+  ],
+  "summary": "Reordering labour, value, and informality in Accra's e-waste economy: Circuits of persistence and precarity."
+ },
+ {
+  "journal": "Environment and Planning A",
+  "group": "Urban / spatial / econ geography",
+  "date": "2026-06-02",
+  "title": "Gold, drugs, blood, and global capital: The new business imperialism and extractivism dynamics in postcolonial Peru",
+  "authors": "Samuele Bibi",
+  "keywords": "",
+  "abstract": "",
+  "doi": "10.1177/0308518X261441882",
+  "url": "https://doi.org/10.1177/0308518X261441882",
+  "added": "2026-07-20",
+  "themes": [
+   "policy"
+  ],
+  "summary": "Gold, drugs, blood, and global capital: The new business imperialism and extractivism dynamics in postcolonial Peru."
+ },
+ {
+  "journal": "Journal of Regional Analysis and Policy",
+  "group": "Core regional science",
+  "date": "2026; 56(1)",
+  "title": "From High Point to the Tariff Line: Industrial Evolution and Policy Response in North Carolina's Furniture Sector",
+  "authors": "Kristin Stowe",
+  "keywords": "",
+  "abstract": "The long-term evolution of North Carolina's furniture industry illustrates how global competition, automation, and shifting trade policies reshape a historically dominant regional manufacturing cluster. While the state once produced 40% of U.S. furniture, offshoring accelerated a sharp decline in employment and local supplier capacity. Despite these losses, High Point remains an international hub for design and market coordination. This study estimates the potential short-run economic implications of the 2025 Section 232 tariffs using IMPLAN-based modeling of domestic import substitution and cost-push price effects. The sectors most exposed to import market share gains and the industries most sensitive to upstream cost inflation are identified. Results highlight the complexities of whether North Carolina manufacturers benefit fully from tariff protection, given continued reliance on imported intermediate inputs and limited regional supply chain depth.",
+  "doi": "",
+  "url": "https://jrap.scholasticahq.com/article/157910",
+  "added": "2026-07-20",
+  "themes": [
+   "labor",
+   "markets"
+  ],
+  "summary": "The long-term evolution of North Carolina's furniture industry illustrates how global competition, automation, and shifting trade policies reshape a historically dominant regional manufacturing cluster."
+ },
+ {
+  "journal": "Journal of Economic Structures",
+  "group": "Core regional science",
+  "date": "2026-06-18",
+  "title": "Trade elasticities for CGE simulation: case of U.S. tariff shocks",
+  "authors": "Yutaro Kimata; Ken Itakura",
+  "keywords": "",
+  "abstract": "",
+  "doi": "10.1186/s40008-026-00379-4",
+  "url": "https://doi.org/10.1186/s40008-026-00379-4",
+  "added": "2026-07-20",
+  "themes": [
+   "markets"
+  ],
+  "summary": "Trade elasticities for CGE simulation: case of U.S. tariff shocks."
+ },
+ {
+  "journal": "Journal of Economic Structures",
+  "group": "Core regional science",
+  "date": "2026-06-07",
+  "title": "Learning effect as a benefit of resource concentration to leading farmers: aiming at realizing stable food supply in Japan",
+  "authors": "Yusuke Fushiki",
+  "keywords": "",
+  "abstract": "",
+  "doi": "10.1186/s40008-026-00378-5",
+  "url": "https://doi.org/10.1186/s40008-026-00378-5",
+  "added": "2026-07-20",
+  "themes": [
+   "rural",
+   "agfood"
+  ],
+  "summary": "Learning effect as a benefit of resource concentration to leading farmers: aiming at realizing stable food supply in Japan."
+ },
+ {
+  "journal": "Investigaciones Regionales-Journal of Regional Research",
+  "group": "Core regional science",
+  "date": "Issue 65 (2026)",
+  "title": "The effect of internal migration on regional growth in Italy: a dynamic spatial panel data analysis",
+  "authors": "Francesca Centofanti; Roberto Basile; Francesca Licari; Jacopo Pitari",
+  "keywords": "",
+  "abstract": "",
+  "doi": "",
+  "url": "https://investigacionesregionales.org/en/revista/spatial-econometrics-and-regional-science-in-memoriam-of-jesus-mur-and-ana-angulo/",
+  "added": "2026-07-20",
+  "themes": [
+   "labor"
+  ],
+  "summary": "The effect of internal migration on regional growth in Italy: a dynamic spatial panel data analysis."
+ },
+ {
+  "journal": "Investigaciones Regionales-Journal of Regional Research",
+  "group": "Core regional science",
+  "date": "Issue 65 (2026)",
+  "title": "Regional Economic Growth in Colombia: the role of Fiscal corruption and the Armed conflict",
+  "authors": "Marcos Herrera-Gómez; Sadit Ruano; Manuel Salvador Figueras",
+  "keywords": "",
+  "abstract": "",
+  "doi": "",
+  "url": "https://investigacionesregionales.org/en/revista/spatial-econometrics-and-regional-science-in-memoriam-of-jesus-mur-and-ana-angulo/",
+  "added": "2026-07-20",
+  "themes": [
+   "policy"
+  ],
+  "summary": "Regional Economic Growth in Colombia: the role of Fiscal corruption and the Armed conflict."
+ },
+ {
+  "journal": "Investigaciones Regionales-Journal of Regional Research",
+  "group": "Core regional science",
+  "date": "Issue 65 (2026)",
+  "title": "Automating the Transfer of Data between Census Sections and Postal Codes Areas Over Time",
+  "authors": "Virgilio Pérez; Jose M. Pavía",
+  "keywords": "",
+  "abstract": "",
+  "doi": "",
+  "url": "https://investigacionesregionales.org/en/revista/spatial-econometrics-and-regional-science-in-memoriam-of-jesus-mur-and-ana-angulo/",
+  "added": "2026-07-20",
+  "themes": [
+   "policy"
+  ],
+  "summary": "Automating the Transfer of Data between Census Sections and Postal Codes Areas Over Time."
+ },
+ {
+  "journal": "Investigaciones Regionales-Journal of Regional Research",
+  "group": "Core regional science",
+  "date": "Issue 65 (2026)",
+  "title": "Spatial Trends and Spatial Econometric Structures: practical application to a different context data",
+  "authors": "Maryna Makeienko; Mariano Matilla-García",
+  "keywords": "",
+  "abstract": "",
+  "doi": "",
+  "url": "https://investigacionesregionales.org/en/revista/spatial-econometrics-and-regional-science-in-memoriam-of-jesus-mur-and-ana-angulo/",
+  "added": "2026-07-20",
+  "themes": [
+   "policy"
+  ],
+  "summary": "Spatial Trends and Spatial Econometric Structures: practical application to a different context data."
+ },
+ {
+  "journal": "Investigaciones Regionales-Journal of Regional Research",
+  "group": "Core regional science",
+  "date": "Issue 65 (2026)",
+  "title": "Unveiling the pandemic's impact: Did COVID-19 drive business failures?",
+  "authors": "David Garnés-Galindo; Manuel Ruiz-Marín; María Luz Maté-Sánchez-Val",
+  "keywords": "",
+  "abstract": "",
+  "doi": "",
+  "url": "https://investigacionesregionales.org/en/revista/spatial-econometrics-and-regional-science-in-memoriam-of-jesus-mur-and-ana-angulo/",
+  "added": "2026-07-20",
+  "themes": [
+   "policy"
+  ],
+  "summary": "Unveiling the pandemic's impact: Did COVID-19 drive business failures?."
+ },
+ {
+  "journal": "Investigaciones Regionales-Journal of Regional Research",
+  "group": "Core regional science",
+  "date": "Issue 65 (2026)",
+  "title": "Spatio-temporal dynamics of regional economic growth",
+  "authors": "Julián Ramajo; Alejandro Ricci-Risquete; Geoffrey J.D. Hewings",
+  "keywords": "",
+  "abstract": "",
+  "doi": "",
+  "url": "https://investigacionesregionales.org/en/revista/spatial-econometrics-and-regional-science-in-memoriam-of-jesus-mur-and-ana-angulo/",
+  "added": "2026-07-20",
+  "themes": [
+   "policy"
+  ],
+  "summary": "Spatio-temporal dynamics of regional economic growth."
+ },
+ {
+  "journal": "Regional Statistics",
+  "group": "Core regional science",
+  "date": "2026; Vol 16 No 2",
+  "title": "Integrating moment ratio and relative intensity methods for earthquake forecasting: a case study of the Zagros region",
+  "authors": "Meriem Benhachiche; Nassim Hallal; Mohammad Talebi",
+  "keywords": "",
+  "abstract": "",
+  "doi": "",
+  "url": "https://www.ksh.hu/statszemle_archive/regstat/2026/2026_02/rs160201.pdf",
+  "added": "2026-07-20",
+  "themes": [
+   "policy"
+  ],
+  "summary": "Integrating moment ratio and relative intensity methods for earthquake forecasting: a case study of the Zagros region."
+ },
+ {
+  "journal": "Regional Statistics",
+  "group": "Core regional science",
+  "date": "2026; Vol 16 No 2",
+  "title": "Adult learning and labour market outcomes: the moderating role of varieties of Russian state-led regional economies between 2013 and 2023",
+  "authors": "Ilia M. Chernenko; Irina I. Semenova",
+  "keywords": "",
+  "abstract": "",
+  "doi": "",
+  "url": "https://www.ksh.hu/statszemle_archive/regstat/2026/2026_02/rs160202.pdf",
+  "added": "2026-07-20",
+  "themes": [
+   "labor"
+  ],
+  "summary": "Adult learning and labour market outcomes: the moderating role of varieties of Russian state-led regional economies between 2013 and 2023."
+ },
+ {
+  "journal": "Regional Statistics",
+  "group": "Core regional science",
+  "date": "2026; Vol 16 No 2",
+  "title": "Role of public services in maintaining the population of settlements",
+  "authors": "Tamás Szabó",
+  "keywords": "",
+  "abstract": "",
+  "doi": "",
+  "url": "https://www.ksh.hu/statszemle_archive/regstat/2026/2026_02/rs160203.pdf",
+  "added": "2026-07-20",
+  "themes": [
+   "policy"
+  ],
+  "summary": "Role of public services in maintaining the population of settlements."
+ },
+ {
+  "journal": "Regional Statistics",
+  "group": "Core regional science",
+  "date": "2026; Vol 16 No 2",
+  "title": "Relationship between economic growth and income inequality: a comparative analysis of the United States and the United Kingdom",
+  "authors": "Ramil I. Hasanov; László Vasa; Ilhama Mahmudova; Muslum Mursalov; Jeyhun Hajiyev",
+  "keywords": "",
+  "abstract": "",
+  "doi": "",
+  "url": "https://www.ksh.hu/statszemle_archive/regstat/2026/2026_02/rs160204.pdf",
+  "added": "2026-07-20",
+  "themes": [
+   "policy"
+  ],
+  "summary": "Relationship between economic growth and income inequality: a comparative analysis of the United States and the United Kingdom."
+ },
+ {
+  "journal": "Regional Statistics",
+  "group": "Core regional science",
+  "date": "2026; Vol 16 No 2",
+  "title": "The analysis of stability in the EU convergence clubs by using Poincaré plot features",
+  "authors": "Levente Nádasi; Sándor Kovács; Gábor Petneházi; Zsuzsanna Trón",
+  "keywords": "",
+  "abstract": "",
+  "doi": "",
+  "url": "https://www.ksh.hu/statszemle_archive/regstat/2026/2026_02/rs160205.pdf",
+  "added": "2026-07-20",
+  "themes": [
+   "policy"
+  ],
+  "summary": "The analysis of stability in the EU convergence clubs by using Poincaré plot features."
+ },
+ {
+  "journal": "Regional Statistics",
+  "group": "Core regional science",
+  "date": "2026; Vol 16 No 2",
+  "title": "Mapping regional AI: application of neural network for classifying European regions based on AI technologies using enterprise-related data",
+  "authors": "Balázs István Tóth",
+  "keywords": "",
+  "abstract": "",
+  "doi": "",
+  "url": "https://www.ksh.hu/statszemle_archive/regstat/2026/2026_02/rs160206.pdf",
+  "added": "2026-07-20",
+  "themes": [
+   "digital"
+  ],
+  "summary": "Mapping regional AI: application of neural network for classifying European regions based on AI technologies using enterprise-related data."
+ },
+ {
+  "journal": "Regional Statistics",
+  "group": "Core regional science",
+  "date": "2026; Vol 16 No 2",
+  "title": "Does free health insurance matter to the poor? New evidence from recent data in Vietnam",
+  "authors": "Binh Thi Thanh Dang; Huyen Thi Thanh Do; Trung Xuan Hoang",
+  "keywords": "",
+  "abstract": "",
+  "doi": "",
+  "url": "https://www.ksh.hu/statszemle_archive/regstat/2026/2026_02/rs160207.pdf",
+  "added": "2026-07-20",
+  "themes": [
+   "health"
+  ],
+  "summary": "Does free health insurance matter to the poor? New evidence from recent data in Vietnam."
+ },
+ {
+  "journal": "Regional Statistics",
+  "group": "Core regional science",
+  "date": "2026; Vol 16 No 2",
+  "title": "Foreign direct investment and trade patterns in the European Union: implications for competitiveness",
+  "authors": "Tamás Csontos; Andrea Éltető; Magdolna Sass",
+  "keywords": "",
+  "abstract": "",
+  "doi": "",
+  "url": "https://www.ksh.hu/statszemle_archive/regstat/2026/2026_02/rs160208.pdf",
+  "added": "2026-07-20",
+  "themes": [
+   "markets"
+  ],
+  "summary": "Foreign direct investment and trade patterns in the European Union: implications for competitiveness."
+ },
+ {
+  "journal": "Transportation Research Part A: Policy and Practice",
+  "group": "Urban / spatial / econ geography",
+  "date": "2026-06",
+  "title": "Travel dynamics under MaaS bundles: The role of uncertainty in intertemporal choices and learning behavior",
+  "authors": "Guo, Meng; Liu, Jianing; Jian, Sisi; Jang, Sunghoon; Wu, Chenyang",
+  "keywords": "Mobility-as-a-Service; Dynamic discrete choice model; Intertemporal choices; Learning effect; Travel uncertainty",
+  "abstract": "",
+  "doi": "10.1016/j.tra.2026.104954",
+  "url": "https://doi.org/10.1016/j.tra.2026.104954",
+  "added": "2026-07-20",
+  "themes": [
+   "transport"
+  ],
+  "summary": "Travel dynamics under MaaS bundles: The role of uncertainty in intertemporal choices and learning behavior."
+ },
+ {
+  "journal": "Transportation Research Part A: Policy and Practice",
+  "group": "Urban / spatial / econ geography",
+  "date": "2026-06",
+  "title": "Desirable bikeshare routes: Nonlinear impacts of micro-level street environments",
+  "authors": "Cai, Yuxuan; Song, Qiwei; Cheng, Yiming; Chen, Anzhi; Wang, Yuankai; Li, Wenjing; Qiu, Waishan",
+  "keywords": "Dockless bikeshare (DBS); Cyclists; Route choice; Non-linear effects; Micro-level street environment; Road damage detection",
+  "abstract": "",
+  "doi": "10.1016/j.tra.2026.104962",
+  "url": "https://doi.org/10.1016/j.tra.2026.104962",
+  "added": "2026-07-20",
+  "themes": [
+   "transport"
+  ],
+  "summary": "Desirable bikeshare routes: Nonlinear impacts of micro-level street environments."
+ },
+ {
+  "journal": "Transportation Research Part A: Policy and Practice",
+  "group": "Urban / spatial / econ geography",
+  "date": "2026-06",
+  "title": "A systematic review of quantitative assessments of traffic-focused urban air quality regulations",
+  "authors": "Allan, Grant; Rooney, Aidan",
+  "keywords": "Causal inference; Systematic literature review; PRISMA; Urban air quality regulations; Policy evaluation",
+  "abstract": "",
+  "doi": "10.1016/j.tra.2026.104964",
+  "url": "https://doi.org/10.1016/j.tra.2026.104964",
+  "added": "2026-07-20",
+  "themes": [
+   "transport"
+  ],
+  "summary": "A systematic review of quantitative assessments of traffic-focused urban air quality regulations."
+ },
+ {
+  "journal": "Transportation Research Part A: Policy and Practice",
+  "group": "Urban / spatial / econ geography",
+  "date": "2026-06",
+  "title": "Consumer preferences for uncrewed aerial vehicles delivery service",
+  "authors": "Ardeshiri, Ali; Vij, Akshay; Wiedemann, Mirjam",
+  "keywords": "Uncrewed aerial vehicles; Drone delivery; Consumer preferences; Freight and delivery services; Stated preference; Last-mile",
+  "abstract": "",
+  "doi": "10.1016/j.tra.2026.104965",
+  "url": "https://doi.org/10.1016/j.tra.2026.104965",
+  "added": "2026-07-20",
+  "themes": [
+   "transport"
+  ],
+  "summary": "Consumer preferences for uncrewed aerial vehicles delivery service."
+ },
+ {
+  "journal": "Transportation Research Part A: Policy and Practice",
+  "group": "Urban / spatial / econ geography",
+  "date": "2026-06",
+  "title": "Congestion pricing in New York city: Effects on ride-hailing and transit",
+  "authors": "Zhang, Yueshan; Sang, Yanling; Wu, Manxi",
+  "keywords": "Two-way fixed effects; Congestion pricing; Ride-hailing and transit ridership",
+  "abstract": "",
+  "doi": "10.1016/j.tra.2026.104966",
+  "url": "https://doi.org/10.1016/j.tra.2026.104966",
+  "added": "2026-07-20",
+  "themes": [
+   "transport"
+  ],
+  "summary": "Congestion pricing in New York city: Effects on ride-hailing and transit."
+ },
+ {
+  "journal": "Transportation Research Part A: Policy and Practice",
+  "group": "Urban / spatial / econ geography",
+  "date": "2026-06",
+  "title": "Bilevel subsidy-enabled mobility hub network design with perturbed utility coalitional choice-based assignment",
+  "authors": "Yang, Hai; Chow, Joseph Y.J.",
+  "keywords": "Mobility hub; MaaS platform; Perturbed utility route choice; Bilevel optimization; Subsidies; Assignment game",
+  "abstract": "",
+  "doi": "10.1016/j.tra.2026.104972",
+  "url": "https://doi.org/10.1016/j.tra.2026.104972",
+  "added": "2026-07-20",
+  "themes": [
+   "transport",
+   "digital"
+  ],
+  "summary": "Bilevel subsidy-enabled mobility hub network design with perturbed utility coalitional choice-based assignment."
+ },
+ {
+  "journal": "Transportation Research Part A: Policy and Practice",
+  "group": "Urban / spatial / econ geography",
+  "date": "2026-06",
+  "title": "Regional population mobility network changes driven by central city lockdowns",
+  "authors": "Zhang, Boqiang; Jiang, Penghui; Ma, Yu; Li, Manchun; Hu, Yi; Lu, Keyu",
+  "keywords": "COVID-19; Intercity mobility network; Weighted Stochastic Block Model (WSBM); Yangtze River Delta",
+  "abstract": "",
+  "doi": "10.1016/j.tra.2026.104975",
+  "url": "https://doi.org/10.1016/j.tra.2026.104975",
+  "added": "2026-07-20",
+  "themes": [
+   "transport"
+  ],
+  "summary": "Regional population mobility network changes driven by central city lockdowns."
+ },
+ {
+  "journal": "Transportation Research Part A: Policy and Practice",
+  "group": "Urban / spatial / econ geography",
+  "date": "2026-06",
+  "title": "Revolutionizing elderly mobility through autonomous demand-responsive transport services",
+  "authors": "Wong, R.C.P.; Wan, L.Y.; Szeto, W.Y.; Ali, Nazam",
+  "keywords": "Elderly mobility; Emerging technology; Autonomous vehicle; Demand-responsive transport; Mixed logit model; Transport equity",
+  "abstract": "",
+  "doi": "10.1016/j.tra.2026.104978",
+  "url": "https://doi.org/10.1016/j.tra.2026.104978",
+  "added": "2026-07-20",
+  "themes": [
+   "transport"
+  ],
+  "summary": "Revolutionizing elderly mobility through autonomous demand-responsive transport services."
+ },
+ {
+  "journal": "Transportation Research Part A: Policy and Practice",
+  "group": "Urban / spatial / econ geography",
+  "date": "2026-06",
+  "title": "Vehicle design dictates the geography of urban air mobility accessibility",
+  "authors": "Yan, Yiping; Yang, Ying; Wang, Kai; Liu, Yang; Qu, Xiaobo",
+  "keywords": "Urban air mobility; Vertiport siting; eVTOL configuration; Operating cost model; Infrastructure feasibility; Rooftop analysis",
+  "abstract": "",
+  "doi": "10.1016/j.tra.2026.104979",
+  "url": "https://doi.org/10.1016/j.tra.2026.104979",
+  "added": "2026-07-20",
+  "themes": [
+   "transport"
+  ],
+  "summary": "Vehicle design dictates the geography of urban air mobility accessibility."
+ },
+ {
+  "journal": "Transportation Research Part A: Policy and Practice",
+  "group": "Urban / spatial / econ geography",
+  "date": "2026-06",
+  "title": "Urban traffic evaluation with social media data: A consensus-based LLM negotiation paradigm",
+  "authors": "Li, Minxing; Fan, Cheng; Yan, Haoyang; Wu, Pengkai; Su, Zicheng; Ma, Wanjing",
+  "keywords": "Urban traffic evaluation system; Large language model; Social media data; Travel experiences; Negotiation mechanism",
+  "abstract": "",
+  "doi": "10.1016/j.tra.2026.104980",
+  "url": "https://doi.org/10.1016/j.tra.2026.104980",
+  "added": "2026-07-20",
+  "themes": [
+   "transport"
+  ],
+  "summary": "Urban traffic evaluation with social media data: A consensus-based LLM negotiation paradigm."
+ },
+ {
+  "journal": "Transportation Research Part A: Policy and Practice",
+  "group": "Urban / spatial / econ geography",
+  "date": "2026-06",
+  "title": "Optimal timetabling and charger deployment for urban–rural electric bus services: Formulation and case study",
+  "authors": "Wang, Zihan; Bing, Xue; Li, Zhi-Chun; Nguyen-Phuoc, Duy Quy; Fu, Xiaowen",
+  "keywords": "Urban-rural electric bus; Timetabling; En-route charging; Carbon emissions; Time-of-use electricity tariffs; Adaptive large neighborhood search",
+  "abstract": "",
+  "doi": "10.1016/j.tra.2026.104981",
+  "url": "https://doi.org/10.1016/j.tra.2026.104981",
+  "added": "2026-07-20",
+  "themes": [
+   "climate",
+   "transport",
+   "rural"
+  ],
+  "summary": "Optimal timetabling and charger deployment for urban–rural electric bus services: Formulation and case study."
+ },
+ {
+  "journal": "Transportation Research Part A: Policy and Practice",
+  "group": "Urban / spatial / econ geography",
+  "date": "2026-06",
+  "title": "Social psychological and contextual drivers of cargo bike usage: Insights from a comprehensive structural equation model",
+  "authors": "Bissel, Michael; Götting, Katharina",
+  "keywords": "Cargo bikes; Sustainable mobility; Psychology; Structural equation model",
+  "abstract": "",
+  "doi": "10.1016/j.tra.2026.104982",
+  "url": "https://doi.org/10.1016/j.tra.2026.104982",
+  "added": "2026-07-20",
+  "themes": [
+   "transport"
+  ],
+  "summary": "Social psychological and contextual drivers of cargo bike usage: Insights from a comprehensive structural equation model."
+ },
+ {
+  "journal": "Transportation Research Part A: Policy and Practice",
+  "group": "Urban / spatial / econ geography",
+  "date": "2026-06",
+  "title": "Do intentions translate into use? Transit market evolution and intention-behavior gaps after a new BRT service in Montreal, Canada",
+  "authors": "Carvalho, Thiago; El-Geneidy, Ahmed",
+  "keywords": "Bus rapid transit; Market segmentation; Intention-behavior gap; Behavioral change; Ridership",
+  "abstract": "",
+  "doi": "10.1016/j.tra.2026.104983",
+  "url": "https://doi.org/10.1016/j.tra.2026.104983",
+  "added": "2026-07-20",
+  "themes": [
+   "transport"
+  ],
+  "summary": "Do intentions translate into use? Transit market evolution and intention-behavior gaps after a new BRT service in Montreal, Canada."
+ },
+ {
+  "journal": "Transportation Research Part A: Policy and Practice",
+  "group": "Urban / spatial / econ geography",
+  "date": "2026-06",
+  "title": "How teleworking reshapes travel distance and mode use for work and non-work tours: A panel analysis",
+  "authors": "Shah, Harsh; Carrel, Andre L.; Le, Huyen T.K.",
+  "keywords": "Telecommuting; Information and communication technologies; Generalized linear mixed effects models; Longitudinal analysis; Travel behavior",
+  "abstract": "",
+  "doi": "10.1016/j.tra.2026.104984",
+  "url": "https://doi.org/10.1016/j.tra.2026.104984",
+  "added": "2026-07-20",
+  "themes": [
+   "transport"
+  ],
+  "summary": "How teleworking reshapes travel distance and mode use for work and non-work tours: A panel analysis."
+ },
+ {
+  "journal": "Transportation Research Part A: Policy and Practice",
+  "group": "Urban / spatial / econ geography",
+  "date": "2026-06",
+  "title": "Understanding walking route choice preferences and pedestrian network flows: From individual trajectories to city-scale patterns using empirical data from Sydney",
+  "authors": "Lilasathapornkit, Tanapon; Nourmohammadi, Fatemeh; Saberi, Meead",
+  "keywords": "Pedestrian route choice; Travel behavior; Walking; GPS trajectories; Path size logit; Error component model; Sydney",
+  "abstract": "",
+  "doi": "10.1016/j.tra.2026.104985",
+  "url": "https://doi.org/10.1016/j.tra.2026.104985",
+  "added": "2026-07-20",
+  "themes": [
+   "transport"
+  ],
+  "summary": "Understanding walking route choice preferences and pedestrian network flows: From individual trajectories to city-scale patterns using empirical data from Sydney."
+ },
+ {
+  "journal": "Regional Science Policy & Practice",
+  "group": "Core regional science",
+  "date": "2026-07",
+  "title": "Re-bordering Schengen? Explaining the spatial patterns of border control measures",
+  "authors": "Tobias Chilla; Dominik Bertram; Stefan Hippe",
+  "keywords": "",
+  "abstract": "",
+  "doi": "10.1016/j.rspp.2026.100315",
+  "url": "https://doi.org/10.1016/j.rspp.2026.100315",
+  "added": "2026-07-20",
+  "themes": [
+   "policy"
+  ],
+  "summary": "Re-bordering Schengen? Explaining the spatial patterns of border control measures."
+ },
+ {
+  "journal": "Regional Science Policy & Practice",
+  "group": "Core regional science",
+  "date": "2026-07",
+  "title": "Elections and water pollution cleanup in the Ganges River in India",
+  "authors": "Amitrajeet A. Batabyal; Seung Jick Yoo",
+  "keywords": "",
+  "abstract": "",
+  "doi": "10.1016/j.rspp.2026.100309",
+  "url": "https://doi.org/10.1016/j.rspp.2026.100309",
+  "added": "2026-07-20",
+  "themes": [
+   "resources",
+   "health"
+  ],
+  "summary": "Elections and water pollution cleanup in the Ganges River in India."
+ },
+ {
+  "journal": "Regional Science Policy & Practice",
+  "group": "Core regional science",
+  "date": "2026-07",
+  "title": "Analysing the macroeconomic determinants of NEET youth in Iran: A spatial panel data approach",
+  "authors": "Hamed Rahmani; Wim Groot; Jelena Arsenijevic; Amir Mohammad Rahmani",
+  "keywords": "",
+  "abstract": "",
+  "doi": "10.1016/j.rspp.2026.100313",
+  "url": "https://doi.org/10.1016/j.rspp.2026.100313",
+  "added": "2026-07-20",
+  "themes": [
+   "labor"
+  ],
+  "summary": "Analysing the macroeconomic determinants of NEET youth in Iran: A spatial panel data approach."
+ },
+ {
+  "journal": "Regional Science Policy & Practice",
+  "group": "Core regional science",
+  "date": "2026-07",
+  "title": "Spillover effects of natural capital: Implications for regional development and cohesion policy in the European Union",
+  "authors": "Ioanna Grammatikopoulou; Elias Giannakis; Joachim Maes; Mayra Zurbaran Nucci",
+  "keywords": "",
+  "abstract": "",
+  "doi": "10.1016/j.rspp.2026.100314",
+  "url": "https://doi.org/10.1016/j.rspp.2026.100314",
+  "added": "2026-07-20",
+  "themes": [
+   "policy",
+   "resources"
+  ],
+  "summary": "Spillover effects of natural capital: Implications for regional development and cohesion policy in the European Union."
+ },
+ {
+  "journal": "Regional Science Policy & Practice",
+  "group": "Core regional science",
+  "date": "2026-07",
+  "title": "Resilience and solidarity in European Commission communication on the war in Ukraine: Instruments, territories and integration signals",
+  "authors": "Sebastien Bourdin",
+  "keywords": "",
+  "abstract": "",
+  "doi": "10.1016/j.rspp.2026.100317",
+  "url": "https://doi.org/10.1016/j.rspp.2026.100317",
+  "added": "2026-07-20",
+  "themes": [
+   "policy"
+  ],
+  "summary": "Resilience and solidarity in European Commission communication on the war in Ukraine: Instruments, territories and integration signals."
+ },
+ {
+  "journal": "Regional Science Policy & Practice",
+  "group": "Core regional science",
+  "date": "2026-07",
+  "title": "Changing work/places: Remote work and the prospect of rural and coastal revival in Great Britain",
+  "authors": "Darja Reuschke; Julie MacLeavy",
+  "keywords": "",
+  "abstract": "",
+  "doi": "10.1016/j.rspp.2026.100319",
+  "url": "https://doi.org/10.1016/j.rspp.2026.100319",
+  "added": "2026-07-20",
+  "themes": [
+   "labor",
+   "rural"
+  ],
+  "summary": "Changing work/places: Remote work and the prospect of rural and coastal revival in Great Britain."
  }
 ]
