@@ -1,125 +1,125 @@
 {
- "updated": "2026-07-20",
- "window_note": "Rolling archive since April 2026. Updated weekly.",
- "themes": [
-  [
-   "China's regional & urban transformation",
-   "Subways & firm taxation, treaty-port legacies, city-county mergers, urban innovation networks, digital-village governance, farmland institutions, agricultural digital intelligence."
+  "updated": "2026-07-27",
+  "window_note": "Latest sweep 2026-07-27: +31 papers (Springer online-first majors; Elsevier/T&F abstracts pending browser self-heal).",
+  "themes": [
+    [
+      "China's regional & urban transformation",
+      "Subways & firm taxation, treaty-port legacies, city-county mergers, urban innovation networks, digital-village governance, farmland institutions, agricultural digital intelligence."
+    ],
+    [
+      "Climate, green transition & environment",
+      "Heat & traffic accidents, floods & density, green-transition income gaps, soil-carbon markets, circular economy in shrinking regions, air quality & housing."
+    ],
+    [
+      "Housing, real estate & financialization",
+      "Rent control & housing wealth, house prices & SME lending, Airbnb & evictions, immigration salience, Beirut/Johannesburg property, tax redistribution."
+    ],
+    [
+      "Place-based policy & regional inequality",
+      "Italy inner areas, EU structural funds, China development zones, CRA, a new framework for unintended policy consequences, Theil-decomposition inequality."
+    ],
+    [
+      "Transportation economics (RSUE cluster)",
+      "Invited surveys: maritime shipping networks, interstate highways & rural America, transport in low/middle-income countries, pre-industrial transport."
+    ],
+    [
+      "Geography of AI & the digital economy",
+      "AI adoption in Dutch municipalities, AI across European regions, post-ChatGPT skill demand, digital transformation, crowdfunding & diversification."
+    ],
+    [
+      "Migration, mobility & labor",
+      "WFH & commuting, counterurban migration, skilled migration, disability-employment gap, college & residential stickiness."
+    ],
+    [
+      "Rural studies: care, food & agroecology",
+      "Rural ageing & ethic of care, food insecurity, regenerative agriculture, alternative food, social-farming cooperatives."
+    ]
   ],
-  [
-   "Climate, green transition & environment",
-   "Heat & traffic accidents, floods & density, green-transition income gaps, soil-carbon markets, circular economy in shrinking regions, air quality & housing."
+  "themes_taxonomy": [
+    {
+      "id": "climate",
+      "label": "Climate & green transition",
+      "desc": "Heat & accidents, floods & density, green-transition income gaps, carbon markets, circular economy, environmental quality."
+    },
+    {
+      "id": "housing",
+      "label": "Housing & real estate",
+      "desc": "Rent control, house prices & lending, Airbnb & evictions, zoning, property markets & financialization."
+    },
+    {
+      "id": "policy",
+      "label": "Place-based policy & inequality",
+      "desc": "Structural funds, development zones, CRA, unintended policy consequences, regional inequality measurement."
+    },
+    {
+      "id": "transport",
+      "label": "Transportation",
+      "desc": "Highways, ports & shipping, transit, commuting, travel-time valuation, transport & development."
+    },
+    {
+      "id": "digital",
+      "label": "AI & digital economy",
+      "desc": "AI adoption & exposure, digital transformation, skills demand, crowdfunding, digital talent."
+    },
+    {
+      "id": "labor",
+      "label": "Migration & labor",
+      "desc": "Migration flows, wages & employment gaps, WFH, skills, gender gaps in labor markets."
+    },
+    {
+      "id": "rural",
+      "label": "Rural communities & land",
+      "desc": "Rural communities & care, village governance, land use & rights, rural development."
+    },
+    {
+      "id": "agfood",
+      "label": "Agriculture & food",
+      "desc": "Farm production & policy, crop insurance, livestock, food systems & food security."
+    },
+    {
+      "id": "resources",
+      "label": "Natural resources & conservation",
+      "desc": "Forests & deforestation, water, ecosystem services, conservation, resource management."
+    },
+    {
+      "id": "markets",
+      "label": "Markets, trade & prices",
+      "desc": "Commodity & land markets, trade policy, competition, prices & supply chains."
+    },
+    {
+      "id": "health",
+      "label": "Environment & health",
+      "desc": "Pollution & health, nutrition, heat & wellbeing, environmental health outcomes."
+    }
   ],
-  [
-   "Housing, real estate & financialization",
-   "Rent control & housing wealth, house prices & SME lending, Airbnb & evictions, immigration salience, Beirut/Johannesburg property, tax redistribution."
-  ],
-  [
-   "Place-based policy & regional inequality",
-   "Italy inner areas, EU structural funds, China development zones, CRA, a new framework for unintended policy consequences, Theil-decomposition inequality."
-  ],
-  [
-   "Transportation economics (RSUE cluster)",
-   "Invited surveys: maritime shipping networks, interstate highways & rural America, transport in low/middle-income countries, pre-industrial transport."
-  ],
-  [
-   "Geography of AI & the digital economy",
-   "AI adoption in Dutch municipalities, AI across European regions, post-ChatGPT skill demand, digital transformation, crowdfunding & diversification."
-  ],
-  [
-   "Migration, mobility & labor",
-   "WFH & commuting, counterurban migration, skilled migration, disability-employment gap, college & residential stickiness."
-  ],
-  [
-   "Rural studies: care, food & agroecology",
-   "Rural ageing & ethic of care, food insecurity, regenerative agriculture, alternative food, social-farming cooperatives."
-  ]
- ],
- "themes_taxonomy": [
-  {
-   "id": "climate",
-   "label": "Climate & green transition",
-   "desc": "Heat & accidents, floods & density, green-transition income gaps, carbon markets, circular economy, environmental quality."
-  },
-  {
-   "id": "housing",
-   "label": "Housing & real estate",
-   "desc": "Rent control, house prices & lending, Airbnb & evictions, zoning, property markets & financialization."
-  },
-  {
-   "id": "policy",
-   "label": "Place-based policy & inequality",
-   "desc": "Structural funds, development zones, CRA, unintended policy consequences, regional inequality measurement."
-  },
-  {
-   "id": "transport",
-   "label": "Transportation",
-   "desc": "Highways, ports & shipping, transit, commuting, travel-time valuation, transport & development."
-  },
-  {
-   "id": "digital",
-   "label": "AI & digital economy",
-   "desc": "AI adoption & exposure, digital transformation, skills demand, crowdfunding, digital talent."
-  },
-  {
-   "id": "labor",
-   "label": "Migration & labor",
-   "desc": "Migration flows, wages & employment gaps, WFH, skills, gender gaps in labor markets."
-  },
-  {
-   "id": "rural",
-   "label": "Rural communities & land",
-   "desc": "Rural communities & care, village governance, land use & rights, rural development."
-  },
-  {
-   "id": "agfood",
-   "label": "Agriculture & food",
-   "desc": "Farm production & policy, crop insurance, livestock, food systems & food security."
-  },
-  {
-   "id": "resources",
-   "label": "Natural resources & conservation",
-   "desc": "Forests & deforestation, water, ecosystem services, conservation, resource management."
-  },
-  {
-   "id": "markets",
-   "label": "Markets, trade & prices",
-   "desc": "Commodity & land markets, trade policy, competition, prices & supply chains."
-  },
-  {
-   "id": "health",
-   "label": "Environment & health",
-   "desc": "Pollution & health, nutrition, heat & wellbeing, environmental health outcomes."
+  "site": {
+    "author": "Yang Cheng",
+    "affiliation": "University of Wisconsin–Madison",
+    "tagline": "A personal literature-tracking page for regional science & regional economics.",
+    "how": [
+      "What this is: a rolling, searchable archive of newly published papers across 58 journals — regional science, urban/spatial economics, rural & land studies, and agricultural & environmental economics — with abstracts inline where openly available and a link to the version of record for every paper. It is a personal literature-tracking tool, shared publicly in case it is useful to others.",
+      "How it updates: every Monday morning, an automated Claude (Anthropic) session sweeps the journals' public pages and open bibliographic sources (SpringerLink, SAGE, Oxford University Press, RePEc/IDEAS, Crossref mirrors), adds new papers with a NEW badge, tags them by theme, refreshes the deep-read shortlist, and republishes this page via GitHub Pages. Each update is a Git commit, so the full history is preserved in the repository.",
+      "Self-maintenance: the site fetches missing abstracts automatically (via the owner's devices or the weekly update) and republishes every Monday. Everything here runs without manual upkeep."
+    ],
+    "disclaimers": [
+      "This is a personal project maintained in my individual capacity. It does not represent the views of — and is not affiliated with, sponsored by, or endorsed by — the University of Wisconsin–Madison, any funding agency, or any other organization.",
+      "Content is collected automatically and may contain errors, omissions, or delays. All errors are my own. Always consult the linked version of record before citing.",
+      "Paper titles, abstracts, and metadata remain the copyright of their respective authors and publishers; they are reproduced here from openly accessible sources for research and educational purposes only, with a link to the publisher's version of record for every item.",
+      "This page is not affiliated with or endorsed by any of the listed journals or their publishers.",
+      "Built and maintained with Claude, Anthropic's AI assistant. Paper collection, theme tagging, and summaries are AI-assisted."
+    ],
+    "using": [
+      "Search box — matches words anywhere in titles, authors, abstracts, keywords, journal names, and theme labels; multiple words must all match.",
+      "Theme chips and Journal chips — tap the row label (THEME ▸ / JOURNAL ▸) to unfold all options; one tap filters, counts shown. The small green tags on each paper filter by theme too.",
+      "Published: presets (last month / 3 / 12 months) or exact from–to dates; Update: shows only papers that arrived in one specific Monday update; NEW badges mark the latest batch.",
+      "Sort — by journal, newest/oldest publication date, or title; 'research only' hides book reviews and corrigenda; '› more' expands long abstracts.",
+      "The black DOI button opens the version of record (use institutional library access for paywalled full text); Spreadsheet (top bar) downloads the archive as .xlsx and Data as raw JSON."
+    ],
+    "adding": [
+      "Add a journal: one line in data/journals.json in the GitHub repository — the next weekly update starts covering it (the journal count on this page updates automatically).",
+      "Add or adjust a theme: edit themes_taxonomy in data/overview.json (never rename existing ids).",
+      "Change any wording on this page: edit data/overview.json — or simply ask Claude in a Cowork chat."
+    ],
+    "author_url": "https://yangcheng258.github.io"
   }
- ],
- "site": {
-  "author": "Yang Cheng",
-  "affiliation": "University of Wisconsin–Madison",
-  "tagline": "A personal literature-tracking page for regional science & regional economics.",
-  "how": [
-   "What this is: a rolling, searchable archive of newly published papers across 58 journals — regional science, urban/spatial economics, rural & land studies, and agricultural & environmental economics — with abstracts inline where openly available and a link to the version of record for every paper. It is a personal literature-tracking tool, shared publicly in case it is useful to others.",
-   "How it updates: every Monday morning, an automated Claude (Anthropic) session sweeps the journals' public pages and open bibliographic sources (SpringerLink, SAGE, Oxford University Press, RePEc/IDEAS, Crossref mirrors), adds new papers with a NEW badge, tags them by theme, refreshes the deep-read shortlist, and republishes this page via GitHub Pages. Each update is a Git commit, so the full history is preserved in the repository.",
-   "Self-maintenance: the site fetches missing abstracts automatically (via the owner's devices or the weekly update) and republishes every Monday. Everything here runs without manual upkeep."
-  ],
-  "disclaimers": [
-   "This is a personal project maintained in my individual capacity. It does not represent the views of — and is not affiliated with, sponsored by, or endorsed by — the University of Wisconsin–Madison, any funding agency, or any other organization.",
-   "Content is collected automatically and may contain errors, omissions, or delays. All errors are my own. Always consult the linked version of record before citing.",
-   "Paper titles, abstracts, and metadata remain the copyright of their respective authors and publishers; they are reproduced here from openly accessible sources for research and educational purposes only, with a link to the publisher's version of record for every item.",
-   "This page is not affiliated with or endorsed by any of the listed journals or their publishers.",
-   "Built and maintained with Claude, Anthropic's AI assistant. Paper collection, theme tagging, and summaries are AI-assisted."
-  ],
-  "using": [
-   "Search box — matches words anywhere in titles, authors, abstracts, keywords, journal names, and theme labels; multiple words must all match.",
-   "Theme chips and Journal chips — tap the row label (THEME ▸ / JOURNAL ▸) to unfold all options; one tap filters, counts shown. The small green tags on each paper filter by theme too.",
-   "Published: presets (last month / 3 / 12 months) or exact from–to dates; Update: shows only papers that arrived in one specific Monday update; NEW badges mark the latest batch.",
-   "Sort — by journal, newest/oldest publication date, or title; 'research only' hides book reviews and corrigenda; '› more' expands long abstracts.",
-   "The black DOI button opens the version of record (use institutional library access for paywalled full text); Spreadsheet (top bar) downloads the archive as .xlsx and Data as raw JSON."
-  ],
-  "adding": [
-   "Add a journal: one line in data/journals.json in the GitHub repository — the next weekly update starts covering it (the journal count on this page updates automatically).",
-   "Add or adjust a theme: edit themes_taxonomy in data/overview.json (never rename existing ids).",
-   "Change any wording on this page: edit data/overview.json — or simply ask Claude in a Cowork chat."
-  ],
-  "author_url": "https://yangcheng258.github.io"
- }
 }
