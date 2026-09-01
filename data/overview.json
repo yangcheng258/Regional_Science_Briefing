@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-24",
-  "window_note": "Latest sweep 2026-08-24: +146 papers across 20 journals (majors + open-access). Cloud Elsevier API still closed; SAGE/OUP/Wiley routes unreachable this run — owner browser self-heal covers those. RIS inbox empty.",
+  "updated": "2026-08-31",
+  "window_note": "Latest sweep 2026-08-31: +188 papers across 35 journals. Strong showing from Ecological Economics, JAERE, Socio-Economic Planning Sciences, J. Economic Geography, ERAE, Food Policy, and Springer regional-science titles - all with verbatim abstracts. Wiley/T&F items are linked without abstract text (no open source). Elsevier cloud API still closed; owner browser self-heal covers those blanks.",
   "themes": [
     [
       "China's regional & urban transformation",
