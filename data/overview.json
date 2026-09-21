@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-31",
-  "window_note": "Latest sweep 2026-08-31: +188 papers across 35 journals. Strong showing from Ecological Economics, JAERE, Socio-Economic Planning Sciences, J. Economic Geography, ERAE, Food Policy, and Springer regional-science titles - all with verbatim abstracts. Wiley/T&F items are linked without abstract text (no open source). Elsevier cloud API still closed; owner browser self-heal covers those blanks.",
+  "updated": "2026-09-21",
+  "window_note": "Latest sweep 2026-09-21, covering the three weeks since 2026-08-31 (including a backfill of the missed Sep 7 and Sep 14 runs): +551 papers across 44 journals, 289 with verbatim abstracts. Big batches from Land Use Policy, Ecological Economics, TR-A and Socio-Economic Planning Sciences (IDEAS, with abstracts), plus Journal of Rural Studies, Cities, CEUS, ASAP, Urban Studies and the Wiley ag/regional titles (AJAE, AEPP, JRS, Growth and Change). T&F and non-RePEc Elsevier items are linked by DOI without abstract text; the Elsevier cloud API is still closed, so the owner's browser self-heal covers those blanks.",
   "themes": [
     [
       "China's regional & urban transformation",

@@ -61,6 +61,22 @@ Tip: spawn 3–5 parallel general-purpose agents (one per publisher group) with
 explicit anti-fabrication instructions and the pacing rules above. Prioritize the
 majors; small journals are best-effort.
 
+### Route notes (learned 2026-09-21)
+- Bash/curl in the cloud sandbox has no general internet (default "Trusted" network level); use WebFetch/WebSearch.
+  If the owner switches the environment to Custom network access with api.crossref.org, api.openalex.org,
+  ideas.repec.org, link.springer.com, journals.sagepub.com, academic.oup.com, ouci.dntb.gov.ua, api.elsevier.com,
+  prefer direct Python requests (faster, exact text, no summarizer).
+- Crossref works endpoint via WebFetch works intermittently (429s):
+  `https://api.crossref.org/journals/<ISSN>/works?filter=from-pub-date:YYYY-MM-DD&rows=100&select=DOI,title,author,published-online,created,type`
+  — never add mailto= or any email address to requests. For Elsevier items Crossref `created` ≈ online date.
+- SpringerLink: `/journal/<id>/online-first` shows a stale 2024 list; use `/journal/<id>/articles` (no query string)
+  and `/volumes-and-issues/<vol>-<issue>`. Search pages and `?sortBy=` URLs are robots-blocked.
+- SAGE OnlineFirst: `https://journals.sagepub.com/toc/EPN/0/0`, `/toc/USJ/0/0`, `/toc/IRX/0/0`; add `?pageSize=50`
+  (the default page stops early).
+- OUP advance-articles lists load dynamically; enumerate DOIs above the highest archived number via OUCI/doi.org.
+- Wiley: enumerate DOI numbers above the highest archived (e.g. jors.700xx) via OUCI; doi.org "pending publication" = not out yet.
+- Parallel subagents: give each its own working directory and output file (shared helper files collided on 2026-09-21).
+
 ## 1b. Journals and themes are DATA, not code
 
 - `data/journals.json` is the source of truth for the journal list and display order.
@@ -100,7 +116,10 @@ Each record:
 ```
 - `added` = today's date for new records only. Never change `added` on old records.
 - Journal names must match existing spelling exactly (see ORDER list in scripts/build_html.py).
-- Cap per-journal additions at 15/week (note in commit message if capped).
+- Cap per-journal additions at 15/week (note in commit message if capped). If runs were missed,
+  scale the cap: W = weeks since the newest `added` date (rounded up, min 1); cap = 15 × W.
+- Priority order: every paper needs a correct title and DOI (or real article URL) first. Take the verbatim
+  abstract when it is on a page you are already fetching; don't spend extra fetches hunting abstracts.
 - Also try to FILL BLANKS in existing records (missing abstracts/authors) via the routes above.
 
 ## 3. Refresh data/overview.json
@@ -129,9 +148,18 @@ Verify before pushing:
 ```bash
 git add -A
 git commit -m "Weekly update YYYY-MM-DD: +N papers (M with abstracts)"
-git push origin main
+git pull --rebase origin main          # if this fails, continue anyway
+git push origin HEAD:main || git push origin HEAD:claude/journal-watch
 ```
-The push credentials are embedded in the remote URL already configured in the clone command you were given.
+- Cloud sessions push through a git proxy. The repo must be in the scheduled task's selected
+  repositories (Claude GitHub App installed on it), otherwise every push is refused.
+- Scheduled tasks can always push to `claude/`-prefixed branches, while a push to `main` can be refused
+  (main carries commits by other authors, e.g. journal-watch-bot). A push to `claude/journal-watch` is
+  merged into main automatically by `.github/workflows/merge-claude-update.yml`.
+- If BOTH pushes are refused, nothing may be lost silently: run
+  `git format-patch --binary origin/main -o <scratch>/patch`, send the .patch file(s) to the owner
+  with SendUserFile, and say in the notification that the push was blocked and the fix is
+  `git am *.patch && git push` from a local clone.
 
 ## 6. Report
 
