@@ -1,38 +1,38 @@
 {
- "updated": "2026-10-19",
- "window_note": "Latest sweep 2026-10-19, a four-week catch-up covering everything published since the 2026-09-21 sweep (the Sep 28, Oct 5 and Oct 12 runs were missed, so the window was widened and the per-journal cap raised to 60): +370 papers across 41 journals. Heaviest batches from Cities (capped at 60), Journal of Rural Studies (52), Annals of Regional Science (27), Journal of Urban Affairs (27), Land Use Policy (25) and Applied Spatial Analysis and Policy (24), plus a full Land Economics issue and online-first batch (15). This run captured titles, DOIs, authors and dates but NO verbatim abstracts: the sandbox's page-fetching tool now enforces a short quotation limit, so abstract text could not be retrieved without working around that limit, and the Elsevier abstract API remains closed from the cloud (proxy 403). Abstracts for this batch therefore need the owner's Scopus RIS export or the site's browser-based self-heal.",
+ "updated": "2026-10-26",
+ "window_note": "Latest sweep 2026-10-26, a catch-up covering the five weeks since 2026-09-21 (runs of Sep 28, Oct 5, Oct 12 and Oct 19 were missed; per-journal cap 75): +620 papers across 42 journals, 123 with verbatim abstracts (Crossref-deposited: Springer, SAGE, OUP, Wiley, some T&F). Largest batches: Journal of Rural Studies, Cities, Transportation Research A, Land Use Policy, Ecological Economics, Food Policy. Elsevier titles are linked by DOI without abstracts; the Elsevier API is reachable from the cloud but returns no abstract text, so the owner's browser self-heal covers those blanks. Annals of Regional Science and the small regional-language titles had nothing in Crossref this window.",
  "themes": [
   [
    "China's regional & urban transformation",
-   "Farmland scale operation & digital literacy, agricultural drone services, rural industrial integration, land retirement (Grain for Green), multidimensional urban shrinkage and rural labor hollowing."
+   "Subways & firm taxation, treaty-port legacies, city-county mergers, urban innovation networks, digital-village governance, farmland institutions, agricultural digital intelligence."
   ],
   [
    "Climate, green transition & environment",
-   "Climate adaptation in land use, coffee abandonment as adaptation, carbon offsetting in agriculture, solar farms on farmland, wildfire smoke exposure, decoupling farm output from emissions."
+   "Heat & traffic accidents, floods & density, green-transition income gaps, soil-carbon markets, circular economy in shrinking regions, air quality & housing."
   ],
   [
    "Housing, real estate & financialization",
-   "Light rail & hedonic housing effects, housing wealth accumulation, rental-market commodification, emergency decentralisation and housing markets, new-town distributional effects."
+   "Rent control & housing wealth, house prices & SME lending, Airbnb & evictions, immigration salience, Beirut/Johannesburg property, tax redistribution."
   ],
   [
    "Place-based policy & regional inequality",
-   "Typologies of EU non-urban regions, LEADER interventions, rural proofing, place-based diagnostics of rural transitions, fiscal transfers for farmland protection, small & medium city agency in the EU."
+   "Italy inner areas, EU structural funds, China development zones, CRA, a new framework for unintended policy consequences, Theil-decomposition inequality."
   ],
   [
-   "Rural studies: care, food & agroecology",
-   "Food forests and diverse economies, regenerative transitions, social capital & rural resilience, agritourism willingness to pay, gendered rural entrepreneurship, community music & rural wellbeing."
+   "Transportation economics (RSUE cluster)",
+   "Invited surveys: maritime shipping networks, interstate highways & rural America, transport in low/middle-income countries, pre-industrial transport."
   ],
   [
-   "Conflict, displacement & food security",
-   "Farming under fire in south Lebanon, war-induced ecosystem-service loss in rural Ukraine, displacement and the collapse of local food systems."
-  ],
-  [
-   "Environmental valuation & resource economics",
-   "PFAS testing in public water systems, precision conservation opportunity cost, shadow pricing boreal ecosystem services, contingent behavior at regional scale, seabed and fishery damages."
+   "Geography of AI & the digital economy",
+   "AI adoption in Dutch municipalities, AI across European regions, post-ChatGPT skill demand, digital transformation, crowdfunding & diversification."
   ],
   [
    "Migration, mobility & labor",
-   "Working from home & commuting duration, counterurban and peri-urban movement, labor-market responses to weather shocks, linguistic accessibility and ageing in place."
+   "WFH & commuting, counterurban migration, skilled migration, disability-employment gap, college & residential stickiness."
+  ],
+  [
+   "Rural studies: care, food & agroecology",
+   "Rural ageing & ethic of care, food insecurity, regenerative agriculture, alternative food, social-farming cooperatives."
   ]
  ],
  "themes_taxonomy": [
@@ -59,7 +59,7 @@
   {
    "id": "digital",
    "label": "AI & digital economy",
-   "desc": "AI adoption & exposure, digital transformation, skills demand, crowdfunding, digital talent, digital agriculture and the rural digital divide."
+   "desc": "AI adoption & exposure, digital transformation, skills demand, crowdfunding, digital talent."
   },
   {
    "id": "labor",
@@ -69,17 +69,17 @@
   {
    "id": "rural",
    "label": "Rural communities & land",
-   "desc": "Rural communities & care, village governance, land use & rights, rural development, farmland transfer, rural gentrification and revitalization."
+   "desc": "Rural communities & care, village governance, land use & rights, rural development."
   },
   {
    "id": "agfood",
    "label": "Agriculture & food",
-   "desc": "Farm production & policy, crop insurance, livestock, food systems & food security, geographical indications, agri-environmental scheme adoption."
+   "desc": "Farm production & policy, crop insurance, livestock, food systems & food security."
   },
   {
    "id": "resources",
    "label": "Natural resources & conservation",
-   "desc": "Forests & deforestation, water, ecosystem services, conservation, resource management, non-market valuation of environmental goods."
+   "desc": "Forests & deforestation, water, ecosystem services, conservation, resource management."
   },
   {
    "id": "markets",
