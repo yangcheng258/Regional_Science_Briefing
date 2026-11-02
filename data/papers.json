@@ -35897,5 +35897,2266 @@
    "resources"
   ],
   "summary": ""
+ },
+ {
+  "journal": "Journal of Regional Science",
+  "group": "Core regional science",
+  "date": "2026-10-29",
+  "title": "Impact of the Digital Economy on Women's Economic Empowerment in Flexible Employment: Evidence From the Chinese General Social Survey (2012–2021)",
+  "authors": "Qi Zheng; Jing Zhan; Yihang Song",
+  "keywords": "",
+  "abstract": "ABSTRACT The digital economy stimulates economic growth and offers new opportunities for women's flexible employment. Utilizing the “Resources‐Agency‐Achievements” economic empowerment theory and data from the Chinese General Social Survey (2012–2021), alongside provincial digital economy development data, this study estimates a fixed‐effects instrumental‐variable (FE‐IV) model to analyze the digital economy's impact on women's economic empowerment in flexible employment. Digital economic development significantly boosts this empowerment, and the KHB results are consistent with a mediating role for gender role attitudes. Post‐2015, following the “Internet Plus” initiative, the empowerment effect intensified, especially benefiting women with urban registration, higher education, and higher incomes. However, women aged 40 and older experience fewer benefits, and entrepreneurial activity is negatively associated with digital economy development. The study constructs a composite empowerment index and examines gender role attitudes as a mediator, thus expanding the theoretical framework. Policy recommendations include enhancing digital skills training, improving social security for flexible employment, developing women‐friendly digital tools, and promoting female success stories.",
+  "doi": "10.1111/jors.70108",
+  "url": "https://doi.org/10.1111/jors.70108",
+  "added": "2026-11-02",
+  "themes": [
+   "digital",
+   "labor"
+  ],
+  "summary": ""
+ },
+ {
+  "journal": "Journal of Regional Science",
+  "group": "Core regional science",
+  "date": "2026-10-28",
+  "title": "High‐Speed Railways and Firms' Total Factor Productivity: Evidence From a Quasi‐Natural Experiment",
+  "authors": "Anna Bottasso; Maurizio Conti; Antonella Rita Ferrara; Simone Robbiano",
+  "keywords": "",
+  "abstract": "ABSTRACT The focus of this study is to assess the causal impact of the connection of a local area to a high‐speed rail network (HSR) on firms' total factor productivity (TFP). The quasi‐random location of the HSR station in the Italian city of Reggio Emilia is exploited in a Difference‐in‐Differences research design applied to a large sample of firms, observed over the period 2010–2018. The results suggest that the opening of the HSR station improved treated firms' TFP by about 5%; in particular, such an effect is larger for firms closer to the HSR station and slightly increases over the sample period. We also find that the impact of the connection to the HSR station is heterogeneous across industries and depends on firms' size and past productivity. Overall results are robust to a large number of sensitivity checks and falsification tests.",
+  "doi": "10.1111/jors.70107",
+  "url": "https://doi.org/10.1111/jors.70107",
+  "added": "2026-11-02",
+  "themes": [
+   "markets",
+   "transport"
+  ],
+  "summary": ""
+ },
+ {
+  "journal": "International Regional Science Review",
+  "group": "Core regional science",
+  "date": "2026-10-27",
+  "title": "Estimating Interregional Trade: A Review Emphasizing the “Magic” of Universal Gravity and Data Mining",
+  "authors": "Michael L. Lahr",
+  "keywords": "",
+  "abstract": "Trade between regions of a single country has re-emerged as a central topic in spatial and international economics. Intranational flows nearly always exceed international flows in volume, yet they have received less attention since global value chains rose to prominence in the mid-1990s. The neglect is understandable. Consistent subnational trade data are scarce, and the usual suspects in trade frictions—tariffs, language, currency—are absent or attenuated within national borders. Studying these flows therefore calls for a particular kind of wizardry: command of spatial economic theory rich enough to handle multilateral resistance and market structure, and command of the mathematics needed to wrestle with sparse data, network dependence, and the more mundane problem of statistical endogeneity. I argue that subnational trade research has matured into a distinctive field, with its own identification strategies, datasets, and policy questions, while remaining tightly linked to advances in international trade, economic geography, and spatial econometrics. To make the case, I review the theories and methods that have crossed over from international work, summarize what three decades of substantive findings imply for interregional trade, engage measurement issues that hold more sway at the subnational scale than internationally—zero flows, zoning artifacts, entrepôt double-counting, and gross-flow versus value-added accounting—and present visually a handful of unusual facts about subnational flows. I close with a research agenda emphasizing subnational value-added decomposition, mode-specific gravity, firm-level data, network methods, and dynamic models capable of addressing resilience and adjustment to large shocks.",
+  "doi": "10.1177/01600176261498889",
+  "url": "https://doi.org/10.1177/01600176261498889",
+  "added": "2026-11-02",
+  "themes": [
+   "markets",
+   "climate"
+  ],
+  "summary": ""
+ },
+ {
+  "journal": "Regional Science Policy & Practice",
+  "group": "Core regional science",
+  "date": "2026-11-01",
+  "title": "Urban and peri-urban agriculture in the Global South: Nexus and policies to reduce territorial inequalities and improve social welfare",
+  "authors": "Erick Paul Mena-Barragan; Lucia Toledo; Javier Cuestas-Caza; Oswaldo Viteri-Salazar",
+  "keywords": "",
+  "abstract": "",
+  "doi": "10.1016/j.rspp.2026.100360",
+  "url": "https://doi.org/10.1016/j.rspp.2026.100360",
+  "added": "2026-11-02",
+  "themes": [
+   "policy",
+   "rural"
+  ],
+  "summary": ""
+ },
+ {
+  "journal": "Regional Science Policy & Practice",
+  "group": "Core regional science",
+  "date": "2026-10-31",
+  "title": "Rearming Europe: assessment of the defence-readiness of EU regions in the context of the War in Ukraine",
+  "authors": "Víctor Llaneza Menéndez; André Carrascal-Incera; Esteban Fernández-Vázquez",
+  "keywords": "",
+  "abstract": "",
+  "doi": "10.1016/j.rspp.2026.100359",
+  "url": "https://doi.org/10.1016/j.rspp.2026.100359",
+  "added": "2026-11-02",
+  "themes": [
+   "policy"
+  ],
+  "summary": ""
+ },
+ {
+  "journal": "Journal of Economic Geography",
+  "group": "Urban / spatial / econ geography",
+  "date": "2026-10-29",
+  "title": "People, places, and firms: improving our understanding of wage and productivity disparities",
+  "authors": "Yadira Gómez-Hernández; Henry G Overman",
+  "keywords": "",
+  "abstract": "In many countries spatial disparities in wages and productivity are large and persistent. This raises questions about the causes and consequences of such disparities. Two inter-related issues—the sorting of high skilled workers and the productivity benefits of urban density—are central to the way in which urban economists have approached these questions. In this commentary, we argue that despite the emerging consensus that sorting matters for wage disparities, the literature has made less progress on other dimensions of these disparities and a number of methodological issues remain unresolved.",
+  "doi": "10.1093/jeg/lbag078",
+  "url": "https://doi.org/10.1093/jeg/lbag078",
+  "added": "2026-11-02",
+  "themes": [
+   "labor",
+   "markets"
+  ],
+  "summary": ""
+ },
+ {
+  "journal": "Economic Geography",
+  "group": "Urban / spatial / econ geography",
+  "date": "2026-10-27",
+  "title": "Geopoliticizing the Firm: Embraer, Corporate Nationality, and the Geopolitical Constitution of Contracts, Capabilities, and Markets",
+  "authors": "Kean Fan Lim; Tiago Teixeira",
+  "keywords": "",
+  "abstract": "",
+  "doi": "10.1080/00130095.2026.2732942",
+  "url": "https://doi.org/10.1080/00130095.2026.2732942",
+  "added": "2026-11-02",
+  "themes": [
+   "markets"
+  ],
+  "summary": ""
+ },
+ {
+  "journal": "Environment and Planning A",
+  "group": "Urban / spatial / econ geography",
+  "date": "2026-10-29",
+  "title": "When peripheral cities go viral: Platform interception, digital participation and the reconfiguration of city branding",
+  "authors": "Xiaoyue Deng; Shenjing He",
+  "keywords": "",
+  "abstract": "The rise of ‘internet-celebrity cities’ ( wanghong ) has become a new emblem of platform urbanism. Yet existing platform studies offer limited insight into this phenomenon as a product of digitally enabled city branding, an oversight that obscures the new dynamics that digital platforms introduce into entrepreneurial governance. To address this gap, this paper proposes a physical–virtual complementary framework for examining how platforms’ operations and local practices coalesce to (re)shape the image of cities. The framework is illustrated through a case study of Rongjiang , a peripheral Chinese city distinguished by its dramatic internet virality. In Rongjiang ’s digital branding endeavour, digital platforms reconfigured the composition, roles, and power dynamics of the stakeholders involved in city branding, extended the co-creation of city branding by enabling massive and unsupervised participation, and consolidated their own unbalanced control over selective online visibility. These findings highlight a paradox of digital empowerment in city branding: platforms enabled more extensive and decentralised branding participation while introducing and reinforcing a new, algorithm-dominated pattern of participation that redefined local agency in city branding. This research extends platform-urbanism scholarship beyond its predominantly economic and cultural discourses to engage with city branding as an integral part of the urban entrepreneurialism literature. The findings advance understanding of urban entrepreneurialism with particular attention to transforming local practices around plural participation in a platform-mediated urban age.",
+  "doi": "10.1177/0308518x261491600",
+  "url": "https://doi.org/10.1177/0308518x261491600",
+  "added": "2026-11-02",
+  "themes": [
+   "digital",
+   "resources"
+  ],
+  "summary": ""
+ },
+ {
+  "journal": "Journal of Rural Studies",
+  "group": "Rural & land",
+  "date": "2026-11-02",
+  "title": "Scaling responsibility: Navigating scale challenges in agricultural biosecurity",
+  "authors": "Melanie Bryant; Vaughan Higgins; Marta Hernandez-Jover; Russell Warman",
+  "keywords": "",
+  "abstract": "",
+  "doi": "10.1016/j.jrurstud.2026.104516",
+  "url": "https://doi.org/10.1016/j.jrurstud.2026.104516",
+  "added": "2026-11-02",
+  "themes": [
+   "agfood"
+  ],
+  "summary": ""
+ },
+ {
+  "journal": "Journal of Rural Studies",
+  "group": "Rural & land",
+  "date": "2026-11-02",
+  "title": "Understanding the impact of policy regimes on collaboration: A comparative analysis of rural revitalisation experiences in four Asian jurisdictions",
+  "authors": "T.L. Bajaj; W.F. Lam; W.W.Y. Law; T.P.L. Nguyen; C.P. Tang; Y. Wang; J.M. Williams; P. Boonyanupongsa; Y.S. Chang; Y. Huo; Y. Kyaw; C. Liu; M.A. Moshed; N.H. Nguyen; A. Pokharel; S. Yiu",
+  "keywords": "",
+  "abstract": "",
+  "doi": "10.1016/j.jrurstud.2026.104514",
+  "url": "https://doi.org/10.1016/j.jrurstud.2026.104514",
+  "added": "2026-11-02",
+  "themes": [
+   "policy",
+   "labor"
+  ],
+  "summary": ""
+ },
+ {
+  "journal": "Journal of Rural Studies",
+  "group": "Rural & land",
+  "date": "2026-11-01",
+  "title": "Why do older adults supported by remittances continue to work? Evidence from two migrant-sending villages in rural China",
+  "authors": "Yubing Chen; Sheng Bao",
+  "keywords": "",
+  "abstract": "",
+  "doi": "10.1016/j.jrurstud.2026.104517",
+  "url": "https://doi.org/10.1016/j.jrurstud.2026.104517",
+  "added": "2026-11-02",
+  "themes": [
+   "rural",
+   "labor"
+  ],
+  "summary": ""
+ },
+ {
+  "journal": "Journal of Rural Studies",
+  "group": "Rural & land",
+  "date": "2026-11-01",
+  "title": "Farmers’ career trajectories and retirement decisions over the life course",
+  "authors": "Martin Nordin",
+  "keywords": "",
+  "abstract": "",
+  "doi": "10.1016/j.jrurstud.2026.104488",
+  "url": "https://doi.org/10.1016/j.jrurstud.2026.104488",
+  "added": "2026-11-02",
+  "themes": [
+   "rural",
+   "agfood"
+  ],
+  "summary": ""
+ },
+ {
+  "journal": "Journal of Rural Studies",
+  "group": "Rural & land",
+  "date": "2026-10-31",
+  "title": "Where the sidewalk ends: Perceived and structural place in grandparent caregiver well-being across the rural-urban spectrum",
+  "authors": "Danielle K. Nadorff; Margaret Ralston; Rahel Mathews; Samuel Murphy; Maia McLin; Laura A. Shillingsburg; Amara L. Mason",
+  "keywords": "",
+  "abstract": "",
+  "doi": "10.1016/j.jrurstud.2026.104513",
+  "url": "https://doi.org/10.1016/j.jrurstud.2026.104513",
+  "added": "2026-11-02",
+  "themes": [
+   "housing",
+   "rural"
+  ],
+  "summary": ""
+ },
+ {
+  "journal": "Journal of Rural Studies",
+  "group": "Rural & land",
+  "date": "2026-10-31",
+  "title": "Place-based policies, regional comparative advantages and industrial agglomeration in rural China",
+  "authors": "Yinze Zhang; Zhihai Yang; Jianqing Ruan",
+  "keywords": "",
+  "abstract": "",
+  "doi": "10.1016/j.jrurstud.2026.104510",
+  "url": "https://doi.org/10.1016/j.jrurstud.2026.104510",
+  "added": "2026-11-02",
+  "themes": [
+   "policy",
+   "rural"
+  ],
+  "summary": ""
+ },
+ {
+  "journal": "Journal of Rural Studies",
+  "group": "Rural & land",
+  "date": "2026-10-30",
+  "title": "Beyond net zero: Understanding the wider motivations and barriers to the adoption of greenhouse gas mitigation and sequestration measures amongst UK beef and sheep farms",
+  "authors": "Louise C. McNicol; Sophie Wynne-Jones; Dave R. Chadwick; A. Prysor Williams",
+  "keywords": "",
+  "abstract": "",
+  "doi": "10.1016/j.jrurstud.2026.104505",
+  "url": "https://doi.org/10.1016/j.jrurstud.2026.104505",
+  "added": "2026-11-02",
+  "themes": [
+   "climate",
+   "rural"
+  ],
+  "summary": ""
+ },
+ {
+  "journal": "Journal of Rural Studies",
+  "group": "Rural & land",
+  "date": "2026-10-30",
+  "title": "Running the business—running the place: How placepreneurs are embedding in the periphery",
+  "authors": "Jenny Sofie Kjemphei Larsen; Thomas Lauvås",
+  "keywords": "",
+  "abstract": "",
+  "doi": "10.1016/j.jrurstud.2026.104502",
+  "url": "https://doi.org/10.1016/j.jrurstud.2026.104502",
+  "added": "2026-11-02",
+  "themes": [
+   "policy"
+  ],
+  "summary": ""
+ },
+ {
+  "journal": "Journal of Rural Studies",
+  "group": "Rural & land",
+  "date": "2026-10-29",
+  "title": "Farmers’ retirement preferences under succession prospects: is early retirement still an option in EU family farms?",
+  "authors": "Daniele Bertolozzi-Caredio; Federico Antonioli; Juan Tur-Cardona; Pavel Ciaian",
+  "keywords": "",
+  "abstract": "",
+  "doi": "10.1016/j.jrurstud.2026.104512",
+  "url": "https://doi.org/10.1016/j.jrurstud.2026.104512",
+  "added": "2026-11-02",
+  "themes": [
+   "rural",
+   "agfood"
+  ],
+  "summary": ""
+ },
+ {
+  "journal": "Journal of Rural Studies",
+  "group": "Rural & land",
+  "date": "2026-10-28",
+  "title": "When place becomes a brand: Creating values and benefits for rural people and places in a whisky region",
+  "authors": "Rachel Creaney; Sharon Flanigan; Kirsty Blackstock; Liz Dinnie; Chloe Thompson",
+  "keywords": "",
+  "abstract": "",
+  "doi": "10.1016/j.jrurstud.2026.104457",
+  "url": "https://doi.org/10.1016/j.jrurstud.2026.104457",
+  "added": "2026-11-02",
+  "themes": [
+   "rural"
+  ],
+  "summary": ""
+ },
+ {
+  "journal": "Journal of Rural Studies",
+  "group": "Rural & land",
+  "date": "2026-10-28",
+  "title": "Health perception biases among rural Chinese adults: Differences in structural, behavioral, and nutrition-related correlates across subtypes",
+  "authors": "Ziqi Li; Guohui Shen; Kunzhen Wang; Xin Ru; Tiannuo Hong; Zihan Xu; Lu Chen; Yanting Gu; Juan Han; Yanzhi Guo",
+  "keywords": "",
+  "abstract": "",
+  "doi": "10.1016/j.jrurstud.2026.104504",
+  "url": "https://doi.org/10.1016/j.jrurstud.2026.104504",
+  "added": "2026-11-02",
+  "themes": [
+   "rural",
+   "health"
+  ],
+  "summary": ""
+ },
+ {
+  "journal": "Journal of Rural Studies",
+  "group": "Rural & land",
+  "date": "2026-10-27",
+  "title": "Re-embedding rural development: The multiscale enactment of “He” culture in China's Beautiful and Harmonious Countryside",
+  "authors": "Zhenglin Wang; Guishan Cheng; Cheng Wang",
+  "keywords": "",
+  "abstract": "",
+  "doi": "10.1016/j.jrurstud.2026.104506",
+  "url": "https://doi.org/10.1016/j.jrurstud.2026.104506",
+  "added": "2026-11-02",
+  "themes": [
+   "rural"
+  ],
+  "summary": ""
+ },
+ {
+  "journal": "Journal of Rural Studies",
+  "group": "Rural & land",
+  "date": "2026-10-27",
+  "title": "Resisting the move? Anchors of rural staying among youth and young adults in the Western Balkans",
+  "authors": "Thomas Dufhues; Judith Möllers; Iliriana Miftari; Ana Simonovska; Desjana Grymshi; Emelj Tuna",
+  "keywords": "",
+  "abstract": "",
+  "doi": "10.1016/j.jrurstud.2026.104451",
+  "url": "https://doi.org/10.1016/j.jrurstud.2026.104451",
+  "added": "2026-11-02",
+  "themes": [
+   "rural"
+  ],
+  "summary": ""
+ },
+ {
+  "journal": "Journal of Rural Studies",
+  "group": "Rural & land",
+  "date": "2026-10-26",
+  "title": "Perceptions of risk and investment in wind energy in rural communities",
+  "authors": "Dorcas Mikindani; John O'Brien; Paul Leahy; Jeremiah Makindara; Judith Valerian; Peter Deeney",
+  "keywords": "",
+  "abstract": "",
+  "doi": "10.1016/j.jrurstud.2026.104471",
+  "url": "https://doi.org/10.1016/j.jrurstud.2026.104471",
+  "added": "2026-11-02",
+  "themes": [
+   "climate",
+   "rural"
+  ],
+  "summary": ""
+ },
+ {
+  "journal": "Land Use Policy",
+  "group": "Rural & land",
+  "date": "2026-11-02",
+  "title": "Conservation governance challenges in the Karakoram: Analyzing the institutional transitions of Central Karakoram National Park, Pakistan",
+  "authors": "Ahmed Nawaz; Jon Geir Petursson; Tom Barry; Saeed Shafqat",
+  "keywords": "",
+  "abstract": "",
+  "doi": "10.1016/j.landusepol.2026.108408",
+  "url": "https://doi.org/10.1016/j.landusepol.2026.108408",
+  "added": "2026-11-02",
+  "themes": [
+   "transport",
+   "resources"
+  ],
+  "summary": ""
+ },
+ {
+  "journal": "Land Use Policy",
+  "group": "Rural & land",
+  "date": "2026-10-31",
+  "title": "Stabilizing urban land markets under population decline: Evidence from spatial management policies in Japan",
+  "authors": "Qiaoyu PAN; Kuniaki SASAKI",
+  "keywords": "",
+  "abstract": "",
+  "doi": "10.1016/j.landusepol.2026.108404",
+  "url": "https://doi.org/10.1016/j.landusepol.2026.108404",
+  "added": "2026-11-02",
+  "themes": [
+   "policy",
+   "rural"
+  ],
+  "summary": ""
+ },
+ {
+  "journal": "Land Use Policy",
+  "group": "Rural & land",
+  "date": "2026-10-31",
+  "title": "Solar farms and agricultural land competition in Poland and Lithuania: Spatial concentration, land rent and planning implementation gaps",
+  "authors": "Hubert Kryszk; Krystyna Kurowska; Jolanta Valčiukienė",
+  "keywords": "",
+  "abstract": "",
+  "doi": "10.1016/j.landusepol.2026.108402",
+  "url": "https://doi.org/10.1016/j.landusepol.2026.108402",
+  "added": "2026-11-02",
+  "themes": [
+   "agfood",
+   "housing"
+  ],
+  "summary": ""
+ },
+ {
+  "journal": "Land Use Policy",
+  "group": "Rural & land",
+  "date": "2026-10-31",
+  "title": "Identifying administrative villages for rural revitalization: A case study in the loess hilly and gully region of China",
+  "authors": "Zhi Cao; Yuwen Wang; Jing Shao; Jianmin Qiao; Cong Ou; Yansui Liu; Zhengjia Liu",
+  "keywords": "",
+  "abstract": "",
+  "doi": "10.1016/j.landusepol.2026.108406",
+  "url": "https://doi.org/10.1016/j.landusepol.2026.108406",
+  "added": "2026-11-02",
+  "themes": [
+   "rural"
+  ],
+  "summary": ""
+ },
+ {
+  "journal": "Land Use Policy",
+  "group": "Rural & land",
+  "date": "2026-10-30",
+  "title": "Optimizing the spatial layout of china’s industrial transfer to the five Lancang–mekong countries under resource and environmental constraints",
+  "authors": "Yongchao Ma; Kun Yang; Jiasheng Wang; Yanhui Zhu; Zhenyi Wang; Siyu Chen; Yang Zhang; Cen Li; Quan Wang; Xianchun Pan; Changyou Bi",
+  "keywords": "",
+  "abstract": "",
+  "doi": "10.1016/j.landusepol.2026.108403",
+  "url": "https://doi.org/10.1016/j.landusepol.2026.108403",
+  "added": "2026-11-02",
+  "themes": [
+   "markets"
+  ],
+  "summary": ""
+ },
+ {
+  "journal": "Land Use Policy",
+  "group": "Rural & land",
+  "date": "2026-10-29",
+  "title": "Effects, spatio-temporal evolution, chain transmission mechanism and precision governance of farmland resource curse in China: Based on Farmland Resource Curse Index and multi-scale raster data with causal identification",
+  "authors": "Renyi Yang; Yansui Liu; Yongdong Zhang; Zisheng Yang; Changbiao Zhong; Fuhua Liu; Fuluan Yang",
+  "keywords": "",
+  "abstract": "",
+  "doi": "10.1016/j.landusepol.2026.108380",
+  "url": "https://doi.org/10.1016/j.landusepol.2026.108380",
+  "added": "2026-11-02",
+  "themes": [
+   "rural",
+   "agfood"
+  ],
+  "summary": ""
+ },
+ {
+  "journal": "Land Use Policy",
+  "group": "Rural & land",
+  "date": "2026-10-29",
+  "title": "Land consolidation in the context of linear infrastructure projects: Adverse outcomes from southern Poland",
+  "authors": "Jaroslaw Taszakowski; Arkadiusz Doroż; Piotr Bożek; Jaroslaw Janus",
+  "keywords": "",
+  "abstract": "",
+  "doi": "10.1016/j.landusepol.2026.108400",
+  "url": "https://doi.org/10.1016/j.landusepol.2026.108400",
+  "added": "2026-11-02",
+  "themes": [
+   "rural"
+  ],
+  "summary": ""
+ },
+ {
+  "journal": "Land Use Policy",
+  "group": "Rural & land",
+  "date": "2026-10-28",
+  "title": "Financial and economic performance of coconut plantation rejuvenation assisted by engineered wood products: A Fijian case study",
+  "authors": "Tyron J. Venn; Jack W. Dorries; Sefanaia Tawake; Alivereti Bolaqace; Robert L. McGavin",
+  "keywords": "",
+  "abstract": "",
+  "doi": "10.1016/j.landusepol.2026.108381",
+  "url": "https://doi.org/10.1016/j.landusepol.2026.108381",
+  "added": "2026-11-02",
+  "themes": [
+   "markets"
+  ],
+  "summary": ""
+ },
+ {
+  "journal": "Land Use Policy",
+  "group": "Rural & land",
+  "date": "2026-10-28",
+  "title": "German farmers' preferences for peatland rewetting schemes: Autonomy, flexibility and institutional trust",
+  "authors": "Marius Michels; Oliver Mußhoff",
+  "keywords": "",
+  "abstract": "",
+  "doi": "10.1016/j.landusepol.2026.108407",
+  "url": "https://doi.org/10.1016/j.landusepol.2026.108407",
+  "added": "2026-11-02",
+  "themes": [
+   "rural",
+   "agfood"
+  ],
+  "summary": ""
+ },
+ {
+  "journal": "Land Use Policy",
+  "group": "Rural & land",
+  "date": "2026-10-27",
+  "title": "The land use challenge in the United Kingdom: Finding space for food production and biodiversity",
+  "authors": "Dustin Benton; Michael Winter; H. Charles J. Godfray",
+  "keywords": "",
+  "abstract": "",
+  "doi": "10.1016/j.landusepol.2026.108391",
+  "url": "https://doi.org/10.1016/j.landusepol.2026.108391",
+  "added": "2026-11-02",
+  "themes": [
+   "rural",
+   "agfood"
+  ],
+  "summary": ""
+ },
+ {
+  "journal": "Land Use Policy",
+  "group": "Rural & land",
+  "date": "2026-10-27",
+  "title": "Global soybean markets and land-use emissions: Evidence from the China–Brazil soybean trade relationship",
+  "authors": "Matheus Koengkan; José Alberto Fuinhas; Zakir Khan; Hélde Domingos; Muhammad Aqib Khursheed",
+  "keywords": "",
+  "abstract": "",
+  "doi": "10.1016/j.landusepol.2026.108394",
+  "url": "https://doi.org/10.1016/j.landusepol.2026.108394",
+  "added": "2026-11-02",
+  "themes": [
+   "markets",
+   "climate"
+  ],
+  "summary": ""
+ },
+ {
+  "journal": "Land Use Policy",
+  "group": "Rural & land",
+  "date": "2026-10-26",
+  "title": "Integrating logistics into urban land use planning",
+  "authors": "Bruno Reges Almeida de Brito; Carlos David Pedrosa Pinheiro; Bruno Vieira Bertoncini",
+  "keywords": "",
+  "abstract": "",
+  "doi": "10.1016/j.landusepol.2026.108397",
+  "url": "https://doi.org/10.1016/j.landusepol.2026.108397",
+  "added": "2026-11-02",
+  "themes": [
+   "rural"
+  ],
+  "summary": ""
+ },
+ {
+  "journal": "Land Use Policy",
+  "group": "Rural & land",
+  "date": "2026-10-26",
+  "title": "Regional heterogeneity in land use conflicts in an emerging economy: Evidence from Vietnam",
+  "authors": "Guanfeng Li; Yutian Liang; Weihuan Deng; Hailong Zhao",
+  "keywords": "",
+  "abstract": "",
+  "doi": "10.1016/j.landusepol.2026.108395",
+  "url": "https://doi.org/10.1016/j.landusepol.2026.108395",
+  "added": "2026-11-02",
+  "themes": [
+   "rural"
+  ],
+  "summary": ""
+ },
+ {
+  "journal": "Land Use Policy",
+  "group": "Rural & land",
+  "date": "2026-10-26",
+  "title": "Spatiotemporal characteristics and driving forces of carbon emissions during the period 2011–2020: Empirical evidence from the nineteen urban agglomerations of China",
+  "authors": "Shizhuang Zhang; Jingjing Si; Lin Zhang; Congyu Zhao; Yongjian Li; Aohui Xu; Hao Chen; Ting Zheng; Aijia Tan; Xinghui Wang; Bo Li",
+  "keywords": "",
+  "abstract": "",
+  "doi": "10.1016/j.landusepol.2026.108401",
+  "url": "https://doi.org/10.1016/j.landusepol.2026.108401",
+  "added": "2026-11-02",
+  "themes": [
+   "climate"
+  ],
+  "summary": ""
+ },
+ {
+  "journal": "Land Use Policy",
+  "group": "Rural & land",
+  "date": "2026-10-26",
+  "title": "Balancing urbanization, climate change, and biodiversity conservation with nature-based solutions: A case study of Hong Kong",
+  "authors": "Ashley H.Y. Bang; Anna Freeman; E.J. Milner-Gulland",
+  "keywords": "",
+  "abstract": "",
+  "doi": "10.1016/j.landusepol.2026.108392",
+  "url": "https://doi.org/10.1016/j.landusepol.2026.108392",
+  "added": "2026-11-02",
+  "themes": [
+   "resources",
+   "climate"
+  ],
+  "summary": ""
+ },
+ {
+  "journal": "American Journal of Agricultural Economics",
+  "group": "Agricultural & applied economics",
+  "date": "2026-11-02",
+  "title": "Policy uncertainty shocks and farm investments in Europe: Evidence from a newspaper‐based index",
+  "authors": "Viviana Garcia; Scott M. Swinton; Robert Finger",
+  "keywords": "",
+  "abstract": "In order to quantify the impact of agricultural policy uncertainty on European farmers' investment behavior, we construct a newspaper‐based monthly index of European agricultural policy uncertainty from 2013 to 2023. We use 327,224 newspaper articles to assess and compare the trends in policy uncertainty across five top agricultural producers in Europe, that is, Germany, the United Kingdom, France, Spain and Italy. We connect this index of policy uncertainty to bookkeeping data from 13,706 farms in these five countries over the period 2014–2018 ( N = 68,530) to estimate the relationship between policy uncertainty and investment decisions. We find an increasing trend in agricultural policy uncertainty, with significant peaks around key events such as the COVID‐19 pandemic, the introduction of the European Green Deal and Brexit. Despite the presence of a common policy environment, agricultural policy uncertainty is heterogeneous across countries and captures country‐specific uncertainties such as elections and weather shocks. Anticipated policy uncertainties, such as those arising from Brexit and the European Green Deal, allow farmers to analyze optimal responses and make investment plans, and therefore, if they affect farm investment, they do so smoothly over time (e.g., bringing investment forward). In contrast, unanticipated uncertainties, or policy uncertainty shocks, like those caused by the Russian food import ban of 2014 or the US‐China trade war are negatively correlated to farm investment.",
+  "doi": "10.1002/ajae.70104",
+  "url": "https://doi.org/10.1002/ajae.70104",
+  "added": "2026-11-02",
+  "themes": [
+   "agfood",
+   "policy"
+  ],
+  "summary": ""
+ },
+ {
+  "journal": "Applied Economic Perspectives and Policy",
+  "group": "Agricultural & applied economics",
+  "date": "2026-10-27",
+  "title": "Impact of Layperson and Scientific Messaging on Sustainable Beef From Seaweed‐Fed Cattle",
+  "authors": "Jianhui Liu; John Lai; Bachir Kassas; Andrew Ropicki",
+  "keywords": "",
+  "abstract": "ABSTRACT A discrete choice experiment was conducted to elicit consumer preferences for a sustainable beef product from cattle fed a seaweed‐supplemented diet. Additionally, two types of information treatments were tested to determine the more effective method of conveying environmental information. Findings indicate that consumers tend to discount such novel beef. However, while both information treatments significantly increased willingness to pay, the layperson's language proved significantly more effective and independent of consumers' educational background. These results imply that straightforward communication can enhance consumer acceptance of innovative, sustainable products. Policymakers and the beef industry should prioritize the use of plain language to promote environmentally friendly meat products.",
+  "doi": "10.1002/aepp.70138",
+  "url": "https://doi.org/10.1002/aepp.70138",
+  "added": "2026-11-02",
+  "themes": [
+   "policy",
+   "agfood"
+  ],
+  "summary": ""
+ },
+ {
+  "journal": "Food Policy",
+  "group": "Agricultural & applied economics",
+  "date": "2026-11-02",
+  "title": "Income and food price shocks, urban food security, and dietary deprivation: Evidence from Dakar, Senegal",
+  "authors": "Mamadou Abdoulaye Diallo; Abdoulaye Diagne",
+  "keywords": "",
+  "abstract": "",
+  "doi": "10.1016/j.foodpol.2026.103224",
+  "url": "https://doi.org/10.1016/j.foodpol.2026.103224",
+  "added": "2026-11-02",
+  "themes": [
+   "agfood",
+   "markets"
+  ],
+  "summary": ""
+ },
+ {
+  "journal": "Food Policy",
+  "group": "Agricultural & applied economics",
+  "date": "2026-10-30",
+  "title": "Universal free school meals and household food spending: heterogeneous effects across two policy episodes",
+  "authors": "I-Hung Kuan; Yizao Liu; Yuxiang Zhang",
+  "keywords": "",
+  "abstract": "",
+  "doi": "10.1016/j.foodpol.2026.103226",
+  "url": "https://doi.org/10.1016/j.foodpol.2026.103226",
+  "added": "2026-11-02",
+  "themes": [
+   "policy",
+   "agfood"
+  ],
+  "summary": ""
+ },
+ {
+  "journal": "European Review of Agricultural Economics",
+  "group": "Agricultural & applied economics",
+  "date": "2026-10-27",
+  "title": "Mitigating time-varying buyer power through farmer commodity storage",
+  "authors": "Zhiyao Ma; Richard J Sexton",
+  "keywords": "",
+  "abstract": "Buyer market power is a significant concern in many agricultural product procurement markets. Research almost exclusively treats such buyer power as a static element of agricultural market structure, despite evidence that buyer power varies across the marketing season for many commodities and locations. We study buyer power as a time-varying phenomenon and analyze the role of commodity storage in mitigating such power and increasing farmer incomes. Data-driven simulations show that strategic storage can generate significant farm income gains and risk reduction. Key factors determining welfare impacts are magnitudes and expected changes in buyer power and farmers’ storage efficiency and risk preferences.",
+  "doi": "10.1093/erae/jbag022",
+  "url": "https://doi.org/10.1093/erae/jbag022",
+  "added": "2026-11-02",
+  "themes": [
+   "agfood",
+   "rural"
+  ],
+  "summary": ""
+ },
+ {
+  "journal": "Journal of Environmental Economics and Management",
+  "group": "Environment & resource economics",
+  "date": "2026-11-02",
+  "title": "The environmental cost of place-based industrial policy: Evidence from industrial zones in Vietnam",
+  "authors": "Trinh Pham",
+  "keywords": "",
+  "abstract": "",
+  "doi": "10.1016/j.jeem.2026.103439",
+  "url": "https://doi.org/10.1016/j.jeem.2026.103439",
+  "added": "2026-11-02",
+  "themes": [
+   "policy",
+   "markets"
+  ],
+  "summary": ""
+ },
+ {
+  "journal": "Journal of Environmental Economics and Management",
+  "group": "Environment & resource economics",
+  "date": "2026-10-31",
+  "title": "Fading Away: Tropical Storms and the Decline of Internal Migrant Entrepreneurship in China",
+  "authors": "Jiannan Wang; Wei Wang",
+  "keywords": "",
+  "abstract": "",
+  "doi": "10.1016/j.jeem.2026.103437",
+  "url": "https://doi.org/10.1016/j.jeem.2026.103437",
+  "added": "2026-11-02",
+  "themes": [
+   "labor"
+  ],
+  "summary": ""
+ },
+ {
+  "journal": "Journal of the Association of Environmental and Resource Economists",
+  "group": "Environment & resource economics",
+  "date": "2026-10-30",
+  "title": "Last Resort Insurance: Wildfires and the Regulation of a Crashing Market",
+  "authors": "Reid Taylor; Madeline Turland; Joakim A. Weill",
+  "keywords": "",
+  "abstract": "",
+  "doi": "10.1086/744732",
+  "url": "https://doi.org/10.1086/744732",
+  "added": "2026-11-02",
+  "themes": [
+   "climate",
+   "markets"
+  ],
+  "summary": ""
+ },
+ {
+  "journal": "Journal of the Association of Environmental and Resource Economists",
+  "group": "Environment & resource economics",
+  "date": "2026-10-30",
+  "title": "The Equity-Adjusted Social Cost of Carbon",
+  "authors": "Johannes Emmerling; Ben Groom; Frederick van der Ploeg",
+  "keywords": "",
+  "abstract": "",
+  "doi": "10.1086/744731",
+  "url": "https://doi.org/10.1086/744731",
+  "added": "2026-11-02",
+  "themes": [
+   "climate"
+  ],
+  "summary": ""
+ },
+ {
+  "journal": "Journal of the Association of Environmental and Resource Economists",
+  "group": "Environment & resource economics",
+  "date": "2026-10-28",
+  "title": "The Local Economic and Welfare Consequences of Demand Shocks for Coal Country",
+  "authors": "Daniel Kraynak",
+  "keywords": "",
+  "abstract": "",
+  "doi": "10.1086/743935",
+  "url": "https://doi.org/10.1086/743935",
+  "added": "2026-11-02",
+  "themes": [
+   "policy"
+  ],
+  "summary": ""
+ },
+ {
+  "journal": "Ecological Economics",
+  "group": "Environment & resource economics",
+  "date": "2026-10-31",
+  "title": "Mapping the beyond GDP field: Canonical concentration and insular invisibility in three decades of multidimensional prosperity measurement (1995–2026)",
+  "authors": "Emilio Bonal; Serafin Corral",
+  "keywords": "",
+  "abstract": "",
+  "doi": "10.1016/j.ecolecon.2026.109290",
+  "url": "https://doi.org/10.1016/j.ecolecon.2026.109290",
+  "added": "2026-11-02",
+  "themes": [
+   "policy"
+  ],
+  "summary": ""
+ },
+ {
+  "journal": "Ecological Economics",
+  "group": "Environment & resource economics",
+  "date": "2026-10-31",
+  "title": "Estimating economy-wide mineral commodity consumption using hybrid input-output modeling: a case study of fluorspar",
+  "authors": "Miriam Stevens; Elisa Alonso; David Pineault; Nedal Nassar; Shweta Singh",
+  "keywords": "",
+  "abstract": "",
+  "doi": "10.1016/j.ecolecon.2026.109285",
+  "url": "https://doi.org/10.1016/j.ecolecon.2026.109285",
+  "added": "2026-11-02",
+  "themes": [
+   "policy"
+  ],
+  "summary": ""
+ },
+ {
+  "journal": "Ecological Economics",
+  "group": "Environment & resource economics",
+  "date": "2026-10-30",
+  "title": "The power of tolerance: First environmental violation exemption and air quality",
+  "authors": "Shiyi Chen; Juan Lu; Jidan Yao",
+  "keywords": "",
+  "abstract": "",
+  "doi": "10.1016/j.ecolecon.2026.109291",
+  "url": "https://doi.org/10.1016/j.ecolecon.2026.109291",
+  "added": "2026-11-02",
+  "themes": [
+   "health"
+  ],
+  "summary": ""
+ },
+ {
+  "journal": "Ecological Economics",
+  "group": "Environment & resource economics",
+  "date": "2026-10-29",
+  "title": "Who pays for decarbonizing homes?",
+  "authors": "Teresa Lackner; Stefan Nabernegg",
+  "keywords": "",
+  "abstract": "",
+  "doi": "10.1016/j.ecolecon.2026.109277",
+  "url": "https://doi.org/10.1016/j.ecolecon.2026.109277",
+  "added": "2026-11-02",
+  "themes": [
+   "climate"
+  ],
+  "summary": ""
+ },
+ {
+  "journal": "Ecological Economics",
+  "group": "Environment & resource economics",
+  "date": "2026-10-29",
+  "title": "Do the trophic impacts which jaguars have on wildlife communities matter to farmers? Diverging farmer preferences for jaguar-associated benefits and costs",
+  "authors": "Alejandro M. Bellon",
+  "keywords": "",
+  "abstract": "",
+  "doi": "10.1016/j.ecolecon.2026.109283",
+  "url": "https://doi.org/10.1016/j.ecolecon.2026.109283",
+  "added": "2026-11-02",
+  "themes": [
+   "rural",
+   "agfood"
+  ],
+  "summary": ""
+ },
+ {
+  "journal": "Ecological Economics",
+  "group": "Environment & resource economics",
+  "date": "2026-10-29",
+  "title": "Enjoying more years of good life while reducing resource use and emissions? A global panel analysis 1990–2019",
+  "authors": "Helmut Haberl; Juan Antonio Duro; Benedikt Grammer; Alejandro Perez-Laborda; Paul E. Brockway; Matthew K. Heun; Shonali Pachauri; Claudia Reiter; Erich Striessnig; Fridolin Krausmann; Jan Streeck; Dominik Wiedenhofer",
+  "keywords": "",
+  "abstract": "",
+  "doi": "10.1016/j.ecolecon.2026.109292",
+  "url": "https://doi.org/10.1016/j.ecolecon.2026.109292",
+  "added": "2026-11-02",
+  "themes": [
+   "climate"
+  ],
+  "summary": ""
+ },
+ {
+  "journal": "Ecological Economics",
+  "group": "Environment & resource economics",
+  "date": "2026-10-28",
+  "title": "Ecological macroeconomics models? Caveat emptor",
+  "authors": "Lieke A. Melsen; Andrea Saltelli",
+  "keywords": "",
+  "abstract": "",
+  "doi": "10.1016/j.ecolecon.2026.109278",
+  "url": "https://doi.org/10.1016/j.ecolecon.2026.109278",
+  "added": "2026-11-02",
+  "themes": [
+   "policy"
+  ],
+  "summary": ""
+ },
+ {
+  "journal": "Ecological Economics",
+  "group": "Environment & resource economics",
+  "date": "2026-10-27",
+  "title": "Economic impacts of pasture degradation at the municipal level: Evidence from Minas Gerais, Brazil",
+  "authors": "Amanda Camargos de Moura; Diogo Nepomuceno Cosenza; Rafael Faria de Abreu Campos; José Marinaldo Gleriani; Talles Bhering de Matos; Vivian Silva Santos; Mikaely Vasconcelos Paulo",
+  "keywords": "",
+  "abstract": "",
+  "doi": "10.1016/j.ecolecon.2026.109286",
+  "url": "https://doi.org/10.1016/j.ecolecon.2026.109286",
+  "added": "2026-11-02",
+  "themes": [
+   "policy"
+  ],
+  "summary": ""
+ },
+ {
+  "journal": "Ecological Economics",
+  "group": "Environment & resource economics",
+  "date": "2026-10-27",
+  "title": "Government positions and climate change: paradigmatic conflict versus consensus in environmental performance",
+  "authors": "Detlef Jahn",
+  "keywords": "",
+  "abstract": "",
+  "doi": "10.1016/j.ecolecon.2026.109284",
+  "url": "https://doi.org/10.1016/j.ecolecon.2026.109284",
+  "added": "2026-11-02",
+  "themes": [
+   "climate"
+  ],
+  "summary": ""
+ },
+ {
+  "journal": "Urban Studies",
+  "group": "Urban / spatial / econ geography",
+  "date": "2026-11-02",
+  "title": "Narrating ontologies of ruination in the disciplinary blur: Ruins as temporal gardens, trees as legal witnesses and birds as world-makers",
+  "authors": "Mariya Hamada",
+  "keywords": "",
+  "abstract": "This commentary investigates the disciplinary blur that challenges the dual ontology of ruination as being both an urban/architectural transformation and an ecological phenomenon. It defies categorizations of objective knowledge and comes to terms with multispecies and interdisciplinary approaches, both historiographically and ethnographically, readjusting to the multiple temporalities of the nonhuman world-making projects that the human-made ruin becomes part of. Drawing on the urban ruin of 19 th -century Manchester (Cottonopolis), England, and the architectural ruins of contemporary Mogador, Morocco, it argues that the temporalities of the nonhuman, intersected respectively with periodicities of industrial contamination and human abandonment, transform the singular obsolete narrative of ruins into a plural transdisciplinary debate questioning the unyielding becoming of urban space. The text’s historiographical and ethnographical micronarratives, woven together through storytelling, theorize the transformative temporalities of urban nature and their capacity to provide the anthropogenic ruin with a collaborative ecological agency. This, the commentary argues, adds botanical and ornithological ontologies to urban and architectural taxonomies of ruination. By positioning oneself in the disciplinary blur, the commentary ideates on how architectural and urban studies can accommodate unfamiliar rhythms of nonhuman-constructed botanical and ornithological ruins.",
+  "doi": "10.1177/00420980261500245",
+  "url": "https://doi.org/10.1177/00420980261500245",
+  "added": "2026-11-02",
+  "themes": [
+   "labor",
+   "markets"
+  ],
+  "summary": ""
+ },
+ {
+  "journal": "Urban Studies",
+  "group": "Urban / spatial / econ geography",
+  "date": "2026-11-02",
+  "title": "Cultural buffering in entrepreneurial city diplomacy: Wuxi’s economic engagement abroad",
+  "authors": "Yichao Du",
+  "keywords": "",
+  "abstract": "Why do investment-oriented municipal delegations begin with culture? This article develops cultural buffering to explain how municipal actors use cultural forms and assets when development-oriented diplomacy brings together organisations with different authority, timetables and commitments. The analysis draws on multi-sited ethnography of 5 Wuxi delegation circuits across Japan, the United Kingdom and continental Europe, followed by tracing of 21 initiatives to July 2026. It identifies two recurrent problems: municipal schedules can outrun partner learning and due diligence, while demands for visible outputs can exceed commitment and post-event ownership. Municipal actors respond to these temporal and accountability mismatches through naming, sequencing, coalition broadening and managed ambiguity. These moves can change who participates, what becomes discussable, which organisations enter the relationship and how provisional alignment is recorded. Subsequent project implementation depends on authority, resources, delivery capacity and an organisation willing to own the next step. Cultural buffering therefore identifies the encounter-level work through which an unsettled proposal becomes discussable and revisitable before its implementation is determined.",
+  "doi": "10.1177/00420980261500009",
+  "url": "https://doi.org/10.1177/00420980261500009",
+  "added": "2026-11-02",
+  "themes": [
+   "housing",
+   "transport"
+  ],
+  "summary": ""
+ },
+ {
+  "journal": "Urban Studies",
+  "group": "Urban / spatial / econ geography",
+  "date": "2026-11-02",
+  "title": "Beyond the perimeter walls: Negotiated porosity and the governance of megaproject edges in Metro Manila",
+  "authors": "Justin D. Stern",
+  "keywords": "",
+  "abstract": "This article examines Bonifacio Global City (BGC), an urban megaproject in Metro Manila, from the perspective of two adjacent barangays, or local government units: Guadalupe Nuevo and South Cembo. Drawing on fieldwork conducted between 2017 and 2024, it asks how these barangays manage the demands of a megaproject planned and marketed as self-contained, and how interdependence at the enclave edge becomes a basis for contesting the terms of urban porosity. Like many central business districts, BGC does not house many of the workers its economy depends on; it relies in part on adjacent barangays that provide the lower-cost housing, everyday services and mobility connections many workers require. The closure and later negotiated reopening of the J.P. Rizal butas, a long-standing informal opening in BGC’s perimeter wall, made this interdependence politically visible. From this case, the paper develops the concept of negotiated porosity. The term describes how the dependencies that sustain an enclave can become spatially concentrated at an interruptible point on its edge, allowing local government actors to contest the status and terms of access across the boundary. The article contributes to work on enclave urbanism, porous enclaves and the governance of urban megaprojects in the Philippines and beyond.",
+  "doi": "10.1177/00420980261498686",
+  "url": "https://doi.org/10.1177/00420980261498686",
+  "added": "2026-11-02",
+  "themes": [
+   "labor",
+   "housing"
+  ],
+  "summary": ""
+ },
+ {
+  "journal": "Urban Studies",
+  "group": "Urban / spatial / econ geography",
+  "date": "2026-11-02",
+  "title": "From Frankenstein to Gulliver urbanism: Reframing AI and scale in urban theory",
+  "authors": "Farshad Shariatpour",
+  "keywords": "",
+  "abstract": "Artificial intelligence (AI) is increasingly embedded in urban governance, infrastructure and design, yet urban theory still lacks a clear language for analysing the scale asymmetries through which these systems operate. This article develops Gulliver Urbanism as a conceptual framework for understanding how AI reshapes urban power when it processes information, acts, and coordinates across cognitive, temporal and spatial horizons that exceed ordinary human capacities and institutional rhythms. Moving beyond Frankenstein Urbanism’s emphasis on rebellion and loss of control, we argue that the central problem of contemporary AI urbanism is scale asymmetry within co-constituted human and machine assemblages. The framework comprises six dimensions: cognitive scale, temporal scale, spatial scale, governance asymmetry, autonomy and agency and human response. It synthesises scholarship on AI urbanism, urban political economy, infrastructural urbanism, posthumanism, law and scale, supported by AI governance frameworks and vignettes on Hangzhou City Brain, robotaxis and generative design. The article conceptualises the urban as a constitutive condition of AI scale asymmetry, where algorithmic systems encounter infrastructure, land, mobility, public services, municipal authority, social difference and collective life. Across these domains, the key challenge is how to govern systems whose capacities outpace human oversight while remaining embedded in corporate, legal and political arrangements. We argue that effective responses require mixed-intelligence governance and temporal dignity: arrangements that subject algorithmic operations to democratic oversight, contestation and human-paced deliberation. Gulliver Urbanism explains how AI reconstitutes urban life by reorganising infrastructures, municipal authority, spatial relations, design imaginaries, public services and everyday citizenship.",
+  "doi": "10.1177/00420980261473549",
+  "url": "https://doi.org/10.1177/00420980261473549",
+  "added": "2026-11-02",
+  "themes": [
+   "digital",
+   "transport"
+  ],
+  "summary": ""
+ },
+ {
+  "journal": "Urban Studies",
+  "group": "Urban / spatial / econ geography",
+  "date": "2026-11-02",
+  "title": "Interpreting mobility reform through care: Ambivalent authority in Taiwan",
+  "authors": "Francis Chia Hui Lin",
+  "keywords": "",
+  "abstract": "This article examines how human-centred mobility reform can reproduce, rather than displace, entrenched hierarchies of automobility. Focusing on Taiwan, it analyses a regulatory archive of national traffic legislation and Taipei municipal instruments through which recent safety reforms have been articulated in the language of care, participation, and protection for vulnerable road users. The article argues that these reforms do not simply replace vehicle-centred urban order with pedestrian-oriented governance. Instead, they overlay existing mobility hierarchies with increasingly dense classifications, conditional provisions, and delegated discretion. Drawing on Homi Bhabha’s concept of ambivalence, the paper conceptualises this condition as ambivalent authority: a mode of postcolonial governance in which authority must appear protective and non-coercive while preserving inherited infrastructures of motorised priority. Through analysis of human-oriented road design, pedestrian-priority legislation, scooter and non-motorised classifications, and municipal mechanisms for temporary road use, the paper shows how care becomes a territorial technology of rule. Its contribution is threefold: it links postcolonial theory to urban mobility governance, clarifies how automobility persists through reform rather than only through resistance to reform, and reframes regulatory complexity as a political mechanism through which contradictory urban priorities are managed. The article concludes that mobility reform in Taiwan governs not by resolving the tension between care and hierarchy, but by continually recalibrating it.",
+  "doi": "10.1177/00420980261498097",
+  "url": "https://doi.org/10.1177/00420980261498097",
+  "added": "2026-11-02",
+  "themes": [
+   "transport"
+  ],
+  "summary": ""
+ },
+ {
+  "journal": "Urban Studies",
+  "group": "Urban / spatial / econ geography",
+  "date": "2026-11-02",
+  "title": "Build for whom? Contested state entrepreneurialism and the governance of affordable rental housing in Shanghai, China",
+  "authors": "Qianyu Lu; Yang Song",
+  "keywords": "",
+  "abstract": "This paper critically interrogates state entrepreneurialism through an empirical analysis of China’s recent Affordable Rental Housing (ARH) programme. Prevailing accounts of social housing under neoliberalism tend to frame it as a residual, market-enabling instrument of welfare retrenchment. Such perspectives, however, inadequately capture contexts in which expanded provision is intertwined with intensified and reconfigured forms of state intervention. Drawing on 92 qualitative interviews in Shanghai, this paper shows how ARH operates as a strategically selective mechanism embedded within broader projects of labour governance and territorial development. While it functions as a spatial fix to absorb oversupplied housing stock amid the crisis tendencies of land-centred accumulation, its implementation reveals a fragmented and contested process of state entrepreneurialism. Intra-state frictions, bureaucratic negotiations and divergent local growth rationalities reproduce uneven and contingent outcomes, rather than a coherent developmental logic. Access to ARH is selectively structured to privilege skilled migrants, demonstrating how state housing provision is mobilised to sort labour and align welfare responsibilities with labour value extraction and urban competitiveness. Meanwhile, hierarchical state-market arrangements reproduce regulatory asymmetries and uneven access. This paper argues that social housing in contemporary China constitutes a contested terrain of accumulation and legitimation, complicating linear narratives of neoliberal convergence and advancing a more critical understanding of state-led housing provision.",
+  "doi": "10.1177/00420980261498685",
+  "url": "https://doi.org/10.1177/00420980261498685",
+  "added": "2026-11-02",
+  "themes": [
+   "housing",
+   "labor"
+  ],
+  "summary": ""
+ },
+ {
+  "journal": "Urban Studies",
+  "group": "Urban / spatial / econ geography",
+  "date": "2026-11-02",
+  "title": "Internationalization of progressive municipalism—Barcelona international relations strategies",
+  "authors": "Agnieszka Szpak",
+  "keywords": "",
+  "abstract": "This article examines how the International Relations Master Plan 2020–2023 and the International Strategy 2025–2029 translate progressive municipalism into external action. Through qualitative content analysis and comparison, it identifies three mechanisms of internationalization: norm projection, networked amplification, and multilevel resource mobilization. Both Strategies promote a rights-based agenda centered on social justice, housing, democratic participation, digital rights, and ecological transition. However, the movement-oriented municipalism of the Colau administration has evolved under Collboni into a more institutionalized and partnership-based model. This shift demonstrates both the continuity and moderation of Barcelona’s progressive orientation. The article also highlights the limits of municipal internationalization: although the Strategies support agenda-setting, policy circulation, coalition-building, and access to resources, they neither confer formal international authority on the city nor guarantee implementation. Barcelona, therefore, illustrates both the potential and the structural constraints of cities seeking to influence state-centered international governance.",
+  "doi": "10.1177/00420980261498132",
+  "url": "https://doi.org/10.1177/00420980261498132",
+  "added": "2026-11-02",
+  "themes": [
+   "housing",
+   "policy"
+  ],
+  "summary": ""
+ },
+ {
+  "journal": "Urban Studies",
+  "group": "Urban / spatial / econ geography",
+  "date": "2026-11-02",
+  "title": "Bridging critical knowledge and action gaps in urban health: A call for transdisciplinary approaches in urban studies in the era of global population aging and climate change",
+  "authors": "Vitor Pessoa Colombo; Elis Mina Seraya Borde; Mirko S. Winkler; Aline Dayrell Ferreira Sales; Amanda Cristina de Souza Andrade; Amanda Fernandes; Amanda Silva Magalhães; Amélia Augusta de Lima Friche; Andrea Salmi; Astrid Knoblauch; Luciana de Souza Braga; Ludovic Jonard; Magda do Carmo Parajára; Thiago Hérick de Sá; Carlos Dora; Waleska Teixeira Caiaffa",
+  "keywords": "",
+  "abstract": "Urbanization and population aging are two “mega-trends” posing significant challenges to global health, particularly under climate change. Despite extensive evidence on the links between the built environment and health, urban planning scholars and practitioners still miss valuable opportunities to contribute to public health and urban health equity—which often remain marginal or only implicit topics in urban planning discourses and practices. Against this background, we organized the transdisciplinary workshop “Global Health Challenges Related to Demographic & Climate Changes: Implications for Urban and Territorial Planning” (Basel, 2024), convening scholars and practitioners to co-develop a research agenda addressing knowledge-to-action gaps in urban health equity and climate resilience. Building on the workshop’s discussions, this commentary highlights current challenges in reconnecting urban planning and public health while presenting opportunities to bridge this gap. We argue for an “ultra-local” approach that acknowledges the chronic lack of granular data necessary to address spatial justice and urban health inequities, emphasizing the importance of evidence- and place-based planning. To illustrate this approach, we present two recent experiences: the BH-Viva project in Brazil, which assessed impact of slum-upgrading projects on urban health equity, and the Saint-Louis Master Plan in Senegal, a pioneering effort integrating climate resilience into urban policy and planning. Ultimately, we present what we identified as priority research paths in urban studies, having transdisciplinarity as a precondition for urban planners to effectively tackle pressing global health challenges.",
+  "doi": "10.1177/00420980261498090",
+  "url": "https://doi.org/10.1177/00420980261498090",
+  "added": "2026-11-02",
+  "themes": [
+   "health",
+   "climate"
+  ],
+  "summary": ""
+ },
+ {
+  "journal": "Urban Studies",
+  "group": "Urban / spatial / econ geography",
+  "date": "2026-11-02",
+  "title": "Understanding activity spaces: Contemporary issues and challenges and future research directions",
+  "authors": "Renee Zahnow; Jonathan Corcoran; Rebecca Wickes",
+  "keywords": "",
+  "abstract": "Activity spaces are a subset of locations where people spend their everyday lives. Interest in activity spaces spans the social sciences, geography, health sciences and transportation research. In recent years, the spread of smartphones and other tracking devices has made it far easier to record daily movements. This has sparked an increase in activity space research and an opportunity to consider how the concept has been conceptually and empirically defined over time and across disciplinary fields. In this scoping review, we analyse 372 studies of activity spaces published between 1972 and 2024. Despite conceptual consistency, we find that studies tend to focus, empirically, on one of four dimensions of activity spaces: access, nodes, paths and exposure. Drawing on our review, we suggest greater methodological harmonisation may better support replication and comparative studies and incremental research discovery. We propose that to achieve this, a more nuanced theoretical framework is required that defines each of the dimensions of activity space, how they are related to each other and incorporates aspects of daily activity in the new millennia (e.g. online, hybrid and multilayered time–space locations).",
+  "doi": "10.1177/00420980261492885",
+  "url": "https://doi.org/10.1177/00420980261492885",
+  "added": "2026-11-02",
+  "themes": [
+   "transport",
+   "digital"
+  ],
+  "summary": ""
+ },
+ {
+  "journal": "Urban Studies",
+  "group": "Urban / spatial / econ geography",
+  "date": "2026-10-30",
+  "title": "Assessment of the capacity of active ageing policies in Türkiye to adapt to age-friendly cities",
+  "authors": "Muhammet Keskin",
+  "keywords": "",
+  "abstract": "This study evaluates the alignment and historical development of active ageing policies in Türkiye within the framework of the World Health Organization’s (WHO) Age-Friendly Cities model. This qualitative study employs document analysis to examine the Specialised Commission Reports on ageing and active ageing prepared for the 10th, 11th and 12th Development Plans, as well as the National Action Plan on the Rights of Older Persons (2023–2025). These documents were analysed using WHO’s eight core domains, with a focus on policy characteristics, institutional responsibilities, and monitoring and evaluation mechanisms. The findings reveal a paradigm shift from a paternalistic, service-oriented approach toward an autonomous, rights- and technology-driven framework. Although substantial strategic progress is evident in healthcare and social policy, its integration with spatial planning and urban design remains limited, leaving transformation in physical domains (transportation and outdoor spaces) largely confined to policy discourse. While strategic vision has become progressively aligned with implementation instruments, the absence of binding local standards and impact-based monitoring remains a fundamental challenge. These limitations can be associated with Türkiye’s post-2011 institutional transformation and the evolving dynamics of its macro-planning functions. This administrative context has strengthened central institutional capacity while creating new coordination challenges for urban implementation and the operational flexibility of local authorities. Consequently, achieving genuinely age-friendly cities requires a holistic governance model that strengthens cross-sectoral coordination, supports local implementation through common standards, and is underpinned by impact-oriented monitoring.",
+  "doi": "10.1177/00420980261497637",
+  "url": "https://doi.org/10.1177/00420980261497637",
+  "added": "2026-11-02",
+  "themes": [
+   "policy",
+   "health"
+  ],
+  "summary": ""
+ },
+ {
+  "journal": "Urban Studies",
+  "group": "Urban / spatial / econ geography",
+  "date": "2026-10-30",
+  "title": "Selective responsibility: Environmental, social and governance frameworks and the containment of environmental and social harm in urban real estate",
+  "authors": "Frances Brill",
+  "keywords": "",
+  "abstract": "As environmental, social and governance (ESG) frameworks become increasingly institutionalised within real-estate investment, questions of corporate responsibility for urban social and environmental challenges become more evident. Drawing on the case of Zurich and applying Young’s Social Connection Model of responsibility, this paper examines how ESG shapes the ways in which real-estate investors identify, articulate and act upon their responsibilities towards urban environments and communities. I argue that rather than constituting a meaningful framework for addressing structural housing inequality and environmental harm, ESG operates primarily as a risk-management tool that translatesc heterogeneous societal concerns into discrete, auditable categories. Environmental metrics dominate due to their compatibility with existing valuation practices, while social dimensions stagnate and governance is reduced to documentation. The result is a form of selective, depoliticised responsibility that acknowledges corporate implication in urban processes while simultaneously containing and neutralising its scope. Nevertheless, ESG’s ambiguity creates organisational openings through which individual actors can advance more ambitious environmental and social agendas. The paper concludes that ESG enables incremental progress while leaving the structural drivers of housing inequality and environmental harm fundamentally unchallenged.",
+  "doi": "10.1177/00420980261492637",
+  "url": "https://doi.org/10.1177/00420980261492637",
+  "added": "2026-11-02",
+  "themes": [
+   "housing",
+   "policy"
+  ],
+  "summary": ""
+ },
+ {
+  "journal": "Urban Studies",
+  "group": "Urban / spatial / econ geography",
+  "date": "2026-10-28",
+  "title": "Social isolation in motion: How socioeconomic segregation in everyday mobility varies by neighborhood racial-ethnic composition in U.S. cities",
+  "authors": "Brian L. Levy",
+  "keywords": "",
+  "abstract": "Recent scholarship finds that socioeconomic (dis)advantage in urban neighborhoods’ routine mobility networks—the neighborhoods their residents visit and receive visits from—predicts their vitality. Mobility-based (dis)advantage is correlated with, but conceptually distinct from, the socioeconomic status of a neighborhood’s residents. Thus, residential and mobility-based disadvantage can lead to distinct or compounding inequalities. This paper builds on Wilson’s social isolation framework to analyze how mobility-based disadvantage is unequally distributed by neighborhood racial-ethnic composition in the United States’ 100 most populous cities and their commuting zones. Majority-Black and majority-Hispanic neighborhoods experience heightened levels of mobility-based disadvantage, which deepens well-known disparities with majority-white neighborhoods based on residents’ socioeconomic statuses. Generally, mobility disadvantage compounds inequalities based on residential disadvantage, but for some Black and Hispanic neighborhoods with relatively low residential disadvantage, mobility disadvantage is a distinct form of inequality. The extent of these inequalities varies by urban form, with white spatial clustering and residential segregation by income as salient moderators. Isolation in structural neighborhood networks emerges as a clear feature of racial-ethnic inequality, though that one varies between cities.",
+  "doi": "10.1177/00420980261493239",
+  "url": "https://doi.org/10.1177/00420980261493239",
+  "added": "2026-11-02",
+  "themes": [
+   "transport",
+   "policy"
+  ],
+  "summary": ""
+ },
+ {
+  "journal": "Urban Studies",
+  "group": "Urban / spatial / econ geography",
+  "date": "2026-10-28",
+  "title": "Two-wheelers and bicycles: Comparing mobility, meaningful activities and well-being among urban-dwelling older adults in Bengaluru and the Northern Netherlands",
+  "authors": "Louise Meijering; Sobin George; Thomas Aaron Lowe; Anne Mombarg; Aleida Antonia Rottink; Yashaswini SY; Prajwal Nagesh",
+  "keywords": "",
+  "abstract": "Mobility, or everyday movement, is an integral part of ageing well. Situated in theoretical frameworks around the capability to be mobile, meaningful activities and subjective well-being, this article zooms in on the role of health and the urban context in everyday movement. This article aims to contrast and compare how urban-dwelling older adults in different health conditions use their capability to be mobile to engage in meaningful activities that contribute to their experienced well-being in the Bengaluru Metropolitan Area and the Northern Netherlands. We draw on a qualitative study, combining activity diaries and in-depth interviews, collected among 18 older adults in the Northern Netherlands and 22 in Bengaluru. The findings show that in both contexts, engaging in independent mobility can contribute to engagement in meaningful activities and well-being, with a particularly important role for two-wheelers and bicycles. Specifically, we found that older adults can stay well, even when their health declines; that they are able to maintain their mobility in creative ways, in light of both individual and environmental challenges; and that they adapt both their capability to be mobile and to engage in meaningful activities. In conclusion, age-friendly environments should support the capability to move independently in later life.",
+  "doi": "10.1177/00420980261498124",
+  "url": "https://doi.org/10.1177/00420980261498124",
+  "added": "2026-11-02",
+  "themes": [
+   "health",
+   "transport"
+  ],
+  "summary": ""
+ },
+ {
+  "journal": "Urban Studies",
+  "group": "Urban / spatial / econ geography",
+  "date": "2026-10-28",
+  "title": "The project-ification of urban natures",
+  "authors": "Charrlotte Adelina",
+  "keywords": "",
+  "abstract": "Project times are instrumental in co-producing temporalities of urban natures. To unpack how the figure of the project alters understandings of and governs relations with plant life, I point to frameworks through which urban ecologies come into being and are subsequently cared for. To illustrate these linkages, I draw on site visits to urban greening interventions in Hyderabad, Telangana (India) created as part of a state-led afforestation programme. In addition to a spatial ordering of plants for conservation, afforestation practices take shape through a ‘timing’ of vegetal life, in terms of projected and project gains. Taking the project-ification of plant life seriously, I argue that calls to recognise plural, divergent or non-linear temporalities would still need to contend with deeply entrenched, pervasive frameworks of project management in the governance of urban natures. Eco-managerial time practices and ways of relating to plants are, therefore, crucial sites of intervention for vegetal geography. Lastly, I question the uptake of the infrastructural lens, which interrogates how urban greening fails to perform its promised services without a critical look at the practices of doing, composing or contracting infrastructures, arguing instead for a study of ‘nature as project’.",
+  "doi": "10.1177/00420980261498096",
+  "url": "https://doi.org/10.1177/00420980261498096",
+  "added": "2026-11-02",
+  "themes": [
+   "resources",
+   "climate"
+  ],
+  "summary": ""
+ },
+ {
+  "journal": "Urban Studies",
+  "group": "Urban / spatial / econ geography",
+  "date": "2026-10-28",
+  "title": "Beyond ‘staying put’? Ageing in place through a relocation-based housing project in Singapore",
+  "authors": "Shengxiao (Alex) Li; Shin Bin Tan",
+  "keywords": "",
+  "abstract": "Ageing in place (AIP) has become a central framework for planning housing and infrastructure in ageing societies. The AIP literature is dominated by the perspective of ‘staying put’. As such, there is limited evidence on whether relocation can provide a viable pathway for older people to age in place. Accordingly, this study examines Kampung Admiralty (KA) – a government-led vertical mixed-use development in Singapore that integrates senior housing, grocery shopping, healthcare, childcare, and an active ageing centre (AAC) under a single roof – to assess its potential as a strategy for promoting healthy ageing. From interviews with residents in KA and communities nearby, we find that relocating older adults to smaller, affordable housing units meets the needs of older people who want to downsize their residences. The AAC serves as a focal point for developing new social networks among both relocated residents and older adults living nearby. The ‘everything under one roof’ model is well received, especially given residents’ declining health and the challenges that Singapore’s tropical climate poses. Although KA demonstrates success in relocating people and integrating functions for older people, it has limitations, including insufficient provision for live-in helpers and constrained access to specialised healthcare. This case offers important theoretical and policy insights for AIP.",
+  "doi": "10.1177/00420980261498093",
+  "url": "https://doi.org/10.1177/00420980261498093",
+  "added": "2026-11-02",
+  "themes": [
+   "housing",
+   "health"
+  ],
+  "summary": ""
+ },
+ {
+  "journal": "Cities",
+  "group": "Urban / spatial / econ geography",
+  "date": "2026-10-31",
+  "title": "Spatiotemporal dynamics of informal settlements across argentine cities: A national-scale analysis",
+  "authors": "Jota Samper; Julio Pedrassoli; Malena Jaramillo Espinosa; Juan Manuel D'Attoli; Anthony Boanada-Fuchs; Monika Kuffer",
+  "keywords": "",
+  "abstract": "",
+  "doi": "10.1016/j.cities.2026.107774",
+  "url": "https://doi.org/10.1016/j.cities.2026.107774",
+  "added": "2026-11-02",
+  "themes": [
+   "policy"
+  ],
+  "summary": ""
+ },
+ {
+  "journal": "Cities",
+  "group": "Urban / spatial / econ geography",
+  "date": "2026-10-31",
+  "title": "The Vysokovsky polycentric model as a tool to assess polycentric spatial structure: The case of major Russian cities",
+  "authors": "Varvara Alexandrovna Molodtsova; Roman Valerievich Babeykin; Ruslan Vyacheslavovich Goncharov",
+  "keywords": "",
+  "abstract": "",
+  "doi": "10.1016/j.cities.2026.107688",
+  "url": "https://doi.org/10.1016/j.cities.2026.107688",
+  "added": "2026-11-02",
+  "themes": [
+   "policy"
+  ],
+  "summary": ""
+ },
+ {
+  "journal": "Cities",
+  "group": "Urban / spatial / econ geography",
+  "date": "2026-10-30",
+  "title": "Mapping vitality in Xi'an: Integrating Jacobs' criteria with machine learning for urban regeneration",
+  "authors": "Xiji Jiang; Dan Ye; Xinlei Shi; Zirui Hou; Wenlong Lan; Tianzi Zhang; Jiayi Shi; Siyuan Meng",
+  "keywords": "",
+  "abstract": "",
+  "doi": "10.1016/j.cities.2026.107712",
+  "url": "https://doi.org/10.1016/j.cities.2026.107712",
+  "added": "2026-11-02",
+  "themes": [
+   "digital"
+  ],
+  "summary": ""
+ },
+ {
+  "journal": "Cities",
+  "group": "Urban / spatial / econ geography",
+  "date": "2026-10-30",
+  "title": "The need for a robust policy framework for governing the urban transition toward climate neutrality: A comparative analysis of nine Italian cities",
+  "authors": "C. Concaro; E.F. Bompard; D. Grosso",
+  "keywords": "",
+  "abstract": "",
+  "doi": "10.1016/j.cities.2026.107716",
+  "url": "https://doi.org/10.1016/j.cities.2026.107716",
+  "added": "2026-11-02",
+  "themes": [
+   "climate",
+   "policy"
+  ],
+  "summary": ""
+ },
+ {
+  "journal": "Cities",
+  "group": "Urban / spatial / econ geography",
+  "date": "2026-10-30",
+  "title": "Assessing the influence of urban morphology, vegetation, and topography on land surface temperature: A planning-support tool",
+  "authors": "Saffa Mansour; Aurélie Talon; Pierre Breul; Ayman Dbeis",
+  "keywords": "",
+  "abstract": "",
+  "doi": "10.1016/j.cities.2026.107768",
+  "url": "https://doi.org/10.1016/j.cities.2026.107768",
+  "added": "2026-11-02",
+  "themes": [
+   "policy"
+  ],
+  "summary": ""
+ },
+ {
+  "journal": "Cities",
+  "group": "Urban / spatial / econ geography",
+  "date": "2026-10-30",
+  "title": "Modeling urban perception with large language models: A systematic review",
+  "authors": "Musab Wedyan; Fatemeh Saeidi-Rizi; Tai-Quan Peng",
+  "keywords": "",
+  "abstract": "",
+  "doi": "10.1016/j.cities.2026.107744",
+  "url": "https://doi.org/10.1016/j.cities.2026.107744",
+  "added": "2026-11-02",
+  "themes": [
+   "policy"
+  ],
+  "summary": ""
+ },
+ {
+  "journal": "Cities",
+  "group": "Urban / spatial / econ geography",
+  "date": "2026-10-30",
+  "title": "Unveiling episodes of everyday informal politics in internationally funded slum upgrading programs",
+  "authors": "Gideon Abagna Azunre",
+  "keywords": "",
+  "abstract": "",
+  "doi": "10.1016/j.cities.2026.107743",
+  "url": "https://doi.org/10.1016/j.cities.2026.107743",
+  "added": "2026-11-02",
+  "themes": [
+   "policy"
+  ],
+  "summary": ""
+ },
+ {
+  "journal": "Cities",
+  "group": "Urban / spatial / econ geography",
+  "date": "2026-10-30",
+  "title": "Managing platform-mediated night-time urban economies: temporal-spatial disequilibrium and governance responses in Hanoi and Ho Chi Minh City",
+  "authors": "Thi Thao Pham; Thi Duyen Nguyen; Thu Thuy Luong; An Quan Tran; Khanh Cuong Le; Manh Hai Nguyen; Minh Hieu Nguyen",
+  "keywords": "",
+  "abstract": "",
+  "doi": "10.1016/j.cities.2026.107764",
+  "url": "https://doi.org/10.1016/j.cities.2026.107764",
+  "added": "2026-11-02",
+  "themes": [
+   "digital"
+  ],
+  "summary": ""
+ },
+ {
+  "journal": "Cities",
+  "group": "Urban / spatial / econ geography",
+  "date": "2026-10-30",
+  "title": "Governing urban AI responsibly: Public perceptions of ethical and practical challenges in local government",
+  "authors": "Raveena Marasinghe; Tan Yigitcanlar; Xinyue Ye; Darío Negueruela del Castillo; Alexander Paz",
+  "keywords": "",
+  "abstract": "",
+  "doi": "10.1016/j.cities.2026.107750",
+  "url": "https://doi.org/10.1016/j.cities.2026.107750",
+  "added": "2026-11-02",
+  "themes": [
+   "digital"
+  ],
+  "summary": ""
+ },
+ {
+  "journal": "Cities",
+  "group": "Urban / spatial / econ geography",
+  "date": "2026-10-30",
+  "title": "Space, sentiment, and social comparison: Decoding urban park satisfaction with Large Language Models",
+  "authors": "Weiyi Tian; Fei Feng; Yingqiao Yu; Raffaele Lafortezza",
+  "keywords": "",
+  "abstract": "",
+  "doi": "10.1016/j.cities.2026.107747",
+  "url": "https://doi.org/10.1016/j.cities.2026.107747",
+  "added": "2026-11-02",
+  "themes": [
+   "policy"
+  ],
+  "summary": ""
+ },
+ {
+  "journal": "Cities",
+  "group": "Urban / spatial / econ geography",
+  "date": "2026-10-30",
+  "title": "Mapping social health in community green spaces: A Q-methodology and grounded theory exploration",
+  "authors": "Lu Yang; Liang Li; Huijia Teng; Ruosang Wang; Yuxuan Zhong; Shuyu Li",
+  "keywords": "",
+  "abstract": "",
+  "doi": "10.1016/j.cities.2026.107738",
+  "url": "https://doi.org/10.1016/j.cities.2026.107738",
+  "added": "2026-11-02",
+  "themes": [
+   "climate",
+   "health"
+  ],
+  "summary": ""
+ },
+ {
+  "journal": "Cities",
+  "group": "Urban / spatial / econ geography",
+  "date": "2026-10-30",
+  "title": "Pentecostal churches and urban poverty: A social media analysis of structure and interaction",
+  "authors": "Emiliano M. Gutiérrez; Juan M.C. Larrosa",
+  "keywords": "",
+  "abstract": "",
+  "doi": "10.1016/j.cities.2026.107740",
+  "url": "https://doi.org/10.1016/j.cities.2026.107740",
+  "added": "2026-11-02",
+  "themes": [
+   "policy"
+  ],
+  "summary": ""
+ },
+ {
+  "journal": "Cities",
+  "group": "Urban / spatial / econ geography",
+  "date": "2026-10-30",
+  "title": "An integrated framework for assessing sustainable urban development: Empirical evidence from polish cities",
+  "authors": "Elżbieta Antczak; Agnieszka Rzeńca; Agnieszka Sobol",
+  "keywords": "",
+  "abstract": "",
+  "doi": "10.1016/j.cities.2026.107759",
+  "url": "https://doi.org/10.1016/j.cities.2026.107759",
+  "added": "2026-11-02",
+  "themes": [
+   "policy"
+  ],
+  "summary": ""
+ },
+ {
+  "journal": "Cities",
+  "group": "Urban / spatial / econ geography",
+  "date": "2026-10-30",
+  "title": "How does urban–rural integration shape county-level economic resilience? Quasi-natural experimental evidence from 2074 counties in China",
+  "authors": "Peichao Dai; Zhaoyang Hu; Xin Chen",
+  "keywords": "",
+  "abstract": "",
+  "doi": "10.1016/j.cities.2026.107751",
+  "url": "https://doi.org/10.1016/j.cities.2026.107751",
+  "added": "2026-11-02",
+  "themes": [
+   "climate",
+   "rural"
+  ],
+  "summary": ""
+ },
+ {
+  "journal": "Cities",
+  "group": "Urban / spatial / econ geography",
+  "date": "2026-10-30",
+  "title": "Spatio-temporal patterns and obstacle factors of the “three states” human settlements coordinated development in China's coastal cities",
+  "authors": "Shenzhen Tian; Yue Meng; Jie Wang; Hang Li; Dejun Zhang; Xueming Li; Guangdong Li",
+  "keywords": "",
+  "abstract": "",
+  "doi": "10.1016/j.cities.2026.107703",
+  "url": "https://doi.org/10.1016/j.cities.2026.107703",
+  "added": "2026-11-02",
+  "themes": [
+   "policy"
+  ],
+  "summary": ""
+ },
+ {
+  "journal": "International Journal of Urban and Regional Research",
+  "group": "Urban / spatial / econ geography",
+  "date": "2026-10-29",
+  "title": "‘\n                    PARTICIPATION IS WHAT WE DO EVERY DAY\n                    ’: Unpacking the Meanings and Practices of Participation Addressing Mobility Justice in Rio de Janeiro and Porto Alegre, Brazil",
+  "authors": "Aline Fernandes Barata; Sue Brownill",
+  "keywords": "",
+  "abstract": "Participation is a topic that has been widely debated in urban studies. Despite this, we argue in this paper that policies and academic work on mobility planning have paid little attention to the meanings attached to participation and its role in mobility justice. Building on the literature on spaces for participation, Southern theories and insurgent planning, this paper shows that participation has multiple and contested meanings, particularly when addressing mobility injustices in the global South. Based on case studies in Favela Santa Marta, Rio de Janeiro, and Vila Tronco, Porto Alegre, both in Brazil, we provide evidence of alternative meanings of participation and a range of participatory practices exercised by residents with, despite, and against the state. The everyday practices that flow from and interact with these meanings uphold the freedoms to move around, thrive, and dwell, challenging mobility planning and what we call ‘authorized participatory discourse’. Our findings show that while participation with the state is only one part of the story, particularly in contexts of informality and exclusion, the state's and residents’ responses are far from monolithic. We conclude by arguing that a focus on everyday practices can add new insights to the understanding of mobility justice and insurgent planning.",
+  "doi": "10.1111/1468-2427.70155",
+  "url": "https://doi.org/10.1111/1468-2427.70155",
+  "added": "2026-11-02",
+  "themes": [
+   "transport",
+   "policy"
+  ],
+  "summary": ""
+ },
+ {
+  "journal": "Journal of Urban Affairs",
+  "group": "Urban / spatial / econ geography",
+  "date": "2026-10-30",
+  "title": "Canfield Drive: A history of race and the American city on a street in St. Louis\n                    , by Matthew Knox Averett",
+  "authors": "Colin Gordon",
+  "keywords": "",
+  "abstract": "",
+  "doi": "10.1080/07352166.2026.2744063",
+  "url": "https://doi.org/10.1080/07352166.2026.2744063",
+  "added": "2026-11-02",
+  "themes": [
+   "policy"
+  ],
+  "summary": ""
+ },
+ {
+  "journal": "Journal of Urban Affairs",
+  "group": "Urban / spatial / econ geography",
+  "date": "2026-10-30",
+  "title": "Navigating the Kafkaesque: Tracing public service coproduction from three disciplines",
+  "authors": "Brenton C. Hereford",
+  "keywords": "",
+  "abstract": "",
+  "doi": "10.1080/07352166.2026.2740714",
+  "url": "https://doi.org/10.1080/07352166.2026.2740714",
+  "added": "2026-11-02",
+  "themes": [
+   "policy"
+  ],
+  "summary": ""
+ },
+ {
+  "journal": "Journal of Urban Affairs",
+  "group": "Urban / spatial / econ geography",
+  "date": "2026-10-29",
+  "title": "What business do freeways have downtown? Planning rhetoric and its impact on communities of color",
+  "authors": "Andres F. Ramirez; Anastasia Loukaitou-Sideris; Paul M. Ong; Jacob L. Wasserman",
+  "keywords": "",
+  "abstract": "",
+  "doi": "10.1080/07352166.2026.2739954",
+  "url": "https://doi.org/10.1080/07352166.2026.2739954",
+  "added": "2026-11-02",
+  "themes": [
+   "policy"
+  ],
+  "summary": ""
+ },
+ {
+  "journal": "Journal of Urban Affairs",
+  "group": "Urban / spatial / econ geography",
+  "date": "2026-10-29",
+  "title": "Electric life: Utility regulation and the fight for energy democracy\n                    , by Nikki Luke",
+  "authors": "Heerae Lee",
+  "keywords": "",
+  "abstract": "",
+  "doi": "10.1080/07352166.2026.2744064",
+  "url": "https://doi.org/10.1080/07352166.2026.2744064",
+  "added": "2026-11-02",
+  "themes": [
+   "climate"
+  ],
+  "summary": ""
+ },
+ {
+  "journal": "Journal of Urban Affairs",
+  "group": "Urban / spatial / econ geography",
+  "date": "2026-10-29",
+  "title": "Understanding neighborhood crime through community institutions: A quantitative examination of barbershop guardianship in Los Angeles, California",
+  "authors": "Kylil Martin",
+  "keywords": "",
+  "abstract": "",
+  "doi": "10.1080/07352166.2026.2743695",
+  "url": "https://doi.org/10.1080/07352166.2026.2743695",
+  "added": "2026-11-02",
+  "themes": [
+   "policy"
+  ],
+  "summary": ""
+ },
+ {
+  "journal": "Journal of Urban Affairs",
+  "group": "Urban / spatial / econ geography",
+  "date": "2026-10-29",
+  "title": "Everyday negotiation and affective displacement in China’s wanghong gentrification",
+  "authors": "Lihui Ji; Katia Attuyer; Phil Jones",
+  "keywords": "",
+  "abstract": "",
+  "doi": "10.1080/07352166.2026.2743708",
+  "url": "https://doi.org/10.1080/07352166.2026.2743708",
+  "added": "2026-11-02",
+  "themes": [
+   "housing"
+  ],
+  "summary": ""
+ },
+ {
+  "journal": "Journal of Urban Affairs",
+  "group": "Urban / spatial / econ geography",
+  "date": "2026-10-27",
+  "title": "The politics of sanctuary\n                    , by Vojislava Filipcevic Cordes",
+  "authors": "Els de Graauw",
+  "keywords": "",
+  "abstract": "",
+  "doi": "10.1080/07352166.2026.2744062",
+  "url": "https://doi.org/10.1080/07352166.2026.2744062",
+  "added": "2026-11-02",
+  "themes": [
+   "policy"
+  ],
+  "summary": ""
+ },
+ {
+  "journal": "Journal of Urban Affairs",
+  "group": "Urban / spatial / econ geography",
+  "date": "2026-10-27",
+  "title": "From state-led tourism to real estate investment: Remaking Accra’s speculative urban frontier",
+  "authors": "Janet Husunukpe",
+  "keywords": "",
+  "abstract": "",
+  "doi": "10.1080/07352166.2026.2743682",
+  "url": "https://doi.org/10.1080/07352166.2026.2743682",
+  "added": "2026-11-02",
+  "themes": [
+   "housing"
+  ],
+  "summary": ""
+ },
+ {
+  "journal": "Journal of Urban Affairs",
+  "group": "Urban / spatial / econ geography",
+  "date": "2026-10-26",
+  "title": "The associations of heat exposure and energy insecurity with maternal mental health, child health, and developmental risk in two U.S. cities",
+  "authors": "Stephanie Ettinger de Cuba; Charlotte A. Robbins; Sharon M. Coleman; M. Patricia Fabian; Lydia Lichtiger; Zachary Popp; Allison M. James; Charlotte Bruce; Megan Sandel; Eduardo R. Ochoa; Diana B. Cutts; Félice Lê-Scherban; Ana Poblacion; Deborah A. Frank; Kevin J. Lane",
+  "keywords": "",
+  "abstract": "",
+  "doi": "10.1080/07352166.2026.2739947",
+  "url": "https://doi.org/10.1080/07352166.2026.2739947",
+  "added": "2026-11-02",
+  "themes": [
+   "health",
+   "climate"
+  ],
+  "summary": ""
+ },
+ {
+  "journal": "Computers, Environment and Urban Systems",
+  "group": "Urban / spatial / econ geography",
+  "date": "2026-10-29",
+  "title": "AgentAccess: Agent-Based Model for Place-Based Spatial Accessibility",
+  "authors": "Alexander Michels; Jeon-Young Kang; Jinwoo Park; Shaowen Wang",
+  "keywords": "",
+  "abstract": "",
+  "doi": "10.1016/j.compenvurbsys.2026.102543",
+  "url": "https://doi.org/10.1016/j.compenvurbsys.2026.102543",
+  "added": "2026-11-02",
+  "themes": [
+   "policy",
+   "transport"
+  ],
+  "summary": ""
+ },
+ {
+  "journal": "Transportation Research Part A: Policy and Practice",
+  "group": "Urban / spatial / econ geography",
+  "date": "2026-11-02",
+  "title": "A structured hub-corridor framework for socioeconomic performance assessment: A group fuzzy BWM approach with empirical validation in China",
+  "authors": "Liwei Duan; Zhenlang Tang; Xiyu Wang; Jian Chen; Qingru Zou",
+  "keywords": "",
+  "abstract": "",
+  "doi": "10.1016/j.tra.2026.105341",
+  "url": "https://doi.org/10.1016/j.tra.2026.105341",
+  "added": "2026-11-02",
+  "themes": [
+   "policy"
+  ],
+  "summary": ""
+ },
+ {
+  "journal": "Transportation Research Part A: Policy and Practice",
+  "group": "Urban / spatial / econ geography",
+  "date": "2026-11-01",
+  "title": "Unveiling urban mobility complexities in developing nations: informal transport in a small city",
+  "authors": "Thomas E. Guerrero B.; Paul Basnak; Jose Agustin Vallejo-Borda; Juan de Dios Ortúzar",
+  "keywords": "",
+  "abstract": "",
+  "doi": "10.1016/j.tra.2026.105328",
+  "url": "https://doi.org/10.1016/j.tra.2026.105328",
+  "added": "2026-11-02",
+  "themes": [
+   "transport"
+  ],
+  "summary": ""
+ },
+ {
+  "journal": "Transportation Research Part A: Policy and Practice",
+  "group": "Urban / spatial / econ geography",
+  "date": "2026-10-31",
+  "title": "Analyzing the impact of high-risk recidivist drivers using nationwide automated enforcement data: policy innovations for managing habitual traffic violators",
+  "authors": "Donghyeok Park; Juneyoung Park; Minjeong Kwon; Junghwa Kim; Junhan Cho",
+  "keywords": "",
+  "abstract": "",
+  "doi": "10.1016/j.tra.2026.105340",
+  "url": "https://doi.org/10.1016/j.tra.2026.105340",
+  "added": "2026-11-02",
+  "themes": [
+   "policy",
+   "transport"
+  ],
+  "summary": ""
+ },
+ {
+  "journal": "Transportation Research Part A: Policy and Practice",
+  "group": "Urban / spatial / econ geography",
+  "date": "2026-10-31",
+  "title": "Comparing touch, voice, and gesture interaction for in-vehicle information systems: A multimodal assessment of mental workload, driving performance, and situation awareness",
+  "authors": "Qing-Xing Qu; Yiru Zhao; Zhongyang Xiao; Qiman Tan; Fu Guo; Vincent G. Duffy; Kai Tian; Wei Lyu",
+  "keywords": "",
+  "abstract": "",
+  "doi": "10.1016/j.tra.2026.105336",
+  "url": "https://doi.org/10.1016/j.tra.2026.105336",
+  "added": "2026-11-02",
+  "themes": [
+   "transport"
+  ],
+  "summary": ""
+ },
+ {
+  "journal": "Transportation Research Part A: Policy and Practice",
+  "group": "Urban / spatial / econ geography",
+  "date": "2026-10-30",
+  "title": "Behavioral externalities and the hidden cost of fare evasion in Santiago de Chile and New York City",
+  "authors": "Bastian Henriquez-Jara; Diego Candia; Ricardo A. Daziano",
+  "keywords": "",
+  "abstract": "",
+  "doi": "10.1016/j.tra.2026.105337",
+  "url": "https://doi.org/10.1016/j.tra.2026.105337",
+  "added": "2026-11-02",
+  "themes": [
+   "policy"
+  ],
+  "summary": ""
+ },
+ {
+  "journal": "Transportation Research Part A: Policy and Practice",
+  "group": "Urban / spatial / econ geography",
+  "date": "2026-10-30",
+  "title": "Factors influencing aircraft ground delays in passenger air transport: Evidence from China",
+  "authors": "Yuwei Zhou; Lei Bian; Hanjun Wu",
+  "keywords": "",
+  "abstract": "",
+  "doi": "10.1016/j.tra.2026.105329",
+  "url": "https://doi.org/10.1016/j.tra.2026.105329",
+  "added": "2026-11-02",
+  "themes": [
+   "transport"
+  ],
+  "summary": ""
+ },
+ {
+  "journal": "Transportation Research Part A: Policy and Practice",
+  "group": "Urban / spatial / econ geography",
+  "date": "2026-10-30",
+  "title": "Differentiated port fees and efficiency: evidence from Sino–U.S. liner shipping",
+  "authors": "Kevin X. Li; Xinping Zhao; Guanqiong Ye; Zoey Yi Xiao",
+  "keywords": "",
+  "abstract": "",
+  "doi": "10.1016/j.tra.2026.105332",
+  "url": "https://doi.org/10.1016/j.tra.2026.105332",
+  "added": "2026-11-02",
+  "themes": [
+   "housing"
+  ],
+  "summary": ""
+ },
+ {
+  "journal": "Transportation Research Part A: Policy and Practice",
+  "group": "Urban / spatial / econ geography",
+  "date": "2026-10-30",
+  "title": "Tradable credit schemes to decarbonize commuting trips: Insights from a field trial in a university setting",
+  "authors": "Isabella Waldorf; Erik Verhoef; Klaus Bogenberger",
+  "keywords": "",
+  "abstract": "",
+  "doi": "10.1016/j.tra.2026.105335",
+  "url": "https://doi.org/10.1016/j.tra.2026.105335",
+  "added": "2026-11-02",
+  "themes": [
+   "climate",
+   "transport"
+  ],
+  "summary": ""
+ },
+ {
+  "journal": "Transportation Research Part A: Policy and Practice",
+  "group": "Urban / spatial / econ geography",
+  "date": "2026-10-28",
+  "title": "Reducing car use to support local climate goals: The potential role of small and medium-sized employers",
+  "authors": "Jesse Wise; Lorraine Whitmarsh; Sam Hampton",
+  "keywords": "",
+  "abstract": "",
+  "doi": "10.1016/j.tra.2026.105196",
+  "url": "https://doi.org/10.1016/j.tra.2026.105196",
+  "added": "2026-11-02",
+  "themes": [
+   "climate",
+   "labor"
+  ],
+  "summary": ""
+ },
+ {
+  "journal": "Transportation Research Part A: Policy and Practice",
+  "group": "Urban / spatial / econ geography",
+  "date": "2026-10-28",
+  "title": "Ranking transport projects in benefit–cost analysis: A welfare–consistent profitability measure under general and sectoral budget constraints",
+  "authors": "James Odeck",
+  "keywords": "",
+  "abstract": "",
+  "doi": "10.1016/j.tra.2026.105327",
+  "url": "https://doi.org/10.1016/j.tra.2026.105327",
+  "added": "2026-11-02",
+  "themes": [
+   "transport"
+  ],
+  "summary": ""
+ },
+ {
+  "journal": "Transportation Research Part A: Policy and Practice",
+  "group": "Urban / spatial / econ geography",
+  "date": "2026-10-27",
+  "title": "Optimising toll prices and speed limits for minimising emissions in Zealand, Denmark, using a dynamic multi-region MFD SUE traffic model",
+  "authors": "Lawrence Christopher Duncan; Thomas Kjær Rasmussen; David Paul Watling; Ravi Seshadri",
+  "keywords": "",
+  "abstract": "",
+  "doi": "10.1016/j.tra.2026.105287",
+  "url": "https://doi.org/10.1016/j.tra.2026.105287",
+  "added": "2026-11-02",
+  "themes": [
+   "climate",
+   "transport"
+  ],
+  "summary": ""
+ },
+ {
+  "journal": "Transportation Research Part A: Policy and Practice",
+  "group": "Urban / spatial / econ geography",
+  "date": "2026-10-26",
+  "title": "Managing urban transportation carbon emissions through integrated personal and corporate carbon trading systems",
+  "authors": "Yong Lyu; Tiande Mo; Fangni Zhang",
+  "keywords": "",
+  "abstract": "",
+  "doi": "10.1016/j.tra.2026.105331",
+  "url": "https://doi.org/10.1016/j.tra.2026.105331",
+  "added": "2026-11-02",
+  "themes": [
+   "climate",
+   "transport"
+  ],
+  "summary": ""
+ },
+ {
+  "journal": "Journal of Geographical Systems",
+  "group": "Core regional science",
+  "date": "2026-10-27",
+  "title": "Accounting for terrain slope in transport policy: a spatial machine learning approach to accessibility and carbon emissions evaluation",
+  "authors": "Linyan Luo; Tsutomu Suzuki",
+  "keywords": "",
+  "abstract": "",
+  "doi": "10.1007/s10109-026-00525-3",
+  "url": "https://doi.org/10.1007/s10109-026-00525-3",
+  "added": "2026-11-02",
+  "themes": [
+   "climate",
+   "transport"
+  ],
+  "summary": ""
+ },
+ {
+  "journal": "Networks and Spatial Economics",
+  "group": "Core regional science",
+  "date": "2026-10-29",
+  "title": "Spatial Effects of Sex on Job Quality in a Developing Country",
+  "authors": "Jhon James Mora Rodriguez; Diana Yaneth Herrera; Juan Tomás Sayago",
+  "keywords": "",
+  "abstract": "This article analyzes job quality using a spatial model for men and women in the urban area of the city of Cali, Colombia. The results reveal positive spatial dependence among men and in the overall population, while no spatial effects are detected for women. In particular, work experience, completion of high school education, and commuting to work by motorcycle increase the probability of having a quality job in both the total population and among men. By contrast, being the head of the household, being a Venezuelan migrant, working in the construction sector, and the worsening of working conditions due to the COVID-19 pandemic negatively affect job quality in both groups of interest.",
+  "doi": "10.1007/s11067-026-09790-7",
+  "url": "https://doi.org/10.1007/s11067-026-09790-7",
+  "added": "2026-11-02",
+  "themes": [
+   "labor",
+   "transport"
+  ],
+  "summary": ""
+ },
+ {
+  "journal": "Networks and Spatial Economics",
+  "group": "Core regional science",
+  "date": "2026-10-27",
+  "title": "Comparing the Performance of Spatial Centrality Measures Through Predicting Improved-Property Values: Evidence from Porto Alegre, Brazil",
+  "authors": "Ramon Lucato de Aguilar; Alexander Hellervik",
+  "keywords": "",
+  "abstract": "Several spatial centrality measures have been proposed to capture the differentiation of urban space. Accessibility measures appraise ease of access to other locations; intermediation measures describe a location’s control over network movement. Commonly used measures overlook attractors and the decay of interaction with distance, and preferential centrality and Freeman–Krafta centrality were introduced to incorporate, respectively, the agglomeration of activities and distance decay. This article compares five measures – closeness, betweenness, Freeman–Krafta centrality, and preferential centrality with and without its agglomeration term – in Porto Alegre, Brazil. The dependent variable is improved-property value per square metre of land, built from 2022 property transactions and the municipal unit registry. The comparison is made for 7,775 address records and, after aggregation, for 812 hexagonal cells of 500 m. Performance is defined once, as the coefficient on standardized predictors and the trend-only prediction error under spatially blocked cross-validation. In the headline specifications the three accessibility measures are more closely associated with the outcome than the two intermediation measures at both levels, and preferential centrality with agglomeration has the largest standardized coefficient and the lowest prediction error at both, although its advantage over the version without agglomeration is small and does not hold under every specification. Betweenness and Freeman–Krafta centrality are indistinguishable from zero at the address level and positive and significant at the 500 m cells. Built-area controls substantially attenuate the accessibility associations, highlighting the importance of building intensity and property composition.",
+  "doi": "10.1007/s11067-026-09803-5",
+  "url": "https://doi.org/10.1007/s11067-026-09803-5",
+  "added": "2026-11-02",
+  "themes": [
+   "housing",
+   "transport"
+  ],
+  "summary": ""
+ },
+ {
+  "journal": "Asia-Pacific Journal of Regional Science",
+  "group": "Core regional science",
+  "date": "2026-10-31",
+  "title": "Can climate literacy empower disaster affected farmers: examining the moderated- mediation model of ecological emotion and green production behavior",
+  "authors": "Pooja Jena; Sugyanta Priyadarshini",
+  "keywords": "",
+  "abstract": "",
+  "doi": "10.1007/s41685-026-00450-9",
+  "url": "https://doi.org/10.1007/s41685-026-00450-9",
+  "added": "2026-11-02",
+  "themes": [
+   "climate",
+   "rural"
+  ],
+  "summary": ""
+ },
+ {
+  "journal": "Socio-Economic Planning Sciences",
+  "group": "Core regional science",
+  "date": "2026-10-31",
+  "title": "The Innovation-Capability Mismatch: Relative Technological Distance and Entrepreneurial Structural Rigidity in Chinese Cities",
+  "authors": "Xin Yang; Tao Zhou",
+  "keywords": "",
+  "abstract": "",
+  "doi": "10.1016/j.seps.2026.102639",
+  "url": "https://doi.org/10.1016/j.seps.2026.102639",
+  "added": "2026-11-02",
+  "themes": [
+   "policy"
+  ],
+  "summary": ""
+ },
+ {
+  "journal": "Socio-Economic Planning Sciences",
+  "group": "Core regional science",
+  "date": "2026-10-29",
+  "title": "Regional Digitalisation in Europe: Institutional, Cohesion-Policy and Innovation Conditions in a Spatial Framework",
+  "authors": "Chiara Colamartino; Marco Barone; Candida Bussoli; Pierluigi Toma",
+  "keywords": "",
+  "abstract": "",
+  "doi": "10.1016/j.seps.2026.102640",
+  "url": "https://doi.org/10.1016/j.seps.2026.102640",
+  "added": "2026-11-02",
+  "themes": [
+   "policy",
+   "digital"
+  ],
+  "summary": ""
+ },
+ {
+  "journal": "Socio-Economic Planning Sciences",
+  "group": "Core regional science",
+  "date": "2026-10-29",
+  "title": "Leaving Beijing before the digital megacity: A random forest analysis of out-migration",
+  "authors": "Leonardo Salvatore Alaimo; Mattia Secondino Bolognone",
+  "keywords": "",
+  "abstract": "",
+  "doi": "10.1016/j.seps.2026.102627",
+  "url": "https://doi.org/10.1016/j.seps.2026.102627",
+  "added": "2026-11-02",
+  "themes": [
+   "digital",
+   "labor"
+  ],
+  "summary": ""
+ },
+ {
+  "journal": "Socio-Economic Planning Sciences",
+  "group": "Core regional science",
+  "date": "2026-10-29",
+  "title": "Transportation infrastructures and income: A quantile regression approach",
+  "authors": "Filippo Gregori; Luca Secondi; Ilaria Benedetti",
+  "keywords": "",
+  "abstract": "",
+  "doi": "10.1016/j.seps.2026.102635",
+  "url": "https://doi.org/10.1016/j.seps.2026.102635",
+  "added": "2026-11-02",
+  "themes": [
+   "transport"
+  ],
+  "summary": ""
+ },
+ {
+  "journal": "Socio-Economic Planning Sciences",
+  "group": "Core regional science",
+  "date": "2026-10-29",
+  "title": "Life satisfaction in the European Union: A theory-guided multilevel analysis of country-year data, 2013–2025",
+  "authors": "Alfonso Piscitelli; Girolamo Franchetti; Massimiliano Politano; Antonio D'Ambrosio",
+  "keywords": "",
+  "abstract": "",
+  "doi": "10.1016/j.seps.2026.102641",
+  "url": "https://doi.org/10.1016/j.seps.2026.102641",
+  "added": "2026-11-02",
+  "themes": [
+   "policy"
+  ],
+  "summary": ""
+ },
+ {
+  "journal": "Socio-Economic Planning Sciences",
+  "group": "Core regional science",
+  "date": "2026-10-28",
+  "title": "Assessing the relative efficiency of China’s high-tech industries: A two-stage nonconvex data envelopment analysis model",
+  "authors": "Qiao-xia Qi; Fang-ping Shang; Guo-liang Yang",
+  "keywords": "",
+  "abstract": "",
+  "doi": "10.1016/j.seps.2026.102637",
+  "url": "https://doi.org/10.1016/j.seps.2026.102637",
+  "added": "2026-11-02",
+  "themes": [
+   "markets"
+  ],
+  "summary": ""
+ },
+ {
+  "journal": "Socio-Economic Planning Sciences",
+  "group": "Core regional science",
+  "date": "2026-10-27",
+  "title": "Location-routing problem in humanitarian logistics: A systematic and bibliometric analysis",
+  "authors": "Yelda Inanc; Erkan Celik",
+  "keywords": "",
+  "abstract": "",
+  "doi": "10.1016/j.seps.2026.102633",
+  "url": "https://doi.org/10.1016/j.seps.2026.102633",
+  "added": "2026-11-02",
+  "themes": [
+   "policy"
+  ],
+  "summary": ""
+ },
+ {
+  "journal": "Socio-Economic Planning Sciences",
+  "group": "Core regional science",
+  "date": "2026-10-27",
+  "title": "Higher-order productivity persistence and sectoral allocation: Micro-level evidence from Türkiye",
+  "authors": "Necla Arslan; Gamze Özel",
+  "keywords": "",
+  "abstract": "",
+  "doi": "10.1016/j.seps.2026.102625",
+  "url": "https://doi.org/10.1016/j.seps.2026.102625",
+  "added": "2026-11-02",
+  "themes": [
+   "policy"
+  ],
+  "summary": ""
+ },
+ {
+  "journal": "REGION",
+  "group": "Core regional science",
+  "date": "2026-10-28",
+  "title": "Digitalisation and regional inequality",
+  "authors": "Bogdan Ibanescu; Alexandra Gheorghiu; Ioana-Maria Ursache",
+  "keywords": "",
+  "abstract": "Digitalisation has been widely presented, especially in Central and Eastern European countries, as an additional engine for regional convergence and an accelerator of the catching-up process. Although the pace and depth of this process have varied greatly over the past decade, limiting the possibility of a thorough impact evaluation, recent data combined with nationally representative surveys allow for a better assessment of its promises. This study examines regional variations in digital inequalities in Romania, focusing on how disparities evolve across the three levels of the digital divide (access, skills/usage, and outcomes). The results indicate that, while digitalisation has been hailed as a catching-up engine for the peripheral regions, this appears to be the case mostly for the first-level of the digital divide, namely infrastructure and access. When second- and third-level digital inequalities are taken into consideration, the initial rifts reappear, and digitalisation functions as a new divider and not as a uniformiser. The paper argues for a unitary policy approach in which digitalisation moves beyond a predominantly technological vision and is complemented by strong efforts in fields such as education, skills formation, training, and support actions that enable the effective use and exploitation of digital resources at competitive levels, including in peripheral regions.",
+  "doi": "10.18335/region.v13i2.665",
+  "url": "https://doi.org/10.18335/region.v13i2.665",
+  "added": "2026-11-02",
+  "themes": [
+   "digital",
+   "policy"
+  ],
+  "summary": ""
+ },
+ {
+  "journal": "The Review of Regional Studies",
+  "group": "Core regional science",
+  "date": "2026-11-01",
+  "title": "Uneven Pattern in Natural-Amenity Driven Growth",
+  "authors": "Yong Chen; Myungjin Kim",
+  "keywords": "",
+  "abstract": "This paper examines the uneven regional pattern in the amenity-driven growth in the USA. It proposes that the uneven pattern could be driven by the dual nature of natural amenities, considering both their quality-of-life effects on households and their productivity effects on firms. A quantitative spatial equilibrium model (QSE) is modified to generate a spatially varying effect of natural amenities on local population growth. The modified QSE model also justifies the introduction of a partially linear spatially varying coefficient model and the adoption of a statistical learning method: the Bivariate Penalized Spline Estimation over Triangulation (BPST). By highlighting the importance of the spatially varying productivity effects, the research shows that natural-amenity-driven growth is not a panacea for rural community development.",
+  "doi": "10.52324/001c.173439",
+  "url": "https://doi.org/10.52324/001c.173439",
+  "added": "2026-11-02",
+  "themes": [
+   "markets",
+   "rural"
+  ],
+  "summary": ""
+ },
+ {
+  "journal": "Review of Regional Research",
+  "group": "Core regional science",
+  "date": "2026-10-28",
+  "title": "Territorial Scales and Firms’ Investment in Innovation: Multilevel Evidence from Ecuador",
+  "authors": "Juan Fernández-Sastre; Juan Esteban González",
+  "keywords": "",
+  "abstract": "",
+  "doi": "10.1007/s10037-026-00299-7",
+  "url": "https://doi.org/10.1007/s10037-026-00299-7",
+  "added": "2026-11-02",
+  "themes": [
+   "markets"
+  ],
+  "summary": ""
+ },
+ {
+  "journal": "Journal of Economic Structures",
+  "group": "Core regional science",
+  "date": "2026-11-02",
+  "title": "Financial distress unveiled: two decades of Canadian household dynamics",
+  "authors": "Samrana Choudhury; Murshed Chowdhury; Khan Islam",
+  "keywords": "",
+  "abstract": "",
+  "doi": "10.1186/s40008-026-00385-6",
+  "url": "https://doi.org/10.1186/s40008-026-00385-6",
+  "added": "2026-11-02",
+  "themes": [
+   "markets"
+  ],
+  "summary": ""
+ },
+ {
+  "journal": "Journal of Economic Structures",
+  "group": "Core regional science",
+  "date": "2026-10-27",
+  "title": "The regional economic role of tourism consumption and its inter-industry linkages: evidence from a subnational region in Japan",
+  "authors": "Mingji Zhu; Taku Ishiro",
+  "keywords": "",
+  "abstract": "",
+  "doi": "10.1186/s40008-026-00387-4",
+  "url": "https://doi.org/10.1186/s40008-026-00387-4",
+  "added": "2026-11-02",
+  "themes": [
+   "markets"
+  ],
+  "summary": ""
+ },
+ {
+  "journal": "Investigaciones Regionales-Journal of Regional Research",
+  "group": "Core regional science",
+  "date": "2026-10-27",
+  "title": "The importance of the regional context for the development of local smart tourism destinations",
+  "authors": "Carmen Ramos Carvajal; Lorena García Alonso; Blanca Moreno Cuartas",
+  "keywords": "",
+  "abstract": "This study examines how regional characteristics inﬂuence the development of local Smart Tourism Destinations (STDs) in its territory, highlighting that, beyond city level initiatives, regional contexts play a key role by shaping the enabling conditions for smart transformation. Despite this relevance, the extent to which regional strategies aﬀect the development of local STDs remains largely unexplored in the existing literature, resulting in a gap that this research aims to address. To capture the territorial factors that condition STD development, the study proposes a synthetic indicator: the Regional Index of Smart Destination Enablers. is index integrates information from a set of indicators aligned with the strategic pillars of SEGITTUR’s model, which deﬁnes the essential dimensions of smartness in tourism destinations. The resulting indicator is applied to Spain’s Autonomous Communities to assess the suitability of the context they provide for the development of local STDs.",
+  "doi": "10.38191/iirr-jorr.26.014",
+  "url": "https://doi.org/10.38191/iirr-jorr.26.014",
+  "added": "2026-11-02",
+  "themes": [
+   "digital",
+   "markets"
+  ],
+  "summary": ""
+ },
+ {
+  "journal": "Investigaciones Regionales-Journal of Regional Research",
+  "group": "Core regional science",
+  "date": "2026-10-27",
+  "title": "Fragmentación de la tierra y productividad agrícola en el Perú",
+  "authors": "Sebastian Rolando Ayala-Beas",
+  "keywords": "",
+  "abstract": "El objetivo de la investigación es determinar el efecto de la fragmentación de la tierra sobre la productividad agrícola en el Perú. La estimación de regresión umbral para una muestra de 34 056 unidades agropecuarias de la Encuesta Nacional Agropecuaria 2024, indica que la relación entre fragmentación y productividad presenta forma de U, con un punto de inﬂexión en un Índice de Januszewski (IJ) de 0.84. Por debajo de este valor, un aumento de 0.01 en el IJ reduce la productividad en 0.914%; por encima, la incrementa en 5.070%. Los hallazgos contribuyen a comprender mejor el territorio agrícola del país.",
+  "doi": "10.38191/iirr-jorr.26.015",
+  "url": "https://doi.org/10.38191/iirr-jorr.26.015",
+  "added": "2026-11-02",
+  "themes": [
+   "policy"
+  ],
+  "summary": ""
+ },
+ {
+  "journal": "Revue d'Economie Regionale et Urbaine",
+  "group": "Core regional science",
+  "date": "2026-10-31",
+  "title": "GREAT MINDS All fit within the umbrella of regional science studies. P. Batey, D. Plane Editors, Great Minds in Regional Science, Vol. 3, The Regional Science Academy, Springer, 2025, 277 pages.",
+  "authors": "Claude Lacour",
+  "keywords": "",
+  "abstract": "",
+  "doi": "10.3917/reru.264.0707",
+  "url": "https://doi.org/10.3917/reru.264.0707",
+  "added": "2026-11-02",
+  "themes": [
+   "policy"
+  ],
+  "summary": ""
+ },
+ {
+  "journal": "Revue d'Economie Regionale et Urbaine",
+  "group": "Core regional science",
+  "date": "2026-10-31",
+  "title": "Proximité, une heuristique des relations interindividuelles des membres d’une organisation : proposition et validation d’un instrument de mesure",
+  "authors": "Cyril Verdier",
+  "keywords": "",
+  "abstract": "Cet article contribue au développement méthodologique du programme de recherche de l’École de la proximité sur la définition d’une formalisation et d’une mesure robuste de la proximité. Nous proposons un instrument de mesure des dimensions géographique, organisationnelle, institutionnelle, cognitive et sociale de la proximité permettant d’identifier, décrire et analyser les interactions entre les acteurs économiques, et plus particulièrement dans notre étude des relations interindividuelles des membres d’une organisation. A partir d’un jeu de données de 750 observations collectées avec une enquête, nous démontrons la robustesse statistique de l’instrument de mesure proposé, ainsi que sa souplesse d’application à différents profils de répondants. Cette étude appuie le fort potentiel heuristique du cadre d’analyse de la proximité et encourage à le développer encore davantage pour mieux apprécier la coordination des acteurs économiques.",
+  "doi": "10.3917/reru.264.0645",
+  "url": "https://doi.org/10.3917/reru.264.0645",
+  "added": "2026-11-02",
+  "themes": [
+   "housing"
+  ],
+  "summary": ""
+ },
+ {
+  "journal": "Revue d'Economie Regionale et Urbaine",
+  "group": "Core regional science",
+  "date": "2026-10-31",
+  "title": "Savy, M (2025), Les Nouveaux Enjeux de la logistique. Odile Jacob, Paris, 304 p.",
+  "authors": "Soraya Saadi Cauvin",
+  "keywords": "",
+  "abstract": "",
+  "doi": "10.3917/reru.264.0693b",
+  "url": "https://doi.org/10.3917/reru.264.0693b",
+  "added": "2026-11-02",
+  "themes": [
+   "policy"
+  ],
+  "summary": ""
+ },
+ {
+  "journal": "Revue d'Economie Regionale et Urbaine",
+  "group": "Core regional science",
+  "date": "2026-10-31",
+  "title": "High-speed rail and Tourism attractiveness: New empirical evidence from Spain",
+  "authors": "Yvan Tegui; Marta L. Suárez-Tostado",
+  "keywords": "",
+  "abstract": "L’expansion des réseaux de train à grande vitesse (TGV) est souvent présentée comme un levier du développement touristique, mais son impact réel reste débattu. Cet article propose de nouvelles preuves empiriques sur l’effet du TGV sur les flux touristiques bilatéraux en Espagne, à partir d’un modèle de gravité. En tenant compte des liaisons directes entre régions d’origine et de destination, notre analyse permet d’évaluer plus finement la manière dont la connectivité interrégionale influence la demande touristique. Les résultats montrent que le TGV accroît significativement les flux touristiques, avec des effets plus marqués dans les régions rurales et non côtières que dans les zones métropolitaines. Ils mettent également en évidence le rôle du TGV dans la promotion d’un tourisme plus durable. Ces conclusions soulignent l’importance d’une stratégie d’expansion du TGV attentive aux disparités territoriales, aux objectifs de durabilité et à la résilience économique de long terme.",
+  "doi": "10.3917/reru.264.0617",
+  "url": "https://doi.org/10.3917/reru.264.0617",
+  "added": "2026-11-02",
+  "themes": [
+   "housing",
+   "transport"
+  ],
+  "summary": ""
+ },
+ {
+  "journal": "Revue d'Economie Regionale et Urbaine",
+  "group": "Core regional science",
+  "date": "2026-10-31",
+  "title": "Dialectique rural/urbain, l’osmose inattendue en montagne ?",
+  "authors": "Ameziane Ben Allak; Andrea Almawi",
+  "keywords": "",
+  "abstract": "Le présent article traite de la problématique de l’urbanisation en zone de montagne dans la wilaya de Tizi-Ouzou, en Algérie. Le fait montagnard est indéniable dans cette zone géographique réputée pour son armature villageoise dense et en hauteur. Depuis la moitié du xx ᵉ siècle, une transition du rural à l’urbain commence à s’opérer, donnant naissance à des centres urbains aux identités atypiques, à mi-chemin entre bourg et ville intermédiaire. Nous verrons les implications de l’urbanisation sur cette zone, notamment par le mode de vie et le choix de localisation entre le rural et l’urbain des différents agents (acteurs) en montagne. Notre recherche s’est principalement appuyée sur un travail de terrain réalisé dans les localités du massif montagneux du Djurdjura. Pour ce faire, l’approche méthodologique adoptée est de nature qualitative. Au-delà de la visée descriptive de l’organisation spatiale, nous constatons un équilibre implicite entre forces centrifuges et centripètes dans le maintien de l’équilibre entre ruralité et urbanité au massif montagneux du Djurdjura.",
+  "doi": "10.3917/reru.264.0587",
+  "url": "https://doi.org/10.3917/reru.264.0587",
+  "added": "2026-11-02",
+  "themes": [
+   "rural",
+   "housing"
+  ],
+  "summary": ""
+ },
+ {
+  "journal": "Revue d'Economie Regionale et Urbaine",
+  "group": "Core regional science",
+  "date": "2026-10-31",
+  "title": "L’inégal développement des territoires, une décomposition de la croissance de l’emploi départemental en France métropolitaine (2009-2019)",
+  "authors": "Michel Rompteau; Laurence Diederichs-Diop; Véronique Thireau; Marc Olivaux",
+  "keywords": "",
+  "abstract": "Cet article se propose de contribuer à la compréhension des inégalités de développement entre les départements métropolitains français. Une analyse Shift-Share portant classiquement sur le taux de croissance de l’emploi est réalisée à l’échelle départementale sur la décennie précédant le choc induit par le Covid-19. Elle vient confirmer l’importance des facteurs locaux dans les processus menant aux inégalités. Une analyse statistique de cette composante locale sous forme de régression linéaire permet l’identification des facteurs impactant le développement et montre que les caractéristiques géographiques prédominent dans l’explication sur les variables socio-économiques, relativisant par ailleurs le rôle des effets de voisinage interdépartementaux. Cet article a été réalisé dans le cadre d’une thèse CIFRE financée par le Département des Bouches-du-Rhône.",
+  "doi": "10.3917/reru.264.0561",
+  "url": "https://doi.org/10.3917/reru.264.0561",
+  "added": "2026-11-02",
+  "themes": [
+   "markets",
+   "health"
+  ],
+  "summary": ""
+ },
+ {
+  "journal": "Revue d'Economie Regionale et Urbaine",
+  "group": "Core regional science",
+  "date": "2026-10-31",
+  "title": "Quand les cadres se ségrégent, les entreprises les aident",
+  "authors": "Mathieu Obertelli; Sébastien Bourdin; Arnaud Simon",
+  "keywords": "",
+  "abstract": "Les emplois sont au cœur des analyses sur la ségrégation résidentielle dans les métropoles. Pourtant, peu d’études empiriques mesurent la répartition socio-spatiale des emplois et son lien avec les stratégies résidentielles des travailleurs. Cet article vise précisément à répondre à cette lacune, dans le cas d’une métropole européenne comme celle du Grand Paris. À partir de données sur la période 2006-2021, nous mobilisons une méthodologie qui combine des indices quantitatifs de ségrégation et des productions cartographiques afin d’identifier les dynamiques d’inégalités socio-spatiales entre les catégories socio-professionnelles. Les résultats révèlent que les emplois tertiaires suivent une répartition socio-spatiale de plus en plus inégalitaire dans l’espace métropolitain. Ces inégalités existent surtout entre les cadres du secteur privé et les autres catégories, ce qui n’est pas sans incidence pour les résidents qui suivent leur emploi. En ce sens, les choix de localisation des entreprises jouent un rôle dans la formation des inégalités socio-spatiales des résidents.",
+  "doi": "10.3917/reru.264.0527",
+  "url": "https://doi.org/10.3917/reru.264.0527",
+  "added": "2026-11-02",
+  "themes": [
+   "housing"
+  ],
+  "summary": ""
+ },
+ {
+  "journal": "Revue d'Economie Regionale et Urbaine",
+  "group": "Core regional science",
+  "date": "2026-10-31",
+  "title": "Florentin, D., Castex , M., & Bastin, A. (2025). Quelle écologisation pour des modèles d’aménagement en question ? Collection « Recherche » du PUCA n° 246, 116 p.",
+  "authors": "Audrey Dupont - Camara",
+  "keywords": "",
+  "abstract": "",
+  "doi": "10.3917/reru.264.0693a",
+  "url": "https://doi.org/10.3917/reru.264.0693a",
+  "added": "2026-11-02",
+  "themes": [
+   "housing"
+  ],
+  "summary": ""
+ },
+ {
+  "journal": "Revue d'Economie Regionale et Urbaine",
+  "group": "Core regional science",
+  "date": "2026-10-31",
+  "title": "Migration et informalité comme régulations endogènes : une analyse des dynamiques socio-économiques en Guyane française",
+  "authors": "Moustapha Aladji; Gaëlle Lebeau",
+  "keywords": "",
+  "abstract": "Située entre l’Amérique du Sud et l’Europe, la Guyane française présente une économie officiellement européenne, mais façonnée par l’informalité et la migration. Cet article analyse, à partir d’une enquête ethnographique conduite entre 2019 et 2024, les dynamiques socio-économiques portées par des populations migrantes, notamment haïtiennes, brésiliennes et surinamaises. Loin des marges, l’économie informelle y constitue une forme de régulation fondée sur la proximité, la solidarité et la confiance. Dans un contexte de dépendance institutionnelle et de normes importées, la migration se révèle être un levier structurant d’initiatives économiques locales. Ces pratiques révèlent l’émergence d’un ordre autonome, souvent toléré, qui interroge la portée des cadres réglementaires imposés depuis l’hexagone. La Guyane se donne ainsi à voir comme un espace-laboratoire des périphéries globalisées, où les contraintes juridiques stimulent des formes d’innovation sociale enracinées. L’article questionne les effets d’une intégration européenne sur des territoires traversés par des logiques d’autonomisation migrante.",
+  "doi": "10.3917/reru.264.0671",
+  "url": "https://doi.org/10.3917/reru.264.0671",
+  "added": "2026-11-02",
+  "themes": [
+   "labor",
+   "markets"
+  ],
+  "summary": ""
  }
 ]

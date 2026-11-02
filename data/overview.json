@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-26",
- "window_note": "Latest sweep 2026-10-26, a catch-up covering the five weeks since 2026-09-21 (runs of Sep 28, Oct 5, Oct 12 and Oct 19 were missed; per-journal cap 75): +620 papers across 42 journals, 123 with verbatim abstracts (Crossref-deposited: Springer, SAGE, OUP, Wiley, some T&F). Largest batches: Journal of Rural Studies, Cities, Transportation Research A, Land Use Policy, Ecological Economics, Food Policy. Elsevier titles are linked by DOI without abstracts; the Elsevier API is reachable from the cloud but returns no abstract text, so the owner's browser self-heal covers those blanks. Annals of Regional Science and the small regional-language titles had nothing in Crossref this window.",
+ "updated": "2026-11-02",
+ "window_note": "Weekly update 2026-11-02: papers created in Crossref since 2026-10-19 (1-week window, up to 15 per journal); themes assigned by keyword heuristic.",
  "themes": [
   [
    "China's regional & urban transformation",
