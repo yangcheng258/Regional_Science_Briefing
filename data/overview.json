@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-09",
- "window_note": "Weekly update 2026-11-09: papers created in Crossref since 2026-10-26 (1-week window, up to 15 per journal); themes assigned by keyword heuristic; abstracts only where deposited in Crossref.",
+ "updated": "2026-11-16",
+ "window_note": "Weekly update 2026-11-16: papers created in Crossref since 2026-11-02 (1-week window plus overlap, up to 15 per journal; none capped); 102 older Elsevier abstracts filled from IDEAS/RePEc, 2 from Crossref; themes and one-sentence summaries assigned per paper.",
  "themes": [
   [
    "China's regional & urban transformation",
@@ -39,7 +39,7 @@
   {
    "id": "climate",
    "label": "Climate & green transition",
-   "desc": "Heat & accidents, floods & density, green-transition income gaps, carbon markets, circular economy, environmental quality."
+   "desc": "Heat & accidents, floods & density, green-transition income gaps, carbon markets, circular economy, environmental quality, weather shocks & firms."
   },
   {
    "id": "housing",
